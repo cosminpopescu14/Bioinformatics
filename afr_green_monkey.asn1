@@ -1,0 +1,186 @@
+Seq-entry ::= seq {
+  id {
+    genbank {
+      name "AGMSV40RP" ,
+      accession "K01786" ,
+      version 1 } ,
+    gi 176550 } ,
+  descr {
+    title "African green monkey SV40 homologue replication origin." ,
+    source {
+      org {
+        taxname "Chlorocebus aethiops" ,
+        common "grivet" ,
+        db {
+          {
+            db "taxon" ,
+            tag
+              id 9534 } } ,
+        orgname {
+          name
+            binomial {
+              genus "Chlorocebus" ,
+              species "aethiops" } ,
+          mod {
+            {
+              subtype old-name ,
+              subname "Cercopithecus aethiops" } ,
+            {
+              subtype gb-synonym ,
+              subname "Cercopithecus aethiops" } } ,
+          lineage "Eukaryota; Metazoa; Chordata; Craniata; Vertebrata;
+ Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+ Catarrhini; Cercopithecidae; Cercopithecinae; Chlorocebus" ,
+          gcode 1 ,
+          mgcode 2 ,
+          div "PRI" } } } ,
+    molinfo {
+      biomol genomic } ,
+    pub {
+      pub {
+        gen {
+          serial-number 1 } ,
+        muid 82271832 ,
+        article {
+          title {
+            name "Three segments from the monkey genome that hybridize to
+ simian virus 40 have common structural elements." } ,
+          authors {
+            names
+              std {
+                {
+                  name
+                    name {
+                      last "Queen" ,
+                      initials "C." } } ,
+                {
+                  name
+                    name {
+                      last "Lord" ,
+                      initials "S.T." } } ,
+                {
+                  name
+                    name {
+                      last "McCutchan" ,
+                      initials "T.F." } } ,
+                {
+                  name
+                    name {
+                      last "Singer" ,
+                      initials "M.F." } } } } ,
+          from
+            journal {
+              title {
+                iso-jta "Mol. Cell. Biol." ,
+                ml-jta "Mol Cell Biol" ,
+                issn "0270-7306" ,
+                name "Molecular and cellular biology." } ,
+              imp {
+                date
+                  std {
+                    year 1981 ,
+                    month 12 } ,
+                volume "1" ,
+                issue "12" ,
+                pages "1061-1068" ,
+                language "eng" } } ,
+          ids {
+            pubmed 6287216 ,
+            medline 82271832 } } ,
+        pmid 6287216 } ,
+      comment "full staff_review" } ,
+    pub {
+      pub {
+        gen {
+          serial-number 2 } ,
+        muid 85270437 ,
+        article {
+          title {
+            name "Transcription factor Sp1 recognizes promoter sequences from
+ the monkey genome that are simian virus 40 promoter." } ,
+          authors {
+            names
+              std {
+                {
+                  name
+                    name {
+                      last "Dynan" ,
+                      initials "W.S." } } ,
+                {
+                  name
+                    name {
+                      last "Saffer" ,
+                      initials "J.D." } } ,
+                {
+                  name
+                    name {
+                      last "Lee" ,
+                      initials "W.S." } } ,
+                {
+                  name
+                    name {
+                      last "Tjian" ,
+                      initials "R." } } } } ,
+          from
+            journal {
+              title {
+                iso-jta "Proc. Natl. Acad. Sci. U.S.A." ,
+                ml-jta "Proc Natl Acad Sci U S A" ,
+                issn "0027-8424" ,
+                name "Proceedings of the National Academy of Sciences of the
+ United States of America." } ,
+              imp {
+                date
+                  std {
+                    year 1985 ,
+                    month 8 } ,
+                volume "82" ,
+                issue "15" ,
+                pages "4915-4919" ,
+                language "eng" } } ,
+          ids {
+            pubmed 2991898 ,
+            medline 85270437 } } ,
+        pmid 2991898 } ,
+      reftype sites } ,
+    comment "[2]  sites; Sp1 binding sites.~Draft entry and clean copy
+ sequences for [2] kindly provided by W.Dynan, 31-OCT-1985.~Two segments of
+ monkey DNA were hybridized and compared to SV40 DNA. Each contained multiple
+ copies of the sequence 'gggcggrr' which also appears six times near the
+ origin of SV40 [1]. Both contained a long internal degenerate repeat [1]. The
+ SV40 origin of replication contains several long repeats [1]. The SV40
+ hybridizing segments are members of a larger family of genomic monkey
+ sequences that hybridize well to each other, but not necessarily to SV40 [1].
+ Two regions in the monkey DNA bind the promoter-specific cellular
+ transcription factor (SP1) and are protected by it in DNase protection
+ experiments [2]." ,
+    genbank {
+      source "African green monkey liver DNA, clone pCaOri7.01 [1]." ,
+      keywords {
+        "origin of replication" } ,
+      origin "SalI site." ,
+      entry-date
+        std {
+          year 1986 ,
+          month 8 ,
+          day 4 } } ,
+    create-date
+      std {
+        year 1993 ,
+        month 4 ,
+        day 27 } ,
+    update-date
+      std {
+        year 1986 ,
+        month 8 ,
+        day 4 } } ,
+  inst {
+    repr raw ,
+    mol dna ,
+    length 436 ,
+    strand ds ,
+    seq-data
+      ncbi2na 'D8512522D4E4DA8AF476BF98206A4A9391A5EA769A9A9A9A96A992F54AF651C
+8AD28AE167DAA7A086A56DBA3E9CB969A2A6A9A22EA9AA688BAA6A992F552F651C8AD28AE167DA
+A6A087A56DAA3E9CB969AAA6A9AAA68A9AAE86E917AF9E137A0E1FFFFA4DA3F5EDFEEA9E3A158'H } }
+

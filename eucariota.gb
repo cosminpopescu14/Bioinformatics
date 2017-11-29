@@ -1,0 +1,3235 @@
+LOCUS       NC_018468             161584 bp    DNA     linear   CON 22-JAN-2014
+DEFINITION  Encephalitozoon hellem ATCC 50504 chromosome I, complete sequence.
+ACCESSION   NC_018468
+VERSION     NC_018468.1  GI:401825290
+DBLINK      Project: 173349
+KEYWORDS    RefSeq.
+SOURCE      Encephalitozoon hellem ATCC 50504
+  ORGANISM  Encephalitozoon hellem ATCC 50504
+            Eukaryota; Fungi; Microsporidia; Unikaryonidae; Encephalitozoon.
+REFERENCE   1  (bases 1 to 161584)
+  AUTHORS   Pombert,J.F., Selman,M., Burki,F., Bardell,F.T., Farinelli,L.,
+            Solter,L.F., Whitman,D.W., Weiss,L.M., Corradi,N. and Keeling,P.J.
+  TITLE     Gain and loss of multiple functionally related, horizontally
+            transferred genes in the reduced genomes of two microsporidian
+            parasites
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 109 (31), 12638-12643 (2012)
+   PUBMED   22802648
+REFERENCE   2  (bases 1 to 161584)
+  AUTHORS   Pombert,J.-F., Corradi,N., Burki,F., Bardell,F., Selman,M.,
+            Weiss,L.M. and Keeling,P.J.
+  TITLE     The complete genome sequence of Encephalitozoon hellem ATCC 50504
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 161584)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   4  (bases 1 to 161584)
+  AUTHORS   Pombert,J.-F., Corradi,N., Burki,F., Bardell,F., Selman,M.,
+            Weiss,L.M. and Keeling,P.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2011) Botany, University of British Columbia,
+            2212 Main Hall Rm 380, Vancouver, British Columbia V6T 1Z4, Canada
+REFERENCE   5  (bases 1 to 161584)
+  AUTHORS   Selman,M., Pombert,J.-F., Solter,L., Farinelli,L., Weiss,L.M.,
+            Keeling,P.J. and Corradi,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-APR-2011) Biology, University of Ottowa, 30 Marie
+            Curie Priv., Gendron Hall, Rm. 257, Ottowa, Ontario K1N 6N5, Canada
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to CP002713.
+            Linear chromosome is missing the telomeric regions, but contains
+            most of the subtelomeric regions.
+FEATURES             Location/Qualifiers
+     source          1..161584
+                     /organism="Encephalitozoon hellem ATCC 50504"
+                     /mol_type="genomic DNA"
+                     /strain="ATCC 50504"
+                     /culture_collection="ATCC:50504"
+                     /db_xref="taxon:907965"
+                     /chromosome="I"
+     gene            complement(211..2731)
+                     /locus_tag="EHEL_010010"
+                     /db_xref="GeneID:13467225"
+     rRNA            complement(211..2731)
+                     /locus_tag="EHEL_010010"
+                     /product="5.8S-23S ribosomal RNA"
+                     /note="similar to ECU01_0023"
+                     /db_xref="GeneID:13467225"
+     gene            complement(2776..4087)
+                     /locus_tag="EHEL_010020"
+                     /db_xref="GeneID:13467231"
+     rRNA            complement(2776..4087)
+                     /locus_tag="EHEL_010020"
+                     /product="16S ribosomal RNA"
+                     /note="similar to ECU01_0025"
+                     /db_xref="GeneID:13467231"
+     gene            complement(<5941..>8538)
+                     /locus_tag="EHEL_010030"
+                     /db_xref="GeneID:13467234"
+     mRNA            complement(<5941..>8538)
+                     /locus_tag="EHEL_010030"
+                     /product="aminopeptidase N"
+                     /transcript_id="XM_003886560.1"
+                     /db_xref="GI:401825026"
+                     /db_xref="GeneID:13467234"
+     CDS             complement(5941..8538)
+                     /locus_tag="EHEL_010030"
+                     /note="similar to ECU01_0140"
+                     /codon_start=1
+                     /product="aminopeptidase N"
+                     /protein_id="XP_003886609.1"
+                     /db_xref="GI:401825027"
+                     /db_xref="GeneID:13467234"
+                     /translation="MKWIELMIGLMPMIEGRKMEGSSGTEFPRRLDRTVVPSHYDLHV
+                     KVMDTGFCGNVGIRVDISQPVDEIMMNAKELDVLSAGIEIDGRRIDGEVVMGDDEKEY
+                     EVVRIRFPSTIPKGEGYIVGEFCGDYNSGLVGFYKSGGESKVYSTHFEPTDARRVFPC
+                     FDQPDMKATFSISIDAPSNLVVLSNSPSVPSLRKEYGDRAIEYFTKTSKMSTYLVAFV
+                     AGELEYIEDWSKSGVRLRVYGQGKEEASWGRYGLEVAKRCIDYFEEYFGIEYEFPEKG
+                     MAKIDMIGIPSFGSGAMENWGLITFRKESLLYSDGKDSVEQKKNVAETVCHELGHMWF
+                     GNLVTMEWWDDLWLNEGFATWISFKGMSEIGKEYVDWDVEGEFVLWNVIRGMLEDGLG
+                     KSHKIRMEVSDPGEIGEIFDAISYSKGASIIRMVEKYVGESVFMSGIRRYIKEHMYGN
+                     GNGMSLWKAIGESYGKDISSMVEGWISQAGYPVISVSESGENLVLSQRRYSMLGKSDD
+                     SMWIVPVVITWGSGENESIEVGEREVVIPRRSDVYKVNSSYAGFYRVLYEADALRRLE
+                     ERLEEMGDMDRVNMVEDVFGLGFGLYGGIGERLRKIGEYYSDGYCVARSTVEKLMRIR
+                     SVFYDDAEIVSAVDKRVLGLIEERIESIDTSVCETSVERISMNKYLLSVGIEVGSASA
+                     MRKVSELWRRHVEEGAELGELRWIVYKGVVDDNLEHLIGEYKSGRRPGTRWEVISGFS
+                     GIKRKESFAEVVKRLCEFSVEDIGVVIAIICRSGNFRDEMVEYVVSHREELYSMVQKN
+                     VMLYNTIVMSLRHVSSDPMVEKVSEFLSGIKHSGSSLSIEKVRDEIEWRRRMRGVRDE
+                     ILAGLCSSE"
+     gene            <8586..>9200
+                     /locus_tag="EHEL_010040"
+                     /db_xref="GeneID:13467236"
+     mRNA            <8586..>9200
+                     /locus_tag="EHEL_010040"
+                     /product="dihydrofolate reductase"
+                     /transcript_id="XM_003886561.1"
+                     /db_xref="GI:401825028"
+                     /db_xref="GeneID:13467236"
+     CDS             8586..9200
+                     /locus_tag="EHEL_010040"
+                     /note="similar to ECU01_0170"
+                     /codon_start=1
+                     /product="dihydrofolate reductase"
+                     /protein_id="XP_003886610.1"
+                     /db_xref="GI:401825029"
+                     /db_xref="GeneID:13467236"
+                     /translation="MFALIVAFAKNKGIGKNNRLPWPPLRTDMSWFRTLSQSVPLITS
+                     DRIDLSPSSSNAVVMGRKTWDSIPPRFQPLPNRTNIVLSRRPGISTENTLFISAFGDI
+                     EHLRIPSSSMVFVIGGHDIYSLAIQSGRAHIIFATEISESLECDVFFPRIDWDAYERR
+                     DITREVSGLVGKDLADAFYNTEANAFTENGITFKMFIYIKHGAL"
+     gene            <9242..>10126
+                     /locus_tag="EHEL_010050"
+                     /db_xref="GeneID:13467239"
+     mRNA            <9242..>10126
+                     /locus_tag="EHEL_010050"
+                     /product="thymidylate synthase"
+                     /transcript_id="XM_003886562.1"
+                     /db_xref="GI:401825030"
+                     /db_xref="GeneID:13467239"
+     CDS             9242..10126
+                     /locus_tag="EHEL_010050"
+                     /note="similar to ECU01_0180"
+                     /codon_start=1
+                     /product="thymidylate synthase"
+                     /protein_id="XP_003886611.1"
+                     /db_xref="GI:401825031"
+                     /db_xref="GeneID:13467239"
+                     /translation="MPQEPRHPERQYLDLVKHILESGVKRMDRTGTGTLSVFGATMRF
+                     SLEDNTFPLLTTKRVFYKGVVEELLFFLRGQTDSKILEKKGVRIWERNGSKEFLQSLG
+                     IDREEGDLGPIYGFQWRHFGAPYETSGSSYEGKGVDQIKDVVDMIRKNPNSRRMVVCA
+                     WNPVALGEMALPPCHVLFQFNVMEGKLNCAMYQRSGDVGLGVPFNIASYSLLTIMVAH
+                     LTGLQPGEFVHFLGDTHIYLDHVDSLRLQLERVPRPFPKLFIRPKESRERLEDFEYED
+                     FLLVGYDPHPPIKMDMSV"
+     gene            <10177..>11559
+                     /locus_tag="EHEL_010060"
+                     /db_xref="GeneID:13467241"
+     mRNA            <10177..>11559
+                     /locus_tag="EHEL_010060"
+                     /product="serine hydroxymethyltransferase"
+                     /transcript_id="XM_003886563.1"
+                     /db_xref="GI:401825032"
+                     /db_xref="GeneID:13467241"
+     CDS             10177..11559
+                     /locus_tag="EHEL_010060"
+                     /note="similar to ECU01_0190"
+                     /codon_start=1
+                     /product="serine hydroxymethyltransferase"
+                     /protein_id="XP_003886612.1"
+                     /db_xref="GI:401825033"
+                     /db_xref="GeneID:13467241"
+                     /translation="MVDAKEKGFWTEAMATSDPELYALIGGEIERQKSTINLIASENY
+                     AHLSVMEASGSVLTNKYSEGKVGGRYYGGTEWVDRIEVLCQKRALDLFSLDPEVWGVN
+                     VQAYSGSPANFAVYTGIVPPGGRIMGLDLPCGGHLTHGYKTKTRKISATSVYFDSKPY
+                     RIGDDGLIDYSGLEKSFMEFLPQILICGYSAYSRDIDYKRLSQIASKNNAFLFADISH
+                     ISPLIASGLMESPFRHCDVVMTTTHKGLRGPRGALIFYRKSVRKGEDVVDLETKINFA
+                     VFPMLQGGPHNHTIAGIASALLHARTPSFAEYTSRVVENSRALCNYLLSLGFEIPTGG
+                     TDNHMFLVDLRSKGVDGSIVEQVCDRLGVSVNRNTVVGDTSPLNPSGIRIGTYAVTAR
+                     GFGTSEMKEVGDIINGIVTLCREMSMGKRMSKAEVEKAVSSKEFMCNGLVVDLRRRIS
+                     NLVEAYPIYR"
+     gene            <11627..>13444
+                     /locus_tag="EHEL_010070"
+                     /db_xref="GeneID:13467242"
+     mRNA            <11627..>13444
+                     /locus_tag="EHEL_010070"
+                     /product="mitochondrial ABC transporter"
+                     /transcript_id="XM_003886564.1"
+                     /db_xref="GI:401825034"
+                     /db_xref="GeneID:13467242"
+     CDS             11627..13444
+                     /locus_tag="EHEL_010070"
+                     /note="similar to ECU01_0200"
+                     /codon_start=1
+                     /product="mitochondrial ABC transporter"
+                     /protein_id="XP_003886613.1"
+                     /db_xref="GI:401825035"
+                     /db_xref="GeneID:13467242"
+                     /translation="MKGISHWTIWRRLFSMARPTSMAEMLVMAALALCIFFGKWLDVA
+                     SIKRRGMIINSLGDVKGVGAVDVSSICSNAMTFFVFRTLSSVLIESKSILFSVIANRI
+                     VEDMTTRVLHLAIHSAHSYEIKPTNLNRVVERGNKKVCKVLGKILTIAVPAFYNLILL
+                     FREVYAMFGTRYFFPALLTVVVYTGYTYVALRIRSRYKRRINHADNLVSKRIHECISN
+                     IDLVRACCCEEMEESRVAEVMRRMWGLKLYDKGCVGVINFGQRTLFTILFVYTVLKGV
+                     QDASASAMAVGDLATLFSFVLSIDTSMWTLGTIARDMGFWMTDCTDLLTLYDGLERDV
+                     EESSGAALQNAARKPGSLWMPEHSKSLSGTGESEGGRGVAAIEFEDVKFSYPRSTGVL
+                     KGLSFRVMRGERVGIIGRSGCGKSTIVKLLLMLHRYSGSIRVYGSEIREMCPRALRSS
+                     IGCILQDALFFDESILYNVRYGNSEAGMSEVLKGCRDAGLCEVIRKKGLDSRMGDLSG
+                     GEAQMACIARCLAKDPPMMLLDEATSKLDGYAEKRVFELLMSLEGKTIVMILHDLWMT
+                     EHMDKIIVVEDGRAVEVGRHCELMEAGGVYWRMKTMGYS"
+     gene            <13475..>14020
+                     /locus_tag="EHEL_010080"
+                     /db_xref="GeneID:13467228"
+     mRNA            <13475..>14020
+                     /locus_tag="EHEL_010080"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886565.1"
+                     /db_xref="GI:401825036"
+                     /db_xref="GeneID:13467228"
+     CDS             13475..14020
+                     /locus_tag="EHEL_010080"
+                     /note="similar to ECU01_0210"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886614.1"
+                     /db_xref="GI:401825037"
+                     /db_xref="GeneID:13467228"
+                     /translation="MIEEVYKDLEEIQRDIEREYEEFARKDFECKLEHHKQIRPLLAR
+                     RDRVIASMVPGDYWGRVLGRYEVGETILPRGMNNEVSTGWVRSLRVDYLDGYAYMVEI
+                     EVNENEFVGNSTLRKKAYLFEGEVEKSGVRWKGDRRWPVFEFFETDTADLDVFDILYE
+                     VYVNSVTYFLTSTWESPGIIN"
+     gene            complement(<14223..>14834)
+                     /locus_tag="EHEL_010090"
+                     /db_xref="GeneID:13467233"
+     mRNA            complement(<14223..>14834)
+                     /locus_tag="EHEL_010090"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886566.1"
+                     /db_xref="GI:401825038"
+                     /db_xref="GeneID:13467233"
+     CDS             complement(14223..14834)
+                     /locus_tag="EHEL_010090"
+                     /note="similar to ECU01_0230"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886615.1"
+                     /db_xref="GI:401825039"
+                     /db_xref="GeneID:13467233"
+                     /translation="MEERNKAEVSDGEVISYLVQSGFTKEEIQNAIKETGSRDIDLLV
+                     NFIISSTQEKSRKGVKEAKKEYNNKMPREAAELEKKRREEIMKERIYREQLINQIKAD
+                     MAEKLEREKLEDERLMNAAVEKSEDISDCKIKLWLGDGTSSILGFSKDDTIEDLFKRI
+                     ETKLNKKRFSLFRMNHVTPIERNSKKISEIPGLYPRGVLFIEE"
+     gene            complement(<14907..>15929)
+                     /locus_tag="EHEL_010100"
+                     /db_xref="GeneID:13467244"
+     mRNA            complement(<14907..>15929)
+                     /locus_tag="EHEL_010100"
+                     /product="fructose-1,6-bisphosphate aldolase"
+                     /transcript_id="XM_003886567.1"
+                     /db_xref="GI:401825040"
+                     /db_xref="GeneID:13467244"
+     CDS             complement(14907..15929)
+                     /locus_tag="EHEL_010100"
+                     /note="similar to ECU01_0240"
+                     /codon_start=1
+                     /product="fructose-1,6-bisphosphate aldolase"
+                     /protein_id="XP_003886616.1"
+                     /db_xref="GI:401825041"
+                     /db_xref="GeneID:13467244"
+                     /translation="MDCDHLLKLGMTAKKILENGKGILAADESPGTLGKRFEKLGIEN
+                     TEENRRKFREILFSTKELERHIGGVILNQETFGQTNEDGVPLTKILKKRGIEIGIKLD
+                     KGLIDYKEKEKISVGLEDLDLRCKSSAFKDATFAKWRSLFYFYDGIPSEDCINENCSV
+                     LAKYAITCQKNGLVPIVEPEIFLEGDYTIESSYRVFRQILSTLVKYLNYECVYIPGVL
+                     IKTSYVTPGMLSDEKYTPKKVATYTFRALLSTIPCGVPGVVFLSGGHSSEDAISFLNA
+                     INMERGCRTWTLSFSFARALTNGVLEIWKGEDSNIQEAQRVLLETSFKAYKAAEGNLE
+                     EQEQEP"
+     gene            <16146..>16658
+                     /locus_tag="EHEL_010110"
+                     /db_xref="GeneID:13467258"
+     mRNA            <16146..>16658
+                     /locus_tag="EHEL_010110"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886568.1"
+                     /db_xref="GI:401825042"
+                     /db_xref="GeneID:13467258"
+     CDS             16146..16658
+                     /locus_tag="EHEL_010110"
+                     /note="similar to ECU01_0250"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886617.1"
+                     /db_xref="GI:401825043"
+                     /db_xref="GeneID:13467258"
+                     /translation="MHFNVFVEGSVFDNVKGVFIDQSYPLRIRCTNCGRPHEKAVVLS
+                     EDSAGKGDFKENVNLSVTCRDCQRLMTLKILKLKEAKKHMLPTKFEDEFKEVWLTDME
+                     RNRFLVSRIETNGAEVTSIESCTLNMVSNEDVLFTNVDFKGKTVEEHNKSRNTISSIT
+                     QFSLVVELSK"
+     gene            complement(<16697..>17077)
+                     /locus_tag="EHEL_010120"
+                     /db_xref="GeneID:13467245"
+     mRNA            complement(<16697..>17077)
+                     /locus_tag="EHEL_010120"
+                     /product="dynein light chain-like protein"
+                     /transcript_id="XM_003886569.1"
+                     /db_xref="GI:401825044"
+                     /db_xref="GeneID:13467245"
+     CDS             complement(16697..17077)
+                     /locus_tag="EHEL_010120"
+                     /note="similar to ECU01_0260i"
+                     /codon_start=1
+                     /product="dynein light chain-like protein"
+                     /protein_id="XP_003886618.1"
+                     /db_xref="GI:401825045"
+                     /db_xref="GeneID:13467245"
+                     /translation="MKREEASDSSSKESKKSDVSSSQKSQPKNIVGGPRVIEPVFEQR
+                     EPLDDRIKSQIILSLATFTDETPPTRICETLKGMLDSKFGKGWCVFAGAHFAGSCTFE
+                     EKYFAQISFGTYSITAFRIFIPGS"
+     gene            <17346..>18671
+                     /locus_tag="EHEL_010130"
+                     /db_xref="GeneID:13467268"
+     mRNA            <17346..>18671
+                     /locus_tag="EHEL_010130"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886570.1"
+                     /db_xref="GI:401825046"
+                     /db_xref="GeneID:13467268"
+     CDS             17346..18671
+                     /locus_tag="EHEL_010130"
+                     /note="similar to ECU01_0280"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886619.1"
+                     /db_xref="GI:401825047"
+                     /db_xref="GeneID:13467268"
+                     /translation="MLPKEIDPYEFKFFIKDILPLSETYTLFRSSKLLKARETVKAIS
+                     KTNQGLIVLIHKSRETMIYTPESKVSYFTKRRGRMAPKNAVVRFLKAKMVDFVVLRFK
+                     TFYCCLSRWDKDVCSFCIVACLGKKATERALLNPSEILGDVKEVPPLIGKGQFRFKDL
+                     DSFKHLGTEHKSQLLEANIGLAFGVTPSASDVKVNPIDFSQEDGLGYISKNSSDSTDR
+                     FVDKKDEGESCLIEIMSENTRDTTENIYSKPYKEVKNDEEGLIDYIISKITKLVCDDV
+                     NTGCLQEEDIEKERLWKTLEEEEESDVSSKNHGYDIEGRDFGKSLGEDRSKEDSVCSY
+                     EDQGEGSRYENIIRFGIIDDGKLKCMQKSVGLLSMAKFDRLEAFIIGIIDRLKETNIN
+                     YVEVCSEIDFFIVNKEGTIHLYIRDLIHRKERKFMEKFSEIFEKLGART"
+     gene            complement(<18703..>19176)
+                     /locus_tag="EHEL_010140"
+                     /db_xref="GeneID:13467260"
+     mRNA            complement(<18703..>19176)
+                     /locus_tag="EHEL_010140"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886571.1"
+                     /db_xref="GI:401825048"
+                     /db_xref="GeneID:13467260"
+     CDS             complement(18703..19176)
+                     /locus_tag="EHEL_010140"
+                     /note="similar to ECU01_0290"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886620.1"
+                     /db_xref="GI:401825049"
+                     /db_xref="GeneID:13467260"
+                     /translation="MFCIPCQKKFSTKNAYKCHTSTSSHVKAEDEYRTNRKAAMERNT
+                     ANFLADFHSYISQIAEYKEIGQAYREYLAKNRFRIEGTNFKSVEEAVDKIAKRVSVLK
+                     EGGKVMVKRLSKFKLVRKPPVLDLEKLRSTFKIRMIKGDNDVQRKAKEDKNKNCV"
+     gene            complement(<19247..>19522)
+                     /locus_tag="EHEL_010150"
+                     /db_xref="GeneID:13466518"
+     mRNA            complement(<19247..>19522)
+                     /locus_tag="EHEL_010150"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886572.1"
+                     /db_xref="GI:401825050"
+                     /db_xref="GeneID:13466518"
+     CDS             complement(19247..19522)
+                     /locus_tag="EHEL_010150"
+                     /note="similar to NCER_100237, ECU01_0305"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886621.1"
+                     /db_xref="GI:401825051"
+                     /db_xref="GeneID:13466518"
+                     /translation="MKYDYEEDEGQIFTERLKTLRNVAIDLTKEIEAQNIKLRQLEPS
+                     FQSSLNKIFTTIQSIRRSDPKRFRSWLYFILGGMGLSFLFFILFIAS"
+     gene            complement(<19654..>20373)
+                     /locus_tag="EHEL_010160"
+                     /db_xref="GeneID:13466509"
+     mRNA            complement(<19654..>20373)
+                     /locus_tag="EHEL_010160"
+                     /product="60S ribosomal protein L2P"
+                     /transcript_id="XM_003886573.1"
+                     /db_xref="GI:401825052"
+                     /db_xref="GeneID:13466509"
+     CDS             complement(19654..20373)
+                     /locus_tag="EHEL_010160"
+                     /note="similar to ECU01_0310"
+                     /codon_start=1
+                     /product="60S ribosomal protein L2P"
+                     /protein_id="XP_003886622.1"
+                     /db_xref="GI:401825053"
+                     /db_xref="GeneID:13466509"
+                     /translation="MGKITRRTREVKKKERQPIVKASLKYPIVPHVEEGEVIDIVHER
+                     SRGAPVAIISFKELDCMVPASEGIYTGKKIFIGDEAPIDIGNITKIKNVPEGMAVNSV
+                     EMSYGDGGRISMTNGSYSLVVNHRRETNETVIKIPSGKKMTVSSECRCIVGVVAGGGI
+                     HDKPLLKASVAHYKAKARGHVFPRVRGVAMNPVEHIHGGGNHQHVGKPTTVSKKDISQ
+                     EQKIGLVGARRTGYRVGSRKV"
+     gene            <20391..>20864
+                     /locus_tag="EHEL_010170"
+                     /db_xref="GeneID:13466497"
+     mRNA            <20391..>20864
+                     /locus_tag="EHEL_010170"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886574.1"
+                     /db_xref="GI:401825054"
+                     /db_xref="GeneID:13466497"
+     CDS             20391..20864
+                     /locus_tag="EHEL_010170"
+                     /note="similar to ECU01_0320"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886623.1"
+                     /db_xref="GI:401825055"
+                     /db_xref="GeneID:13466497"
+                     /translation="MQVFRDELEKISAKYGCQELHTEGFTPEQIYYQIEDLCNSIIER
+                     SESAISGLYPKYEIPLRNNEKICTERNTEDSESGLSDQGRASSVDIGIEKDSSAEYMD
+                     TDRDEPLESSDSELSENEIYQMPAAEAIRLLESRTGDSSGHSSDSYESLSEDNDE"
+     gene            complement(<20947..>21432)
+                     /locus_tag="EHEL_010180"
+                     /db_xref="GeneID:13466529"
+     mRNA            complement(<20947..>21432)
+                     /locus_tag="EHEL_010180"
+                     /product="U3 small nucleolar ribonucleoprotein component"
+                     /transcript_id="XM_003886575.1"
+                     /db_xref="GI:401825056"
+                     /db_xref="GeneID:13466529"
+     CDS             complement(20947..21432)
+                     /locus_tag="EHEL_010180"
+                     /note="similar to ECU01_0330"
+                     /codon_start=1
+                     /product="U3 small nucleolar ribonucleoprotein component"
+                     /protein_id="XP_003886624.1"
+                     /db_xref="GI:401825057"
+                     /db_xref="GeneID:13466529"
+                     /translation="MDERIEEIEKLLVKPKEWKYAGEVDVRKRPKNSLLEQEEIDFKQ
+                     GPPLVPFSSKQDSEIESITLQRIREGTFDNHEYNVKEVVDIADELPDTDDLECKDILS
+                     LYNEIEGDLMQIVDFGNNGFVPDCEIRIVQGKESSSSTKKKLDVKSLDRIRNVTVLKK
+                     S"
+     gene            complement(<21487..>22059)
+                     /locus_tag="EHEL_010190"
+                     /db_xref="GeneID:13466507"
+     mRNA            complement(<21487..>22059)
+                     /locus_tag="EHEL_010190"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886576.1"
+                     /db_xref="GI:401825058"
+                     /db_xref="GeneID:13466507"
+     CDS             complement(21487..22059)
+                     /locus_tag="EHEL_010190"
+                     /note="similar to ECU01_0340"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886625.1"
+                     /db_xref="GI:401825059"
+                     /db_xref="GeneID:13466507"
+                     /translation="MAKFLVVFDISGTLLRKYHKAKKEHRELASMGIKPDANFKSYLI
+                     YNRPHLDLLIKFLKTHNTSYVLWTTGMRQNAVHLVKHLELVGFNRFLDWYSQLDCKVG
+                     KVKIESECNLWVKDLNVVARNHGIGVERCILVDDSVDKSVHTQNFICCPEFTPGAEDD
+                     GIKFICKHLDDFFECKENCIAKKIEYRKKG"
+     gene            complement(<22137..>25880)
+                     /locus_tag="EHEL_010200"
+                     /db_xref="GeneID:13466511"
+     mRNA            complement(<22137..>25880)
+                     /locus_tag="EHEL_010200"
+                     /product="DEAD-like helicase"
+                     /transcript_id="XM_003886577.1"
+                     /db_xref="GI:401825060"
+                     /db_xref="GeneID:13466511"
+     CDS             complement(22137..25880)
+                     /locus_tag="EHEL_010200"
+                     /note="similar to ECU01_0350"
+                     /codon_start=1
+                     /product="DEAD-like helicase"
+                     /protein_id="XP_003886626.1"
+                     /db_xref="GI:401825061"
+                     /db_xref="GeneID:13466511"
+                     /translation="MGSESESTASSITTSEESSEKKVMPRKRGRPRKNEGGRPAQSHF
+                     NPMLYQAPLGYQYAPTIGPGIAHSMIPGIQHGFYNTFNFNQGYGYGYGSSVSLQGEDS
+                     RARETSGYRERSEERSVYIPERRQKRNAAMVKRTSIPESESSTEEADEESEDGIEKLL
+                     KYDAEGEKYFVKFKYKSYLHCDWVPKEEIMATKVGAMKVKKFRAVEVPFNPDFLKVDR
+                     ILHEDYDGEKVFLVKWKSQPYELSTFETAESVTKCEGFEEELKKYRDRKKIRNMRVGI
+                     EWRPSRENFIKYDESPVFKGENRLREYQLEGLNWLLNRWYYRQSCIMADEMGLGKTVQ
+                     SVTFINTLFTKYDYCAPVLVVTPLSIIPHWEREFEAWTDLRVLKYHENRPGRALIAEY
+                     EFVLKKNNLEIRLFDVLITTYDTVMAEQEHLSQFHFSVGIFDEAHRLKNAKSKAATVL
+                     RTLKFNHKVLLSGTPLQNNISELWSLLNFIDPVRFSSLPHFLGEFKMENINDVEKLQG
+                     LLRPLMLRRMKEDVEKSIPTKEETIIEVALTMIQKRFYRAILEKNIEFLTKGGKDSAP
+                     NLLNVMMELRKCCIHPYLIKGAEEQILSGYLKKKREKNRAEGAENDITLASDVLNGDE
+                     HQEGGIISDIDEYYKVFIQSSGKLVLLDKLLGKLKNGHKVLIFSQMTRCLDLLAEYLT
+                     YRKYKYERIDGGARTENRQAAIDRFSDKTSDVFVFLLSTRAGGVGINLTAADTVIIFD
+                     SDWNPQNDLQAQARCHRIGQTSEVKVYRLVTENTYEREMFDKAGLKLGLDRAVLQRMT
+                     FEEHKSEKTRKKDAIETLLRKGAYGVLMETDDASSRKFCEEDIDQILERRTKIVKHSD
+                     GGNVFSKASFQVEEDIDDPDFWENLLNKKKSEESEGRIKRQMRRLAREGGLTQENISE
+                     IDGLLNTKLENEDENVFYENQCLLIFLGVLRFGPRSVGLEIPKLEEEDLKGDDEARVL
+                     PQSKHFKDTATYFRYLVKYVVDQFQSTKVRSDFSDGIEEFLVDNYDPSLFSKFEDVYK
+                     KYGERFLLRIQVVMILHSLLKTEDLSVEKVRGWTNDDDRMLVELTLKYGYDCYPETIR
+                     NKNMEDMNQRVRKIVSTLSRKKEVREDNNLFHKAIMMFGRITDDNRESIVEFLGDKDI
+                     EGLEETINRILGETKRHKLSSSETECFDRMNWFNSLRSMAKIPQPKRGMLPKNWSVKT
+                     LSELRNELLTKGIALAGEKFSVSEEFIVKKFEALFPLSRSIQN"
+     gene            complement(<26238..>26828)
+                     /locus_tag="EHEL_010210"
+                     /db_xref="GeneID:13466490"
+     mRNA            complement(<26238..>26828)
+                     /locus_tag="EHEL_010210"
+                     /product="60S ribosomal subunit biogenesis RNA-binding
+                     protein"
+                     /transcript_id="XM_003886578.1"
+                     /db_xref="GI:401825062"
+                     /db_xref="GeneID:13466490"
+     CDS             complement(26238..26828)
+                     /locus_tag="EHEL_010210"
+                     /note="similar to ECU01_0360"
+                     /codon_start=1
+                     /product="60S ribosomal subunit biogenesis RNA-binding
+                     protein"
+                     /protein_id="XP_003886627.1"
+                     /db_xref="GI:401825063"
+                     /db_xref="GeneID:13466490"
+                     /translation="MTSVILSTRGASVKIRHLMRDISKLVKVEEEQKWDMGKDYKELR
+                     SLMELNECDSMLFFRSTKRSDDLWIGIHNGMSAVFRIYSLFTVKDCNFPVNSFKDCGY
+                     VLMFSKEFEEIEHLGHVKSVIEHVFRSNETKDKALCFFYLDGVIWVRCYKIGKKLEEI
+                     GPRLVLEVLKVFEKCFEGNILYKAEENGHSVEKSLD"
+     gene            complement(<26952..>27839)
+                     /locus_tag="EHEL_010220"
+                     /db_xref="GeneID:13466510"
+     mRNA            complement(<26952..>27839)
+                     /locus_tag="EHEL_010220"
+                     /product="zuotin-like protein"
+                     /transcript_id="XM_003886579.1"
+                     /db_xref="GI:401825064"
+                     /db_xref="GeneID:13466510"
+     CDS             complement(26952..27839)
+                     /locus_tag="EHEL_010220"
+                     /note="similar to ECU01_0370"
+                     /codon_start=1
+                     /product="zuotin-like protein"
+                     /protein_id="XP_003886628.1"
+                     /db_xref="GI:401825065"
+                     /db_xref="GeneID:13466510"
+                     /translation="MLNWIVKYERPTGELARIHEEYLGRRNVLNLYTKKEFERWGRCI
+                     DLYLLLDLDMYRTKPIPPGILDHVAKVKMHEYHPDLTKGCREAFLLVKIARDVFRDRK
+                     LRLFYDSNFFDESIPEDKIYREDEFFDVFGECFQRNARFSINQPVPLLDRNDDSKKAL
+                     EFYEFWNNFKSWRTFEPVEELYNMGEYDRSQYSIKNKEKLSLLKNQDALRIKKLVQIA
+                     KKRDPRVGKSIEEQMKEMMRMNSWTPSEISTLKRLISLLGRTKKNKWETITEKLVEIT
+                     KVKRSIKEVMEKGAELEKR"
+     gene            complement(<27924..>28766)
+                     /locus_tag="EHEL_010230"
+                     /db_xref="GeneID:13466522"
+     mRNA            complement(<27924..>28766)
+                     /locus_tag="EHEL_010230"
+                     /product="cell differentiation protein Rcd1"
+                     /transcript_id="XM_003886580.1"
+                     /db_xref="GI:401825066"
+                     /db_xref="GeneID:13466522"
+     CDS             complement(27924..28766)
+                     /locus_tag="EHEL_010230"
+                     /note="similar to ECU01_0380"
+                     /codon_start=1
+                     /product="cell differentiation protein Rcd1"
+                     /protein_id="XP_003886629.1"
+                     /db_xref="GI:401825067"
+                     /db_xref="GeneID:13466522"
+                     /translation="MEDTEKDNKYEETQKKRLSDLCTSVITNSKDVDKMNELFEELKK
+                     SPGLSSDIWNHDSMPVFLLQEVITPYMTLSTNMFDEMEYHRLYTVLNILQILVSDPKI
+                     KRVFVDARFPYYIYRYLVISDSDSKYETLRISALGVVASLLQNGDQYIHKQLKTTEVV
+                     PLLLKIVDLGSEASQLLSANVFGLIIGSDDGLNYACQTFDRFSAINLMFNSLASQGVS
+                     VGSVKLVKAALRIYIRLCAKPHIRTLLSSKKPDGLFTSEASSLISSDAECKALFKSFT
+                     DMIC"
+     gene            complement(<28803..>29204)
+                     /locus_tag="EHEL_010240"
+                     /db_xref="GeneID:13467201"
+     mRNA            complement(<28803..>29204)
+                     /locus_tag="EHEL_010240"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886581.1"
+                     /db_xref="GI:401825068"
+                     /db_xref="GeneID:13467201"
+     CDS             complement(28803..29204)
+                     /locus_tag="EHEL_010240"
+                     /note="similar to ECU01_0390"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886630.1"
+                     /db_xref="GI:401825069"
+                     /db_xref="GeneID:13467201"
+                     /translation="MEKKDDKGYEFSNDSTTCKYLEILNNIESIRRDRDDVLSAHFNE
+                     VNIYNINELEDRNAVIRRLINKELTYPNAFLASSLGFNKTTWNRDYERTLREVGMYKR
+                     PRYSTLRNMLLFEKLKWLVVRYHEAKQKKKQ"
+     gene            complement(<29268..>30164)
+                     /locus_tag="EHEL_010250"
+                     /db_xref="GeneID:13466549"
+     mRNA            complement(<29268..>30164)
+                     /locus_tag="EHEL_010250"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886582.1"
+                     /db_xref="GI:401825070"
+                     /db_xref="GeneID:13466549"
+     CDS             complement(29268..30164)
+                     /locus_tag="EHEL_010250"
+                     /note="similar to ECU01_0400"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886631.1"
+                     /db_xref="GI:401825071"
+                     /db_xref="GeneID:13466549"
+                     /translation="MFYFWSIKPVLPLMAPMIEATAKILSLNLIGCTVLLLASVSLQV
+                     IQSFIFLRVLGNDSAIKGIMSILFILNSYWTFFNTIYFTQVAVSGIITTHVEKNGEES
+                     FKESFYIAFMALGSISFAGLIMAAVSTAKFLLERERDRDRERGSSGIINIILLCLVNI
+                     IGDLVNLMNELVFPYLAVHGTKYTESVSKSYNLIEEKRGVTLLSNMAIGKVIFFCLLF
+                     FICFIASGDTALLSANPSFQSNDLTYVTIAIVCVPLITFVYSFLSMFSSGTLALIYSY
+                     LESPEAVKRVEPELIEKIGRFS"
+     gene            30675..30746
+                     /locus_tag="EHEL_010260"
+                     /db_xref="GeneID:13467204"
+     tRNA            30675..30746
+                     /locus_tag="EHEL_010260"
+                     /product="tRNA-Gly"
+                     /note="tRNA Type: Gly, Anti Codon: TCC, Cove Score: 59.61"
+                     /db_xref="GeneID:13467204"
+     gene            <30855..>32852
+                     /locus_tag="EHEL_010270"
+                     /db_xref="GeneID:13466517"
+     mRNA            <30855..>32852
+                     /locus_tag="EHEL_010270"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886583.1"
+                     /db_xref="GI:401825072"
+                     /db_xref="GeneID:13466517"
+     CDS             30855..32852
+                     /locus_tag="EHEL_010270"
+                     /note="similar to ECU01_0410"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886632.1"
+                     /db_xref="GI:401825073"
+                     /db_xref="GeneID:13466517"
+                     /translation="MGDYDAINDEIKNFLSLTDRSPCEDALPAKDIKTSEENISSLVA
+                     LLTSLQNVYNEINTNLAAGDNEGLKNVILNSDVKMSLVCESLMRVLKDVSQEKGELVK
+                     SEEEYKERIRKMNEDREGFEIRINKLESDLEFFNRANQELSRIIRDQKSKIQAFKEKA
+                     DLEKRNCDSFRSINGELEILRKKALEKCEVYEKEVGVLKEYIKERGGEIERLKNDAKQ
+                     GEVEREGLSRKIVGLEKSNELLRKKLEMKESAIGMCNSELSKLISKEKRVENEVEKMK
+                     ERASYYERLYKATNSQNEYLNRQLSKMIRDSDKIEVPEYDPNAQEEMTAMSNEKKTND
+                     SEQSDLKRIKRYRRRIQEQKRMNEKQRTEMQDLSREIEGLRNEVSRLQEERTRTIDAN
+                     SKIMEELMSKVEKLLEKNREYQGVIYELRGRGAKEDRSRVDFNESFRTVNDGENEQVE
+                     KEDLFIPQASGRDEGWRGGNGVRPFALEDDYEEKANDGLYDTSKIYRMGVRNIPSRLS
+                     FPKKDEADGEVAEQIKLNLPDSFFNSLANPKKEVDLRNEEGLLVREEDTREERRGTEY
+                     LDDPFDSISNKNLGKGVEGKGESDASGTSPKTVRTTSTLHEMLRRTDALQEKFDKLED
+                     HLNAIRNSDKIDAEKVHDQIKAYKNYYYSDYLDMSNESDVI"
+     gene            <33054..>33764
+                     /locus_tag="EHEL_010280"
+                     /db_xref="GeneID:13466512"
+     mRNA            <33054..>33764
+                     /locus_tag="EHEL_010280"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886584.1"
+                     /db_xref="GI:401825074"
+                     /db_xref="GeneID:13466512"
+     CDS             33054..33764
+                     /locus_tag="EHEL_010280"
+                     /note="similar to ECU01_0420"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886633.1"
+                     /db_xref="GI:401825075"
+                     /db_xref="GeneID:13466512"
+                     /translation="MDKETVKDIQRSIAMKLNRVEYTEVPLISGYADAEDCYKKFRDG
+                     LKKVSDSITWLMTYEHGGSKMKSLYSKMNMITSTSRLGNFKNYDIYELNGLVGLELSR
+                     IGLASNVSDIGRKYSKAHMDISRYKLEMNKKLEQQIKKISELRDHSNAIDKKRKKVSN
+                     IRYDLEMMKKSKDPKAPDAVSQESEMEKTFKETSKEVLKEMERFIGNDGVCGVLQSVA
+                     EAHREFSEKSSKVLGEVK"
+     gene            complement(<33829..>34359)
+                     /locus_tag="EHEL_010290"
+                     /db_xref="GeneID:13466521"
+     mRNA            complement(<33829..>34359)
+                     /locus_tag="EHEL_010290"
+                     /product="cleavage and polyadenylation specificity factor
+                     subunit Clipper"
+                     /transcript_id="XM_003886585.1"
+                     /db_xref="GI:401825076"
+                     /db_xref="GeneID:13466521"
+     CDS             complement(33829..34359)
+                     /locus_tag="EHEL_010290"
+                     /note="similar to ECU01_0430"
+                     /codon_start=1
+                     /product="cleavage and polyadenylation specificity factor
+                     subunit Clipper"
+                     /protein_id="XP_003886634.1"
+                     /db_xref="GI:401825077"
+                     /db_xref="GeneID:13466521"
+                     /translation="MGEPAFSFESYVSDRLGLHEEDEVYCIPYQTNSCKDPNCSKQHV
+                     KLSTAVVCKHWLRGLCKKGIKCEFMHEYDLSRMPECYFFSSYGECMNPECNYIHIDPN
+                     SSSKECPWYNRGFCRNGASCKNKHVRKKLCYNYFLGFCPRGPDCDYGHPKFNINPARE
+                     ISRSDIIQKPSNLASS"
+     gene            <34436..>34861
+                     /locus_tag="EHEL_010300"
+                     /db_xref="GeneID:13466514"
+     mRNA            <34436..>34861
+                     /locus_tag="EHEL_010300"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886586.1"
+                     /db_xref="GI:401825078"
+                     /db_xref="GeneID:13466514"
+     CDS             34436..34861
+                     /locus_tag="EHEL_010300"
+                     /note="similar to ECU01_0440"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886635.1"
+                     /db_xref="GI:401825079"
+                     /db_xref="GeneID:13466514"
+                     /translation="MKLYGVVTLCLSLLVTCTSEVSQQAADATRSIQRPYEKVVEHGK
+                     TCVGKVCSLLERGKSMLYTRIKNVMSSIRSRSEKAQEVVGPENMQGSEEEAFDLSPED
+                     IEKLIEEIKKKLAGYMDVTGEQSEEEKKEEEKEEEKKEL"
+     gene            <34958..>36148
+                     /locus_tag="EHEL_010310"
+                     /db_xref="GeneID:13466541"
+     mRNA            <34958..>36148
+                     /locus_tag="EHEL_010310"
+                     /product="DNA repair protein RAD4"
+                     /transcript_id="XM_003886587.1"
+                     /db_xref="GI:401825080"
+                     /db_xref="GeneID:13466541"
+     CDS             34958..36148
+                     /locus_tag="EHEL_010310"
+                     /note="similar to ECU01_0450"
+                     /codon_start=1
+                     /product="DNA repair protein RAD4"
+                     /protein_id="XP_003886636.1"
+                     /db_xref="GI:401825081"
+                     /db_xref="GeneID:13466541"
+                     /translation="MELSDSWEEAVEDKLELVPKRRKAARRGVDIKIEMIHKVLWLFR
+                     KIMSPVEKPSIKEKTDLYIDERLREYVDSMEGLGEVDKTAILFRLLVLFGIPSRIYIV
+                     LSEEPRCFIESKILGRIKEHHGKYAGCVFSIDAALRVRDQSYHFSKSIRRHSASKYVV
+                     SGFSESKICKSVLDKEMTKCFDEIDDERMGKIPSTIEKMKRHPKFVVESMLKWDQCIY
+                     PKRPVFGIFRGEAVYSRENIVRLRTKEQLYKAGKDVRSAKPYRIVRRDKEIRLYAPWQ
+                     TCELVVDGFSESMYQDYFHPNFIPRNCVYVDNKNAKDVAYLIGIPYRICFHGFSGGIP
+                     VNRGIFVEKKNLYVLSNFLSQYCKYAEMKEKNESFVLGLKKWKVLIRNAARYLRIRKG
+                     LGLK"
+     gene            <36343..>37470
+                     /locus_tag="EHEL_010320"
+                     /db_xref="GeneID:13466526"
+     mRNA            <36343..>37470
+                     /locus_tag="EHEL_010320"
+                     /product="actin"
+                     /transcript_id="XM_003886588.1"
+                     /db_xref="GI:401825082"
+                     /db_xref="GeneID:13466526"
+     CDS             36343..37470
+                     /locus_tag="EHEL_010320"
+                     /note="similar to ECU01_0460"
+                     /codon_start=1
+                     /product="actin"
+                     /protein_id="XP_003886637.1"
+                     /db_xref="GI:401825083"
+                     /db_xref="GeneID:13466526"
+                     /translation="MSEIVQALVIDIGSGVVKSGFAGDDAPRAVFPSIVGSPKHKGVM
+                     VGMGQKDAYVGDEAQTKRGILHIKYPIEHGIVNNWDDMEKIWHHTFYNELRVAPEEHP
+                     VLLTEAPLNPKANREKITQIMFETFNVPSFYISIQAVLSLYASGRTTGIVFDSGDGVS
+                     HVVPIYEGYSLPYAINRIDLAGRDLTDYLQLILTESGNSFTTTAEREIVRDIKEKLCY
+                     VSLNYEEDMRNTEHLASITKTYEMPDGQVISIGNERFRAPELLFQPKLRGLELKGIHQ
+                     NIYDSIMKCDVDIRKELYGNIVLSGGTTMYPGLAERILNEIKALAPPVIKIGVVAPPE
+                     RKYSVWIGGSILASLSTFQQMWVSKAEYQEHGPSIVHRKCF"
+     gene            <37676..>38326
+                     /locus_tag="EHEL_010330"
+                     /db_xref="GeneID:13466515"
+     mRNA            <37676..>38326
+                     /locus_tag="EHEL_010330"
+                     /product="forkhead/HNF3 transcription factor"
+                     /transcript_id="XM_003886589.1"
+                     /db_xref="GI:401825084"
+                     /db_xref="GeneID:13466515"
+     CDS             37676..38326
+                     /locus_tag="EHEL_010330"
+                     /note="similar to ECU01_0470"
+                     /codon_start=1
+                     /product="forkhead/HNF3 transcription factor"
+                     /protein_id="XP_003886638.1"
+                     /db_xref="GI:401825085"
+                     /db_xref="GeneID:13466515"
+                     /translation="MFGKEKCGNEDGLLRCNDNERKGLGYSSDLDAQDQGKRGRRPGI
+                     SYADLITEAIESSSEGMLTLKEIYSYISSKHPYFSLKKTGWQNSIRHNLSLNKSFYKV
+                     PRTAVNPGKGSFWKINYEFQNNKGSQKTYRSRNKYSFNSHRDAEKNVNSISELLGAQQ
+                     GFFDNIGVTEVPFERHTTIFDGNLTSLSDCLEHNYQKEYFDHNDDISNANYIFSFR"
+     gene            <38420..>38962
+                     /locus_tag="EHEL_010340"
+                     /db_xref="GeneID:13466498"
+     mRNA            <38420..>38962
+                     /locus_tag="EHEL_010340"
+                     /product="40S ribosomal biogenesis protein"
+                     /transcript_id="XM_003886590.1"
+                     /db_xref="GI:401825086"
+                     /db_xref="GeneID:13466498"
+     CDS             38420..38962
+                     /locus_tag="EHEL_010340"
+                     /note="similar to ECU01_0480"
+                     /codon_start=1
+                     /product="40S ribosomal biogenesis protein"
+                     /protein_id="XP_003886639.1"
+                     /db_xref="GI:401825087"
+                     /db_xref="GeneID:13466498"
+                     /translation="MSGALTVVLKGARVTCENHECDAEFNRFHRTLRLLMDSPLNKSK
+                     KMHVYVHTTRNVLVEINYLLEVPEDPIELSDVMSYLLRRLVIKSSDGTVLAKVIKNPI
+                     ESHLPPNTTKVILSSKGCKMSSKDLEPYMERGLAFFVGLREGEKKEAEISMKLSNFKL
+                     SPESCCVKLTNMFEEMLGIF"
+     gene            <39207..>39824
+                     /locus_tag="EHEL_010350"
+                     /db_xref="GeneID:13466519"
+     mRNA            <39207..>39824
+                     /locus_tag="EHEL_010350"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886591.1"
+                     /db_xref="GI:401825088"
+                     /db_xref="GeneID:13466519"
+     CDS             39207..39824
+                     /locus_tag="EHEL_010350"
+                     /note="similar to ECU01_0490"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886640.1"
+                     /db_xref="GI:401825089"
+                     /db_xref="GeneID:13466519"
+                     /translation="MVVLKNDVNPKPECYQIYQGPMQAPVCATFSQPAMTSGVVPQRT
+                     DKSKLSPDLVRLIQSIPGASEKLSSFLEYKGITQPWPEIFDFSSDKRYGLPAPEPMFS
+                     KIQSLLNVLEDIKELLSNELFKVETYISRGKGHLCESIKKLRRYDGILKKYLKKISTA
+                     KAARSKHNYATKYTEFSEKAHEEAKSYYETKKWLQTIVTLFRSLI"
+     gene            complement(<39924..>40334)
+                     /locus_tag="EHEL_010360"
+                     /db_xref="GeneID:13466530"
+     mRNA            complement(<39924..>40334)
+                     /locus_tag="EHEL_010360"
+                     /product="RNA polymerase II transcriptional regulation
+                     mediator"
+                     /transcript_id="XM_003886592.1"
+                     /db_xref="GI:401825090"
+                     /db_xref="GeneID:13466530"
+     CDS             complement(39924..40334)
+                     /locus_tag="EHEL_010360"
+                     /note="similar to ECU01_0500"
+                     /codon_start=1
+                     /product="RNA polymerase II transcriptional regulation
+                     mediator"
+                     /protein_id="XP_003886641.1"
+                     /db_xref="GI:401825091"
+                     /db_xref="GeneID:13466530"
+                     /translation="MRYSRCRHSSEGLDQKSKLSSMVGIFYELEGSNDEKTLFVIRKA
+                     YNHGDTIETLGMYYIIHGHVYAAPTNYSIYRCRMGNSMWLLSSFIDRMIEKRKFDPFN
+                     LLKGKHLRKDVEDSKDLNFMMEIFNDFKKEQMEP"
+     gene            complement(<40568..>40990)
+                     /locus_tag="EHEL_010370"
+                     /db_xref="GeneID:13466508"
+     mRNA            complement(<40568..>40990)
+                     /locus_tag="EHEL_010370"
+                     /product="Fe-S cluster assembly protein IscU"
+                     /transcript_id="XM_003886593.1"
+                     /db_xref="GI:401825092"
+                     /db_xref="GeneID:13466508"
+     CDS             complement(40568..40990)
+                     /locus_tag="EHEL_010370"
+                     /note="similar to ECU01_0510"
+                     /codon_start=1
+                     /product="Fe-S cluster assembly protein IscU"
+                     /protein_id="XP_003886642.1"
+                     /db_xref="GI:401825093"
+                     /db_xref="GeneID:13466508"
+                     /translation="MPIPQDLSRITRKYDASVVDHFENPRNVGSLDKADPRVGTGIVG
+                     APACGDVMKLQIKVGKDNVIEDAKFKTFGCGSAIASSSLATEWIKKKTLDESLKISNR
+                     DIAKKLALPPIKLHCSMLAEDAIKSAIKDFLDKNKPSQ"
+     gene            complement(<41024..>41749)
+                     /locus_tag="EHEL_010380"
+                     /db_xref="GeneID:13467208"
+     mRNA            complement(<41024..>41749)
+                     /locus_tag="EHEL_010380"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886594.1"
+                     /db_xref="GI:401825094"
+                     /db_xref="GeneID:13467208"
+     CDS             complement(41024..41749)
+                     /locus_tag="EHEL_010380"
+                     /note="similar to ECU01_0520"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886643.1"
+                     /db_xref="GI:401825095"
+                     /db_xref="GeneID:13467208"
+                     /translation="MEGSLKKAVSEEYNRYIEGESCRLRISSSGPLFSLNRYDLSGEK
+                     VKVFSVELTGDEFYVIDGYLLLYRGSTVGIYRYDKRFKCTKVRSISLHLLIFLLKKKA
+                     ISRRCRLLFYNILLHLVKSNEKKYDMKLREIMCHMCVDWMVDVKLGDGMALCTYRNGE
+                     SRIYNDRLQIVNDNFLQRKDGSTIECGDQRVRMMKGRVEVARNGCKFKSVFAVGEIRQ
+                     YIALGSNLFLLTEDSIKILSFEE"
+     gene            complement(<42189..>43817)
+                     /locus_tag="EHEL_010390"
+                     /db_xref="GeneID:13467203"
+     mRNA            complement(<42189..>43817)
+                     /locus_tag="EHEL_010390"
+                     /product="peripheral Golgi membrane protein"
+                     /transcript_id="XM_003886595.1"
+                     /db_xref="GI:401825096"
+                     /db_xref="GeneID:13467203"
+     CDS             complement(42189..43817)
+                     /locus_tag="EHEL_010390"
+                     /note="similar to ECU01_0530"
+                     /codon_start=1
+                     /product="peripheral Golgi membrane protein"
+                     /protein_id="XP_003886644.1"
+                     /db_xref="GI:401825097"
+                     /db_xref="GeneID:13467203"
+                     /translation="MGSCISTIKSLQILKVSEGSVSHKNGVLPFIHSIISFNGKPIES
+                     KDDALAMNKEWESKALQLELIDMRTMETSILEIPRKDKMRLGISVKFHQSAACLLSME
+                     VLRVNPGSPAEKAGMVVGDYILGIENIYSKDEDDLLRFLELNRRRTVPLLVYNNDLEY
+                     VRVVPLQVGMDVLLGCQIGMGELYKVPFNSKRGKIEFNNEIIRNDVRRLRRKLRGKDI
+                     ISSRLRDVMSGSDGCSESMSSACWDVQEKTPTYDFMSSQLKEPLHDEVSRRSVQDLGM
+                     PFEDVSNIPVVLPSSFTYEASTDRRAEAKKNGVPRDIVSILEQEQDDQFDFENSLSLV
+                     SRNEVLENEAFREPSIMGKIEVKEGLGYMHNAEGKNDEGSEAFLLPIEKSDSHKDEFD
+                     ARNFLSSLSLSFYGTENGCDSAGSHKTTATSEHKVDDKCPLCLENHQEEYSESLEPSE
+                     EYNTVASKIPTSSGLEVSHDTEAEEYRRGGEDLGGISLDVFNNLSDERKGNMLLEQLK
+                     SVEDLRGVRSHSEEDSLETEIIGSPPYSDPGSIL"
+     gene            <44035..>44349
+                     /locus_tag="EHEL_010400"
+                     /db_xref="GeneID:13466494"
+     mRNA            <44035..>44349
+                     /locus_tag="EHEL_010400"
+                     /product="putative RNA-binding protein"
+                     /transcript_id="XM_003886596.1"
+                     /db_xref="GI:401825098"
+                     /db_xref="GeneID:13466494"
+     CDS             44035..44349
+                     /locus_tag="EHEL_010400"
+                     /note="similar to ECU01_0540"
+                     /codon_start=1
+                     /product="putative RNA-binding protein"
+                     /protein_id="XP_003886645.1"
+                     /db_xref="GI:401825099"
+                     /db_xref="GeneID:13466494"
+                     /translation="MEKESDIERLQRMQQSYLDEKERPVSSVYVKNLDASVTNSDIAA
+                     HFRSCGNISGINVITVKNTRKYAVVDFTSEKSVEMSLLFNGSVLKGKKIVVQKKREAD
+                     KR"
+     gene            complement(<44365..>44664)
+                     /locus_tag="EHEL_010410"
+                     /db_xref="GeneID:13466495"
+     mRNA            complement(<44365..>44664)
+                     /locus_tag="EHEL_010410"
+                     /product="small nuclear ribonucleoprotein"
+                     /transcript_id="XM_003886597.1"
+                     /db_xref="GI:401825100"
+                     /db_xref="GeneID:13466495"
+     CDS             complement(44365..44664)
+                     /locus_tag="EHEL_010410"
+                     /note="similar to ECU01_0545"
+                     /codon_start=1
+                     /product="small nuclear ribonucleoprotein"
+                     /protein_id="XP_003886646.1"
+                     /db_xref="GI:401825101"
+                     /db_xref="GeneID:13466495"
+                     /translation="MKLIRFLRKCKGEKVNVETKEGRKVGGKIVSVDKTMNVEIEDAM
+                     VDGEPAGTYTVRGSSIRYIMFRDDICFKPLLVDDRPRSRPKDQDTSGVKRRKTKV"
+     gene            <44763..>45617
+                     /locus_tag="EHEL_010420"
+                     /db_xref="GeneID:13466503"
+     mRNA            <44763..>45617
+                     /locus_tag="EHEL_010420"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886598.1"
+                     /db_xref="GI:401825102"
+                     /db_xref="GeneID:13466503"
+     CDS             44763..45617
+                     /locus_tag="EHEL_010420"
+                     /note="similar to ECU01_0550"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886647.1"
+                     /db_xref="GI:401825103"
+                     /db_xref="GeneID:13466503"
+                     /translation="MKELVDVLYYDYILYKLANLYTLETTSKEIGQYQKIAQKLLVKL
+                     RSDKVVFDTEIGLKFTYIKLYDLHLSFPKCAGRLHASCCQAHYMQFLSTSYDYLTKIM
+                     SEYSSLKECAAFNRLIYTVVAMGFVSSPTLEEFKSLSKEESLESMKLCLTQQGIKAET
+                     EEDFANEKEKLLKTFKIKAKDESSLFNKTFQHVMDELKKLFLSFDIPLLSFFGTSEVV
+                     QLKELYPNAFEGFEGIPGSLKSYKEEILKEYLDMRSSLNKTRSAFINPKDKGEKILWG
+                     SDTSPSER"
+     gene            complement(<46240..>48009)
+                     /locus_tag="EHEL_010430"
+                     /db_xref="GeneID:13466523"
+     mRNA            complement(<46240..>48009)
+                     /locus_tag="EHEL_010430"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886599.1"
+                     /db_xref="GI:401825104"
+                     /db_xref="GeneID:13466523"
+     CDS             complement(46240..48009)
+                     /locus_tag="EHEL_010430"
+                     /note="similar to ECU01_0560"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886648.1"
+                     /db_xref="GI:401825105"
+                     /db_xref="GeneID:13466523"
+                     /translation="MGEHSFSLQFNPLQRIKTVKDYEKEIEELRNENFEIKHQLSHYK
+                     ASSGGNIQEDIQKLLLDSKRSIDILEGENEELSKQVERMDEMVKKARKEKENAEAKLK
+                     EDLEGCLNKISMLEEENGRLLKHLESVNGVNAKLREENGMLEECFNRSKNAIDEQKSL
+                     IEKMASEKEERSQVEKELMSYKNALLNSNKEKDQIMYERERERSEYNNKISQLQGVVG
+                     SFEEKMNLKEAEMNQMREYYKTMEDEYKEMYRQKQSNELYLKEMGENYMRETREKQEL
+                     ALRNEDLRREIEQLKTSRNDLKKRLEVCENEKRALSYRVSQDVPGNSEFYRIKGELEK
+                     VRREKGLLTEEIEGLKKKCLECTTDLERSRELEMFLKDLLQEKGRECDRRLGEIEKMA
+                     SSIEAKVDLATKALGERRRWNGAEGGTDTLLHEIKELQDKVEEYRRMAAITEDNKRFL
+                     KALGVDPLEPLDEIVRKFRGTYKEAIRKMRVMDKEANEAMRFAEDNKDVMDKRTMKFL
+                     EDFTREFNIARKDLEVCKRYLEKKGKENKELKASNQALEKKFNECRRNEEKIKDLYSA
+                     VVDKLRRKDEVISKLEMRIGARL"
+     gene            <48148..>49041
+                     /locus_tag="EHEL_010440"
+                     /db_xref="GeneID:13466542"
+     mRNA            <48148..>49041
+                     /locus_tag="EHEL_010440"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886600.1"
+                     /db_xref="GI:401825106"
+                     /db_xref="GeneID:13466542"
+     CDS             48148..49041
+                     /locus_tag="EHEL_010440"
+                     /note="similar to ECU01_0570"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886649.1"
+                     /db_xref="GI:401825107"
+                     /db_xref="GeneID:13466542"
+                     /translation="MGNRQSKVKKSPHEILSLSPVSTKKEVKDRYRTLILETHPDAQK
+                     VHSSQAPKEAMEIMEAYTSIIRSPPQFEFYTEELFREDLRKYAEDFFERICDYCRIPG
+                     APKFSDPDFERFYQIFTNFRTQKEFTTEEEKSEFCRNVRKVARVVRSLDKRINIDSFS
+                     VEINVKPPRPKERKVKDHPFNCSHCNKGFHSRNQIIDHFRSRKHFERISMVSGDPKKY
+                     IENQVQEISCQNESETAQKPCMEKEPEAVEVHEVKEKNAAKKTGSRQEPAPFRTCAEC
+                     RIVFSSRSELLMHLKTGHREL"
+     gene            complement(<49083..>49694)
+                     /locus_tag="EHEL_010450"
+                     /db_xref="GeneID:13466504"
+     mRNA            complement(<49083..>49694)
+                     /locus_tag="EHEL_010450"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886601.1"
+                     /db_xref="GI:401825108"
+                     /db_xref="GeneID:13466504"
+     CDS             complement(49083..49694)
+                     /locus_tag="EHEL_010450"
+                     /note="similar to ECU01_0580"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886650.1"
+                     /db_xref="GI:401825109"
+                     /db_xref="GeneID:13466504"
+                     /translation="MIIKIVSTPNIPGVEIISDVQKAYKIQPERRYVLKFTNGETTLK
+                     AFKELFLLEREVLFYVVNFEFFFYKMSMFKHCRFEFVTYPDSVEDKRIEKYKEIEKGM
+                     TGVWSSRGVDLSFTPDVFSSINSSLLNPELYLSEVNLSGVIYRMLDKKLEYKSLKKLA
+                     KEAMKDRMDGEDDFDEEFDRHLKSLVFVGVVKMRDGSFYKWSY"
+     gene            complement(<49811..>50323)
+                     /locus_tag="EHEL_010460"
+                     /db_xref="GeneID:13467206"
+     mRNA            complement(<49811..>50323)
+                     /locus_tag="EHEL_010460"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886602.1"
+                     /db_xref="GI:401825110"
+                     /db_xref="GeneID:13467206"
+     CDS             complement(49811..50323)
+                     /locus_tag="EHEL_010460"
+                     /note="similar to ECU01_0590"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886651.1"
+                     /db_xref="GI:401825111"
+                     /db_xref="GeneID:13467206"
+                     /translation="MSWIFTLCCGATRKKYVVTLLGLQEDQRHVLRHSISNYKMDKSL
+                     RPFSEDTCIANGMELILQSLDDNADLYEIRGIHMGLAAGVIFAVDADSKSSVEKCIAL
+                     INEDTTKTKDIIVVLCRSNIYGNESVQELKRTCDEIGHGKIEFILYEESKAFLGVHRG
+                     INWICNRLEE"
+     gene            complement(<50397..>51314)
+                     /locus_tag="EHEL_010470"
+                     /db_xref="GeneID:13466540"
+     mRNA            complement(<50397..>51314)
+                     /locus_tag="EHEL_010470"
+                     /product="DNA-directed RNA polymerase I"
+                     /transcript_id="XM_003886603.1"
+                     /db_xref="GI:401825112"
+                     /db_xref="GeneID:13466540"
+     CDS             complement(50397..51314)
+                     /locus_tag="EHEL_010470"
+                     /note="similar to ECU01_0600"
+                     /codon_start=1
+                     /product="DNA-directed RNA polymerase I"
+                     /protein_id="XP_003886652.1"
+                     /db_xref="GI:401825113"
+                     /db_xref="GeneID:13466540"
+                     /translation="MSKMYKLERETVVDLHCSEAKSFEQVLNDIEINITEYTKERLEF
+                     DLINVDCSFANALRRILCNDIPTMAVRDVLLKENESVFPDEFIAHRLGLIPLEADPEM
+                     FEFAEKELNERNSLRFVLDVKNESKDVLNVYSDDIKWIPFGSQRGTLKDVKFSSKVLM
+                     FKLARGQRISAELVCTKNIGKVHAKWSPVCPATYRLMPLIEIGDVFDEDAYKLQKCFS
+                     EGVIDVRPSDGRMKAYVNNPRLDTMSREALRHDEFKDKVFIGRRSDYFLFTINSVFLD
+                     PLYLLKKAVLILIEKSRALKNEVKDLLDQ"
+     gene            complement(<51369..>53306)
+                     /locus_tag="EHEL_010480"
+                     /db_xref="GeneID:13466501"
+     mRNA            complement(<51369..>53306)
+                     /locus_tag="EHEL_010480"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886604.1"
+                     /db_xref="GI:401825114"
+                     /db_xref="GeneID:13466501"
+     CDS             complement(51369..53306)
+                     /locus_tag="EHEL_010480"
+                     /note="similar to ECU01_0610"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886653.1"
+                     /db_xref="GI:401825115"
+                     /db_xref="GeneID:13466501"
+                     /translation="MDSIFISAGCTAKPKASVMAGDRIVYGSMSNVVTADEEKVLSVL
+                     HMDDDVNVIEYGYGMIAIGDVSGGGYVVRDGEIRKCNFGSCIEAVGFVNEQWAMFCTI
+                     DMIFIYDIDKGTIRQKIRTEWVPTCLTTICGRTFAGSRKGSIFLLDMSDGIRWHETEG
+                     HKDSIQDIRSALIDGEGYVATSSQDETIKIWKIIDEHPWVKHLQTLNGHTDWVYGLFW
+                     TEKGDIFSSSADNSIIYWERKSKWEDVMRFGGKDAFFNVMVIGSSIIGQSRSGGFYKF
+                     SDDLESFISGHLGEVKSIDWRGEFLLTSSLDMTSRIFYKGHEVGRPQKHGYGLTSARF
+                     LNNDSLQFISSAQETILRVYEPTQVFYMSCIYAETKERSMIESFEEMSISKSGKSIDD
+                     FFPAIDHLKFAAACAELSLTNEVLEDFAFESLNEQLLSVTTFNEIRKVYGHYFDVSDV
+                     AVSRNFIVSCNKSSLKKFSGIFVWSREFELVDYIEVHDYGIERLVFSCDGKHLAAASK
+                     DKTVSVYNVDKSIRLSQRLEDHKRIVWDCSFSYDSKYLATCSRDRSVLVYEGPEFRVK
+                     YMSRFDCEVTSLCFSPKEYLLVIGLESGDVVTLRIEREELNVKKRSKEHGRRVSAISF
+                     NEDGSRYATGGGDGMVKVFLV"
+     gene            complement(<53390..>53887)
+                     /locus_tag="EHEL_010490"
+                     /db_xref="GeneID:13466506"
+     mRNA            complement(<53390..>53887)
+                     /locus_tag="EHEL_010490"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886605.1"
+                     /db_xref="GI:401825116"
+                     /db_xref="GeneID:13466506"
+     CDS             complement(53390..53887)
+                     /locus_tag="EHEL_010490"
+                     /note="similar to ECU01_0620"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886654.1"
+                     /db_xref="GI:401825117"
+                     /db_xref="GeneID:13466506"
+                     /translation="MASLSKEYLLKSLINLLPTEEQMKTAGLFIRTFKKDYRAIVEGW
+                     MFVYRKSSAYHRLNLLYLANEVVQTTKDIDPDSIELKILLKKVVNEVFEETKRMAMKN
+                     PSLYKKYCELENVWIQRNVMVMESHGINLGELIRNIEKTFNDKAKLSVVLEDALSKVR
+                     KGSGG"
+     gene            <53978..>55396
+                     /locus_tag="EHEL_010500"
+                     /db_xref="GeneID:13466544"
+     mRNA            <53978..>55396
+                     /locus_tag="EHEL_010500"
+                     /product="serine/threonine protein kinase"
+                     /transcript_id="XM_003886606.1"
+                     /db_xref="GI:401825118"
+                     /db_xref="GeneID:13466544"
+     CDS             53978..55396
+                     /locus_tag="EHEL_010500"
+                     /note="similar to ECU01_0630"
+                     /codon_start=1
+                     /product="serine/threonine protein kinase"
+                     /protein_id="XP_003886655.1"
+                     /db_xref="GI:401825119"
+                     /db_xref="GeneID:13466544"
+                     /translation="MSTKVELYMEMGTVVTDHEYHTRYILKKLLGRGAYAQCYLVEIE
+                     NGEQYAMKVVRLKDIKSRKVHEKLESEIAIHSRLDNPNVVKMYRSFRNEEYVFMVLEL
+                     CERGALDALLKRNGRLKERHVARFVKQTVEGLIYLHDSVNVVHRDLKLGNLFLDSKFN
+                     VKIGDFGLSAVIKDGEKKVTMCGTPNYIAPEVLFGKASGHSFEADIWSLGVIIYTLLI
+                     GVPPFQKKNVEDIYKMIKLNNYIFPENCDLSSEAIDLITQILNTNPLERPTLQNILGH
+                     KFLSRKEHFLMRIYRNLVINRTQEGVVDSDYVLFSIPVTRLRGIGYVLKSGVYGIYFS
+                     DHKNLMLKPNKKSVIYLNSAVENGKRVFYKEEHLVEKIPGEILELYKGLQYFIRTFDN
+                     GFSFLDVEPCFIVKIRKIECGFLFVMADSTIVFDFVDGWRVVLSRCGERVSCYNGLGL
+                     ASFSQEIRKRCIEILKNCLGCE"
+     gene            <55513..>56886
+                     /locus_tag="EHEL_010510"
+                     /db_xref="GeneID:13466550"
+     mRNA            <55513..>56886
+                     /locus_tag="EHEL_010510"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886607.1"
+                     /db_xref="GI:401825120"
+                     /db_xref="GeneID:13466550"
+     CDS             55513..56886
+                     /locus_tag="EHEL_010510"
+                     /note="similar to ECU01_0640"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886656.1"
+                     /db_xref="GI:401825121"
+                     /db_xref="GeneID:13466550"
+                     /translation="MEDVENIKASYKMLKCKCVYLKSYLEHIITVSKRSSDLLFRALQ
+                     IPRDTAWNDPLLMHCIEMSEKQRAVFDEAGVLYAEMLFKELDGLITTIVNDIRMIEEE
+                     VRTISEKPAEGLKELRAARNKHMEAWTHGKHDPWLTELGLKRAVKKVLLMDDEANHLM
+                     HSKIGVFATSLQGAGERFKETLMSFVRIQRQKYQKLRDSTDVEMKGYDEIDRFFDTVS
+                     ESPKEMRVETKKEEKLKEKVDSSFETFVEGISKELIGKGITVRKNLEVSKSSVCKVKK
+                     GYTGDWITAYVVVTSTGYAHFFDIWGLLNEAEDLKNAVERLNGGAGKGLISIFDANKP
+                     KSEPGEDRMVFEVNARIGELVETFSGPTTSIYLNDNIYELDREKRQISVCNKHQNGFA
+                     SFFGVSEVKIKLFTLSNAIEIFHAFKNRNLPEENVVDFSESPENVIDEGIGFKVLLQE
+                     ENPWVSG"
+     gene            <57164..>58756
+                     /locus_tag="EHEL_010520"
+                     /db_xref="GeneID:13466525"
+     mRNA            <57164..>58756
+                     /locus_tag="EHEL_010520"
+                     /product="phosphoacetylglucosamine mutase"
+                     /transcript_id="XM_003886608.1"
+                     /db_xref="GI:401825122"
+                     /db_xref="GeneID:13466525"
+     CDS             57164..58756
+                     /locus_tag="EHEL_010520"
+                     /note="similar to ECU01_0650"
+                     /codon_start=1
+                     /product="phosphoacetylglucosamine mutase"
+                     /protein_id="XP_003886657.1"
+                     /db_xref="GI:401825123"
+                     /db_xref="GeneID:13466525"
+                     /translation="MDSALMSDKNLKKPSKPAYYGTAGYRSKTSDLNNILCRASLIAY
+                     LRSTTFAGKIVGVMITASHNPIEYNGIKIIDHNGDMLDEVWEEYSDKVVNCDDDKLPR
+                     EMKKILRSCSNQSELGEGVTAHVVLGRDTRDSGKDLCDNIKSVLSKLNCVVDDYGVVT
+                     TPELHFLVRRCNMENRIVGKEEYIKNITRNFSKLLSITKGNLKMMIDTANGVAGMKIK
+                     KIDEVLEGRLNYEILNSPTGVLNLDCGADFVKTKKRAPKLEVFESGRFSCPPNGICAS
+                     FDGDVDRLIFFTGSKDIEIFDGDSQAVFLGLYINSLLEKIGSKLSVGVVLSYYSNNAA
+                     VDALPSSSFKVVMAQTGVKNFVSAARNFDVGVYFEPNGHGSVCFSQACIDEIERGSSE
+                     HHTILKCLVNLFDPCIGDALANFMVFRALMVNASDLRKFKENPSRLLTVKIVDKNSIK
+                     VDQKNHVIEPKELQDKIDMEALNLGGRSFVRPSGTEDVVRVYAECSTEADADLLCLKV
+                     AQHVYDMCNGVGDHPEIDYTNK"
+     gene            <58878..>60122
+                     /locus_tag="EHEL_010530"
+                     /db_xref="GeneID:13466538"
+     mRNA            <58878..>60122
+                     /locus_tag="EHEL_010530"
+                     /product="RNA polymerase II transcription
+                     initiation/nucleotide excision repair factor TFIIH subunit
+                     TFB2"
+                     /transcript_id="XM_003886609.1"
+                     /db_xref="GI:401825124"
+                     /db_xref="GeneID:13466538"
+     CDS             58878..60122
+                     /locus_tag="EHEL_010530"
+                     /note="similar to ECU01_0670"
+                     /codon_start=1
+                     /product="RNA polymerase II transcription
+                     initiation/nucleotide excision repair factor TFIIH subunit
+                     TFB2"
+                     /protein_id="XP_003886658.1"
+                     /db_xref="GI:401825125"
+                     /db_xref="GeneID:13466538"
+                     /translation="MKSEVSQTWPYPIDIVEYFGELPRHSKAQLYGAPIFAVSFLKIF
+                     DEKTTRFIFDLVLKSHSISSLREIEGIKEILKTLLRIEMIEKKGDNIYLDESLRRSLM
+                     EGLCILTMEKHYKNTGKELEIDEEESNRKFEAILKSIVNRECRIQAFGIGEVLMFGGL
+                     LGKDRNITNRGFEFLLKTKKEQLWCLVLLSLKYFLGSVDEEIHALEALFELSTKAVGI
+                     AYHRTDRMDARLLKYLEALGILKLYKESLAIGKSFVQLFEASERNRREFIIVETNNKI
+                     YAYTNSEYEKSVIHLFCSVSVNLPNLIKGSITEESVNVAFDKGITGKQIIHFLEASVK
+                     PGSLPPAISSQIMIWESKRNRIFMAPGYIYSNFLNLSDYQRVLEFCTERSYLIESDVD
+                     KRMIVVKVEGHELVKEFIKTIL"
+     gene            complement(<60180..>60653)
+                     /locus_tag="EHEL_010540"
+                     /db_xref="GeneID:13466548"
+     mRNA            complement(<60180..>60653)
+                     /locus_tag="EHEL_010540"
+                     /product="thioredoxin reductase-like protein"
+                     /transcript_id="XM_003886610.1"
+                     /db_xref="GI:401825126"
+                     /db_xref="GeneID:13466548"
+     CDS             complement(60180..60653)
+                     /locus_tag="EHEL_010540"
+                     /note="similar to ECU01_0680"
+                     /codon_start=1
+                     /product="thioredoxin reductase-like protein"
+                     /protein_id="XP_003886659.1"
+                     /db_xref="GI:401825127"
+                     /db_xref="GeneID:13466548"
+                     /translation="MRNVVILGQGPGAYMCGIYTHTANLSPMIIKPCEESMEDFSGFK
+                     SIVGVKEVEGPNELMDLIERQSRNMGIEVKEGKILNVSKRENHLEVETSTGTYKTRSL
+                     VIDSKALEEKYRPLLEDRGIFYVSDKAPYREAIVLAAAGCKVSFDVKEFIDAIGQ"
+     gene            <60825..>61250
+                     /locus_tag="EHEL_010550"
+                     /db_xref="GeneID:13466533"
+     mRNA            <60825..>61250
+                     /locus_tag="EHEL_010550"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886611.1"
+                     /db_xref="GI:401825128"
+                     /db_xref="GeneID:13466533"
+     CDS             60825..61250
+                     /locus_tag="EHEL_010550"
+                     /note="similar to ECU01_0690"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886660.1"
+                     /db_xref="GI:401825129"
+                     /db_xref="GeneID:13466533"
+                     /translation="MFESTDDIRLSDILFGSDVDAHHCSKTSKKKEEEKNMWKKNVKH
+                     YKILSVDQISALEDFFISKQVPVTKTNIKHASKALKIPYQRSVNYLYNKYKKVQDNAE
+                     DFYHRCIHEFSLIMQNVERCWELYLKGCQAYNTSRDSKN"
+     gene            <61338..>62627
+                     /locus_tag="EHEL_010560"
+                     /db_xref="GeneID:13466496"
+     mRNA            <61338..>62627
+                     /locus_tag="EHEL_010560"
+                     /product="eukaryotic translation initiation factor 2
+                     subunit gamma"
+                     /transcript_id="XM_003886612.1"
+                     /db_xref="GI:401825130"
+                     /db_xref="GeneID:13466496"
+     CDS             61338..62627
+                     /locus_tag="EHEL_010560"
+                     /note="similar to ECU01_0700"
+                     /codon_start=1
+                     /product="eukaryotic translation initiation factor 2
+                     subunit gamma"
+                     /protein_id="XP_003886661.1"
+                     /db_xref="GI:401825131"
+                     /db_xref="GeneID:13466496"
+                     /translation="MKDVSEIMRKQATLNIGTIGHVAHGKSTIVKAISGISTIKFKAE
+                     LERNITIKLGYANAKIYKCDSKCVRPNCYQSFGSSSPDQLPCKKCGGTLKLVRHVSFV
+                     DCPGHDVLMATMLNGTAIMDSVLLLIAANEPCPQPQTTEHLFAVEIMDLKKVLVVQNK
+                     IDLVSREQALEQHDQIQKFLKTSNVSGPVIPTAAQIGVNIPALLDFIVNYIPEPSRDS
+                     AAHPKMVVIRSFDVNRPGTKVSEMTGGVIGGSLVTGMLRIGDKIEIRPGLVMKKNNKF
+                     VCRPFVSEIVSLKAESTDLEEAYPGGLIGVGTTMDPSFCKADKLVGQVMGKLGFLPSI
+                     FYKITVEYSLFPKTTVQGNHKLKEGEHVLLNIGSTTTGSVIVSMGETRAEFDLVKPAC
+                     CEVGERIAISRKINNHWRLIGHGEIKDGMCVEPEYSV"
+     gene            complement(<62719..>63522)
+                     /locus_tag="EHEL_010570"
+                     /db_xref="GeneID:13466492"
+     mRNA            complement(<62719..>63522)
+                     /locus_tag="EHEL_010570"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886613.1"
+                     /db_xref="GI:401825132"
+                     /db_xref="GeneID:13466492"
+     CDS             complement(62719..63522)
+                     /locus_tag="EHEL_010570"
+                     /note="similar to ECU01_0710"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886662.1"
+                     /db_xref="GI:401825133"
+                     /db_xref="GeneID:13466492"
+                     /translation="MCNPEDIVKEASITTPDARRFPSLETASGLEVPKTMSPRSLDDL
+                     NEMYREMEFPTIEERMLRDHMALIDVLNNLNIEYNRYGLTVSSELDELRRKQEEMALH
+                     DEYERECDVLEVELANMKQKYEEMQKYNRHDIGDLRHKLDELRRMFNDMEYERSHTSL
+                     INRIFAFLRGEGPADEEVTSSLAYVKEGREYLNTIEKMLILDEIGSMPDSYNKIVCQH
+                     LIHEESVGLDQLGNALGIDRTALLRIVYGLLSKGIVVFDRSEDRICLQR"
+     gene            <63581..>64027
+                     /locus_tag="EHEL_010580"
+                     /db_xref="GeneID:13466505"
+     mRNA            <63581..>64027
+                     /locus_tag="EHEL_010580"
+                     /product="thioredoxin"
+                     /transcript_id="XM_003886614.1"
+                     /db_xref="GI:401825134"
+                     /db_xref="GeneID:13466505"
+     CDS             63581..64027
+                     /locus_tag="EHEL_010580"
+                     /note="similar to ECU01_0720"
+                     /codon_start=1
+                     /product="thioredoxin"
+                     /protein_id="XP_003886663.1"
+                     /db_xref="GI:401825135"
+                     /db_xref="GeneID:13466505"
+                     /translation="MPSGCEDDGFPCDDEAFMRYREKRIQELCGGIEDITSERELIEK
+                     TKSLKMIVHFYKQEFNRCKIMDRRLEGVREFFPGIRFYRVNAEICPVVARKLEIRVLP
+                     FLGFFKDGYFVDQIVGFERLGDEAEPEALKKRIQESNIFKPVSSIQ"
+     gene            <64094..>65026
+                     /locus_tag="EHEL_010590"
+                     /db_xref="GeneID:13466534"
+     mRNA            <64094..>65026
+                     /locus_tag="EHEL_010590"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886615.1"
+                     /db_xref="GI:401825136"
+                     /db_xref="GeneID:13466534"
+     CDS             64094..65026
+                     /locus_tag="EHEL_010590"
+                     /note="similar to EBI_26412"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886664.1"
+                     /db_xref="GI:401825137"
+                     /db_xref="GeneID:13466534"
+                     /translation="MISDCEGEEIRYDGDSKRIRSIVYECFDGAYDPRRRYIICIQGP
+                     TSTGKTTLARKLYMLLSKGGINTYALELDSYYFRPLNPDLDEEDYDFDNPGALDWENI
+                     FGVLKALRDKEPFIKRNVYSASSYGEVSVVREANTMPDVIIIDGVQAFNTVNSKIFNI
+                     KEFDPYDTEKTIDNEFVDNSLRMDDFKILKILMTNCASKILSVRLKRDELIGRKRDAI
+                     VKRFYSKTLLSTLRWTYSPMYNKFIKIVHGNFNYEKVDLVMNELGLYFFGREIAVDDS
+                     REMDLSNEFNVECTGECKYGGEPYIVLDDKGAGL"
+     gene            complement(<65049..>65357)
+                     /locus_tag="EHEL_010600"
+                     /db_xref="GeneID:13466551"
+     mRNA            complement(<65049..>65357)
+                     /locus_tag="EHEL_010600"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886616.1"
+                     /db_xref="GI:401825138"
+                     /db_xref="GeneID:13466551"
+     CDS             complement(65049..65357)
+                     /locus_tag="EHEL_010600"
+                     /note="similar to ECU01_0730"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886665.1"
+                     /db_xref="GI:401825139"
+                     /db_xref="GeneID:13466551"
+                     /translation="MEAEDYDNNHQRGVHWGFTKILMVAVLYGLSLVCIILGLKPLFD
+                     MEFETKSFANLAFVAFHGFYMFSFMAVHKKSHFIFWSTSYLLLSGTSLLFYFYEDLFI
+                     "
+     gene            <65517..>66173
+                     /locus_tag="EHEL_010610"
+                     /db_xref="GeneID:13466499"
+     mRNA            <65517..>66173
+                     /locus_tag="EHEL_010610"
+                     /product="thymidine kinase"
+                     /transcript_id="XM_003886617.1"
+                     /db_xref="GI:401825140"
+                     /db_xref="GeneID:13466499"
+     CDS             65517..66173
+                     /locus_tag="EHEL_010610"
+                     /note="similar to ECU01_0740i"
+                     /codon_start=1
+                     /product="thymidine kinase"
+                     /protein_id="XP_003886666.1"
+                     /db_xref="GI:401825141"
+                     /db_xref="GeneID:13466499"
+                     /translation="MKRGVLKFVASPMNGGKTTNMLLRAKRASILGWKVLLAKPQVDT
+                     RHKSTVIRSRCGAEMECNLCVDSQFNFAKDISYKDVDILFVDEAQFLSARQIEELREV
+                     VDVHGISVWCYGLLTDFKKNLFAGSKRLVELCDKMYELDVLCCFCSESGRFHLKYADG
+                     KADVSGPSIDVSTPGNDKFVSVCHKCWMEKMSASEEKECARLFCNEGVSVDKAVEING
+                     "
+     gene            <66243..>67250
+                     /locus_tag="EHEL_010620"
+                     /db_xref="GeneID:13466532"
+     mRNA            <66243..>67250
+                     /locus_tag="EHEL_010620"
+                     /product="HRD ubiquitin ligase complex protein"
+                     /transcript_id="XM_003886618.1"
+                     /db_xref="GI:401825142"
+                     /db_xref="GeneID:13466532"
+     CDS             66243..67250
+                     /locus_tag="EHEL_010620"
+                     /note="similar to ECU01_0750"
+                     /codon_start=1
+                     /product="HRD ubiquitin ligase complex protein"
+                     /protein_id="XP_003886667.1"
+                     /db_xref="GI:401825143"
+                     /db_xref="GeneID:13466532"
+                     /translation="MKKIVAYGVTHFILLAIYTMRASHGGLTMYNILTTTTRNSTVHI
+                     LHATFLIFLMCTLTGQIIDYVFKSLRSEEISNFNESLLYFLTDFLLVVSTFDSDINFK
+                     NGLFFVMLLCVKSLSWLLGTRIKRDVYPSLFGLAYGISLFSGLMVLLFTLSCISSIDG
+                     QILFLFEYTLLVIASIKNVCVMNLILSDDDDKRSLHNFYIDIGYMSITLLVYVIFIGI
+                     TSVSYRLPLNLFRSALTIFDALIAKIKVFHNYLKLCKDLEKCVEGTGDGFCAICRDDM
+                     QVGKKLTCGHCFHIECLKMWCERQQTCPICKSELAFDVRKESFVVGGEYISGIPVTID
+                     G"
+     gene            complement(<67270..>67896)
+                     /locus_tag="EHEL_010630"
+                     /db_xref="GeneID:13466516"
+     mRNA            complement(<67270..>67896)
+                     /locus_tag="EHEL_010630"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886619.1"
+                     /db_xref="GI:401825144"
+                     /db_xref="GeneID:13466516"
+     CDS             complement(67270..67896)
+                     /locus_tag="EHEL_010630"
+                     /note="similar to ECU01_0760"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886668.1"
+                     /db_xref="GI:401825145"
+                     /db_xref="GeneID:13466516"
+                     /translation="MEEAEYNGPSSKLKLHIYSKVPKKKHVRENIVVRSYTKNPRRKP
+                     KPWSPEEEEALLKGIKELGHGKWKEILEKYKNIFHECRRHIDLSDKIRVMNKKASYYY
+                     TTKINFIEVNDEGEEVSNALGERRVYPSKFPYSAAKKAGLYRLSSGVKEAVINIQGER
+                     NGVIVRHKYHVSVSPESRTGINLVKIGSETIEKAAQPKKTHEALSTEE"
+     gene            68101..68182
+                     /locus_tag="EHEL_010640"
+                     /db_xref="GeneID:13467209"
+     tRNA            68101..68182
+                     /locus_tag="EHEL_010640"
+                     /product="tRNA-Ser"
+                     /note="tRNA Type: Ser, Anti Codon: AGA, Cove Score: 63.80"
+                     /db_xref="GeneID:13467209"
+     gene            <68229..>69521
+                     /locus_tag="EHEL_010650"
+                     /db_xref="GeneID:13466502"
+     mRNA            <68229..>69521
+                     /locus_tag="EHEL_010650"
+                     /product="RING Zn-finger domain-containing protein"
+                     /transcript_id="XM_003886620.1"
+                     /db_xref="GI:401825146"
+                     /db_xref="GeneID:13466502"
+     CDS             68229..69521
+                     /locus_tag="EHEL_010650"
+                     /note="similar to ECU01_0780"
+                     /codon_start=1
+                     /product="RING Zn-finger domain-containing protein"
+                     /protein_id="XP_003886669.1"
+                     /db_xref="GI:401825147"
+                     /db_xref="GeneID:13466502"
+                     /translation="MNCQVCTGGMDLFARYDCGHRICMTCSARLVFLYMQCSCPLCRN
+                     PAKEIIFSALSMPSEGFPRQMWKGQRAPLVVFYEGEYVKKMMEDLLSNKCRECHRKFG
+                     TLKELKKHYAYHGFVLCSECIKSRRDFWHEIKLYKSDTIRSHRSGSLGEEGFDGHVFC
+                     VHCKIYLFDSDDARKHCNLKHELCNICDILGTKYQYYNSFKDLEAHYKNAHYCCSFQT
+                     CQMNKCYVFPYQTELFDHLNRFHKACVKLSEIPRAGRCSIPVMDPLRKRRTAARASVV
+                     DQSGGEIRLSSFPKANTSQGMVSESVETELPKYLDRNILEEERKRQSRRKAIMERICK
+                     AEADGVEEIVNEFLEDIIDVMAAFNKIADVVGDKVALKLFETMNFGGKQGVVQGSIKA
+                     LRKKVMFPKFVPSEPVEYKEPKEKKSPGFAIIDLCKKK"
+     gene            complement(<69544..>70203)
+                     /locus_tag="EHEL_010660"
+                     /db_xref="GeneID:13466531"
+     mRNA            complement(<69544..>70203)
+                     /locus_tag="EHEL_010660"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886621.1"
+                     /db_xref="GI:401825148"
+                     /db_xref="GeneID:13466531"
+     CDS             complement(69544..70203)
+                     /locus_tag="EHEL_010660"
+                     /note="similar to ECU01_0790"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886670.1"
+                     /db_xref="GI:401825149"
+                     /db_xref="GeneID:13466531"
+                     /translation="MFFLFLGCVFSRTLFYLDESKEVESALRLNGQTVVLMQAKLFHR
+                     ASSSHPWKEAEGISVGTKLSIYKSNGDYKSADPEPKNLIFKDVKHETSTTFFYTTPET
+                     GYYTIVFSLDTDVRGELALELAIYEGRPWTPEIVSGTDYQMEWLTRKMSDLLYVSKNN
+                     FDMQSLDDWDEVEYTGLYNSIFKLINRIVILKIATIFATLLYINRKTKEFYISKKIVK
+                     K"
+     gene            complement(<70293..>71672)
+                     /locus_tag="EHEL_010670"
+                     /db_xref="GeneID:13466491"
+     mRNA            complement(<70293..>71672)
+                     /locus_tag="EHEL_010670"
+                     /product="trehalose-6-phosphate synthase"
+                     /transcript_id="XM_003886622.1"
+                     /db_xref="GI:401825150"
+                     /db_xref="GeneID:13466491"
+     CDS             complement(70293..71672)
+                     /locus_tag="EHEL_010670"
+                     /note="similar to ECU01_0800"
+                     /codon_start=1
+                     /product="trehalose-6-phosphate synthase"
+                     /protein_id="XP_003886671.1"
+                     /db_xref="GI:401825151"
+                     /db_xref="GeneID:13466491"
+                     /translation="MKLLVISNRLPLTIKKGENGFEYTKTSGGLVTGLKSINDKIRFK
+                     WIGNISGVELNEEEKEVIRKDCWEKFHSIPVFIDPVLNEDCYDGFCNAILWPIIHSFK
+                     DDVAFTIKNYNAYVEYNRIFCDKICETVEDGDIVWVHDYHLMMVPEMLRKKSKKDFKV
+                     MFFLHTPFPPAEIMEVLACRKEIVSGIAHSDLVAFHSFDYAINFHDTCVANQVEVRSK
+                     LDAIPIGIDPEMFRNALKEKKTVERIRELKQMFKGKKILLGVDRTDYIKGMPHRLKGF
+                     HRFLEKYPESVGKVVFLQIGVPSRTSVKEYSSYITKLNELTSEVNGKIGSVEETHLYF
+                     LNKSVDFNELCALYAASDVLLVTSLIDGMNLVALEYVSCQDENKGVLLLSESAGASTT
+                     LSAALEINSWNIEEIADGIQKAITMPMEERSERHEINKKAVDVFTSVKWAERNLDGLC
+                     DGWRKSLMP"
+     gene            complement(<71823..>72380)
+                     /locus_tag="EHEL_010680"
+                     /db_xref="GeneID:13466537"
+     mRNA            complement(<71823..>72380)
+                     /locus_tag="EHEL_010680"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886623.1"
+                     /db_xref="GI:401825152"
+                     /db_xref="GeneID:13466537"
+     CDS             complement(71823..72380)
+                     /locus_tag="EHEL_010680"
+                     /note="similar to ECU01_0810"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886672.1"
+                     /db_xref="GI:401825153"
+                     /db_xref="GeneID:13466537"
+                     /translation="MMQLGHLFAGQIVMYISFLLLVAVSEGKIIPAGVSYLARSPYLR
+                     VSDAKGVFCFLFSFCTATIGFMLETMRSTAKICKNDRMKYRVMKAQRGFTYMTLILFI
+                     DFLSAYIFKSLNDRTVSLLILGLISHVCCSLTAFLGMDILNTFFYLTFVMSNLGVLLL
+                     TYVVGFDRVFMGLGHYLGRFRFFPN"
+     gene            complement(<72462..>73508)
+                     /locus_tag="EHEL_010690"
+                     /db_xref="GeneID:13466528"
+     mRNA            complement(<72462..>73508)
+                     /locus_tag="EHEL_010690"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886624.1"
+                     /db_xref="GI:401825154"
+                     /db_xref="GeneID:13466528"
+     CDS             complement(72462..73508)
+                     /locus_tag="EHEL_010690"
+                     /note="similar to ECU01_0820"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886673.1"
+                     /db_xref="GI:401825155"
+                     /db_xref="GeneID:13466528"
+                     /translation="MKLLGLLAIASGAINALKTKALHLNCEQELKPYSAVLSANCMAF
+                     ALNADNIHETIRYLNSVNIDKAYVLYWNDHDLRQNPMVLHKNGALAPLDPNTNRAKYV
+                     LCVEACSCPGSNTRPGNSVPCESICVENNGSTPCSENIYVQREENICNKVVVNPSPRR
+                     CGPCEPCDSSSNSECGDRRCKVFPRVSKKVSGSRRRGCPKKVEVVKSQKTFTFDVEKY
+                     RRRGDVVVRVCSSDCKDKFESFVLSRNGEIRGRSDKCVPEVLPECLRCPGKIYQLKRR
+                     IERDVCQRVCMYINSRCEIFVMVGDCEFYRVIVREGRRRGLHLKKVRGHKLRELIKNG
+                     LFGVEFGPVDYSRL"
+     gene            <73954..>74994
+                     /locus_tag="EHEL_010700"
+                     /db_xref="GeneID:13466527"
+     mRNA            <73954..>74994
+                     /locus_tag="EHEL_010700"
+                     /product="CCCH-type Zn-finger protein"
+                     /transcript_id="XM_003886625.1"
+                     /db_xref="GI:401825156"
+                     /db_xref="GeneID:13466527"
+     CDS             73954..74994
+                     /locus_tag="EHEL_010700"
+                     /note="similar to ECU01_0830"
+                     /codon_start=1
+                     /product="CCCH-type Zn-finger protein"
+                     /protein_id="XP_003886674.1"
+                     /db_xref="GI:401825157"
+                     /db_xref="GeneID:13466527"
+                     /translation="MDIFGGKMDKNPWPIETTSIDINDYAEDYLDKCQCLLAKKTSKS
+                     RNVCTCFKNNKKLFQSNATSYISTHPISKEQSPLERRLKGHDLKVPAGTTQTHFSSAR
+                     GSHPNKKYQLYKTEMCRSHTEIGYCKYGDKCQFAHSKAELRYVQRHPKYKTETCKTFW
+                     EEGSCPYGKRCCFIHIPNTDMGNLPVHDHQKDSKRTYRNYELALGEIDKHPDDGLICS
+                     RIDRPISLAEKGFLEADEEATKSTAEECNMSQSDFFNEIHILNRPFCKSATQSFVPII
+                     EDEFSDEVMLRRPFWESNYSSAWLDEETSLFYLDSPCRKQPKGGVFAPGGSVYKPFNK
+                     KVSDFVFGHLGM"
+     gene            <75058..>75549
+                     /locus_tag="EHEL_010710"
+                     /db_xref="GeneID:13467210"
+     mRNA            <75058..>75549
+                     /locus_tag="EHEL_010710"
+                     /product="putative ribonucleoprotein"
+                     /transcript_id="XM_003886626.1"
+                     /db_xref="GI:401825158"
+                     /db_xref="GeneID:13467210"
+     CDS             75058..75549
+                     /locus_tag="EHEL_010710"
+                     /note="similar to ECU01_0840"
+                     /codon_start=1
+                     /product="putative ribonucleoprotein"
+                     /protein_id="XP_003886675.1"
+                     /db_xref="GI:401825159"
+                     /db_xref="GeneID:13467210"
+                     /translation="MEIVKFEPDAEGIERRKGIKAFGDTNRIRVVKSTTAPKFNLYTT
+                     EIGVKQEEEEKQYTPYRPSLEEPATSNAYVPPTIKRPETCSVKLSNLPLDMTRDRLYS
+                     IIKSHTSVFFMSPNLVMNRETGVFRGFAFVTLESKDDAMKFIRDLRGVAIDSLGLSAE
+                     IAR"
+     gene            complement(<75570..>76592)
+                     /locus_tag="EHEL_010720"
+                     /db_xref="GeneID:13466545"
+     mRNA            complement(<75570..>76592)
+                     /locus_tag="EHEL_010720"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886627.1"
+                     /db_xref="GI:401825160"
+                     /db_xref="GeneID:13466545"
+     CDS             complement(75570..76592)
+                     /locus_tag="EHEL_010720"
+                     /note="similar to ECU01_0850"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886676.1"
+                     /db_xref="GI:401825161"
+                     /db_xref="GeneID:13466545"
+                     /translation="MGWTEAINSRIDAKDGKYISQLFSKSIWMDSERESIDLSKVKHP
+                     FNILLENQKTAIEKKSYGTYETLIRSVVRMTGGEAWTGPIIKRVVYELLELWGKDSSN
+                     KVSKLLLEMYKKLVEQRNPAFIYVGNALFQIYLETERFKLAEDLLASASEPETACRDS
+                     YVFHYYKGIIKMYQDRFRESYLSLKRAFRYKKWRRIMAPVYFISSLLVNKFPKNIYLE
+                     RFGCSYLSELVSVVREGLYVGVDNAIRNASEGITDYNLYRIISVHYPLICFNNLVGRA
+                     YRKHGCDNRLEIQKISEVLPGTDFKEIVCLLSSAIESGRLRGYISISRRVVVFSKADP
+                     FPVIAD"
+     gene            <76676..>77473
+                     /locus_tag="EHEL_010730"
+                     /db_xref="GeneID:13466524"
+     mRNA            <76676..>77473
+                     /locus_tag="EHEL_010730"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886628.1"
+                     /db_xref="GI:401825162"
+                     /db_xref="GeneID:13466524"
+     CDS             76676..77473
+                     /locus_tag="EHEL_010730"
+                     /note="similar to ECU01_0860"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886677.1"
+                     /db_xref="GI:401825163"
+                     /db_xref="GeneID:13466524"
+                     /translation="MDMEIRRHMESSCGDSMVGVQAFVSGESYIFLLFNREMLLAGVT
+                     LQRVGSHVYIKNVDTTGYERGHARRFITSILKALSPELSCCFSTPKSEYIFNGSSQNK
+                     GKVIREPGELLEYWIGIFEDLYDDLHVWSNHYENISYPFKHLDEVVYFEDDPKERLKK
+                     HFVGSLEEMFAVLLCRADFTNGSLVYGRLCKYVGCGMVEAEAGDVYGMEAMLRTLDFS
+                     THSMALKSTEKFISRFGLDIEYFPSKRTARPKKSEQACIVLNPTRKA"
+     gene            <77625..>79775
+                     /locus_tag="EHEL_010740"
+                     /db_xref="GeneID:13466543"
+     mRNA            <77625..>79775
+                     /locus_tag="EHEL_010740"
+                     /product="trehalose 6-phosphate phosphatase"
+                     /transcript_id="XM_003886629.1"
+                     /db_xref="GI:401825164"
+                     /db_xref="GeneID:13466543"
+     CDS             77625..79775
+                     /locus_tag="EHEL_010740"
+                     /note="similar to ECU01_0870"
+                     /codon_start=1
+                     /product="trehalose 6-phosphate phosphatase"
+                     /protein_id="XP_003886678.1"
+                     /db_xref="GI:401825165"
+                     /db_xref="GeneID:13466543"
+                     /translation="MKIIVAMDELPICASRMGEEETIRKRSSALLKRISHPDKTSKIQ
+                     IEFSDDNEEKLRLFAKPHFMAPDMLDDREMSFVGVPGFYSSEAFSDEDRKKIQISMGH
+                     YRCYPVFKRKGEYSRMIERILKKNTYEFVQKHLDHAAMFEEYRIRNNEYYEKIMEIYE
+                     EGDVVWVMDHSLLLLPGMLGGIPVGMSFCAPFSLLFKCIPFWEELFLSILCCKYIEFS
+                     ESSSAESFNMLVSQKKGFVAGNPEYKSVRVPQTCVGKRGIDKEAILKASSEAKKLERF
+                     GNGKIILVPFDSQTHLLGVEAYLSRYEKEITILFLITGALNRDFDEQTEVMRLRKYLE
+                     MNYNILSRVFVPTSDSEFVSVLKSCDLCYCSEMADICSLFGIPVIQSNPYDFFEVADE
+                     INEKLERGGASEKDSRKVIGKMEWKKRFMTNFLHASGIECDIDAEPKEPRVRASLSMR
+                     QKEDVKTNSNKRLSTRKKEDEKKEAIEIDLDNKEDVNAAKIVDDFKKSKVRTLVMDYD
+                     GTLTDIVAHPPMAAPTQEIKDLLVRLNKICRVIISTGRSVEDSDRFFPKEIEVFAEHG
+                     ACYRVDGKWKEGVSFPQKDLAWRVAEFFHLRTPGSDLERKKTGYAFHFRNVSPLIGVK
+                     QAKALFELLVRICKDNVKEGNHIVEVRSSKKSRVMGEVEEGFILCAGDDAADEEAFDL
+                     CSGYTIKVGNQDTSAAYRIKDPKGFRMLLAKFLE"
+     gene            complement(<79810..>80145)
+                     /locus_tag="EHEL_010750"
+                     /db_xref="GeneID:13467205"
+     mRNA            complement(<79810..>80145)
+                     /locus_tag="EHEL_010750"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886630.1"
+                     /db_xref="GI:401825166"
+                     /db_xref="GeneID:13467205"
+     CDS             complement(79810..80145)
+                     /locus_tag="EHEL_010750"
+                     /note="similar to ECU01_0880"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886679.1"
+                     /db_xref="GI:401825167"
+                     /db_xref="GeneID:13467205"
+                     /translation="MNSIAELDDYQKNICLEFILIKYLETNKTKDNDKIDVWLIGDES
+                     GTIEFGVWNCSLSPGDVMYLSGGYTSLFQGKRRLFISKTGCINRVRTFRKVFKVNESH
+                     EEILRELLE"
+     gene            complement(<80255..>80716)
+                     /locus_tag="EHEL_010760"
+                     /db_xref="GeneID:13466520"
+     mRNA            complement(<80255..>80716)
+                     /locus_tag="EHEL_010760"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886631.1"
+                     /db_xref="GI:401825168"
+                     /db_xref="GeneID:13466520"
+     CDS             complement(80255..80716)
+                     /locus_tag="EHEL_010760"
+                     /note="similar to ECU01_0890"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886680.1"
+                     /db_xref="GI:401825169"
+                     /db_xref="GeneID:13466520"
+                     /translation="MVGSIFKPVDLNDLKSNKTIFEDLGGEKKQPKESEFLKTPVSKS
+                     SEPVQNEIPGVVFKAGANLHKFVGEWENIGPGFVYVTKSKEKRCFFIRDGVMMCAFDF
+                     LVTYDVRPTKKKLGVCIGVREMAESKCIEQPYCVVFKNENDANEFVQTMKI"
+     gene            complement(<80887..>81303)
+                     /locus_tag="EHEL_010770"
+                     /db_xref="GeneID:13466547"
+     mRNA            complement(<80887..>81303)
+                     /locus_tag="EHEL_010770"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886632.1"
+                     /db_xref="GI:401825170"
+                     /db_xref="GeneID:13466547"
+     CDS             complement(80887..81303)
+                     /locus_tag="EHEL_010770"
+                     /note="similar to ECU01_0900"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886681.1"
+                     /db_xref="GI:401825171"
+                     /db_xref="GeneID:13466547"
+                     /translation="MNILRKCVFLKLTYMIMGMANAVAEVPSDSIFSVSNERKMINNY
+                     FSDNQIKEFLESVCNIADRIMENTDEIKLVTAALVNKRKSLSEPLQIIGDVFLRIFDN
+                     GMGEKDIKFFKDFFILVLVKLINIPDIVGEVGNALS"
+     gene            complement(<81466..>81960)
+                     /locus_tag="EHEL_010780"
+                     /db_xref="GeneID:13466539"
+     mRNA            complement(<81466..>81960)
+                     /locus_tag="EHEL_010780"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886633.1"
+                     /db_xref="GI:401825172"
+                     /db_xref="GeneID:13466539"
+     CDS             complement(81466..81960)
+                     /locus_tag="EHEL_010780"
+                     /note="similar to ECU01_0910"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886682.1"
+                     /db_xref="GI:401825173"
+                     /db_xref="GeneID:13466539"
+                     /translation="MEPSDGRSGSTISLKKLGIIVAIFFFTMATGLILIYRHLNSKSD
+                     GGSVSGSQSRFGISMRREGKKPTSGGNERASLLSMDVEHVRKLFNAIFEDISDGKKAY
+                     MDIVNFLEKHENSSGLSPRTKNFIKRAILFLKGISSTTDKSGDIEILMALVNVITKRL
+                     PKNK"
+     gene            complement(<82102..>82503)
+                     /locus_tag="EHEL_010790"
+                     /db_xref="GeneID:13466536"
+     mRNA            complement(<82102..>82503)
+                     /locus_tag="EHEL_010790"
+                     /product="40S ribosomal protein S12"
+                     /transcript_id="XM_003886634.1"
+                     /db_xref="GI:401825174"
+                     /db_xref="GeneID:13466536"
+     CDS             complement(82102..82503)
+                     /locus_tag="EHEL_010790"
+                     /note="similar to ECU01_0920"
+                     /codon_start=1
+                     /product="40S ribosomal protein S12"
+                     /protein_id="XP_003886683.1"
+                     /db_xref="GI:401825175"
+                     /db_xref="GeneID:13466536"
+                     /translation="MSEVQEPMMESEMTLQEALSKVCKVSRTYCRLSRGARETSKKML
+                     AGNMRFVMLAKDAEPRIAKLITLLAKKKDIPIISIESRLELGKIVGVENVSSSGKVRS
+                     KGCCVAGIQDYCEQTTEAGYVQAALLRGVSS"
+     gene            <82660..>83055
+                     /locus_tag="EHEL_010800"
+                     /db_xref="GeneID:13466493"
+     mRNA            <82660..>83055
+                     /locus_tag="EHEL_010800"
+                     /product="thioredoxin-like protein"
+                     /transcript_id="XM_003886635.1"
+                     /db_xref="GI:401825176"
+                     /db_xref="GeneID:13466493"
+     CDS             82660..83055
+                     /locus_tag="EHEL_010800"
+                     /note="similar to ECU01_0930i"
+                     /codon_start=1
+                     /product="thioredoxin-like protein"
+                     /protein_id="XP_003886684.1"
+                     /db_xref="GI:401825177"
+                     /db_xref="GeneID:13466493"
+                     /translation="MPIVVRDFSGMSPEEIKEKVKELGKPVLLKFSSEGCGPCEDLKE
+                     KLSQYKTDLEINIFELCRTRSFSYASLWDEFDITAFPTVVLVDKNMKEVQDKNGSQGA
+                     PTRIIGSNIRKFEELVKGYAHLFEQAASQ"
+     gene            complement(<83060..>83539)
+                     /locus_tag="EHEL_010810"
+                     /db_xref="GeneID:13466513"
+     mRNA            complement(<83060..>83539)
+                     /locus_tag="EHEL_010810"
+                     /product="ubiquitin conjugating enzyme E2"
+                     /transcript_id="XM_003886636.1"
+                     /db_xref="GI:401825178"
+                     /db_xref="GeneID:13466513"
+     CDS             complement(83060..83539)
+                     /locus_tag="EHEL_010810"
+                     /note="similar to ECU01_0940"
+                     /codon_start=1
+                     /product="ubiquitin conjugating enzyme E2"
+                     /protein_id="XP_003886685.1"
+                     /db_xref="GI:401825179"
+                     /db_xref="GeneID:13466513"
+                     /translation="MPNLERLLAEQENLAKNRKYGFYAIPLPEKPGRNITRWECGVPG
+                     PHEGVYKGSYYTLYVDFPEDYPFQPPQVLFKYPVYHPNVYPTNQVCLDIIGDRWKPSL
+                     NVMNVLCGVQQLLGAPNTRSPANTDASLCFKKDPEKYMECVKENIRKYHRRPEWRGL"
+     gene            <83613..>84101
+                     /locus_tag="EHEL_010820"
+                     /db_xref="GeneID:13466546"
+     mRNA            <83613..>84101
+                     /locus_tag="EHEL_010820"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886637.1"
+                     /db_xref="GI:401825180"
+                     /db_xref="GeneID:13466546"
+     CDS             83613..84101
+                     /locus_tag="EHEL_010820"
+                     /note="similar to ECU01_0950"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886686.1"
+                     /db_xref="GI:401825181"
+                     /db_xref="GeneID:13466546"
+                     /translation="MVRERLTKEDEENIDIILNPYPLATENTLNEIDASNDPEVRNKL
+                     VGDLSVILSNYAAVLNPKVQEKFPKLVSLLRDKEIYNSGAFMLSDACRHIEDVQNAFR
+                     ALGVFELLDFAIDHYKATTSLVYSLCMENKSNTEHFLEKYYNKERDEDNALIQSVRDQ
+                     SF"
+     gene            complement(<84142..>84429)
+                     /locus_tag="EHEL_010830"
+                     /db_xref="GeneID:13466535"
+     mRNA            complement(<84142..>84429)
+                     /locus_tag="EHEL_010830"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886638.1"
+                     /db_xref="GI:401825182"
+                     /db_xref="GeneID:13466535"
+     CDS             complement(84142..84429)
+                     /locus_tag="EHEL_010830"
+                     /note="similar to ECU01_0955"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886687.1"
+                     /db_xref="GI:401825183"
+                     /db_xref="GeneID:13466535"
+                     /translation="MRNNKPIILTKKRPEGQNKPKGTSDEDVEVRMVSKEVGDAIANA
+                     RTKKGMSRKDLAQKMKKNVSVIDSWERGEAAYNEKIASELEKILEFKIDWK"
+     gene            complement(<84497..>85090)
+                     /locus_tag="EHEL_010840"
+                     /db_xref="GeneID:13466500"
+     mRNA            complement(<84497..>85090)
+                     /locus_tag="EHEL_010840"
+                     /product="Tat binding protein 1-interacting protein"
+                     /transcript_id="XM_003886639.1"
+                     /db_xref="GI:401825184"
+                     /db_xref="GeneID:13466500"
+     CDS             complement(84497..85090)
+                     /locus_tag="EHEL_010840"
+                     /note="similar to ECU01_0960"
+                     /codon_start=1
+                     /product="Tat binding protein 1-interacting protein"
+                     /protein_id="XP_003886688.1"
+                     /db_xref="GI:401825185"
+                     /db_xref="GeneID:13466500"
+                     /translation="MKEDYDDDEERVFQMMYKCNRPTSKSEIVAYFKGEIGGTAIQEI
+                     LNYLESDGRLVTKTYGKTKIYLVNQDLFQNEEDVKLSTELQGYEEKIKLLAEEIGSLD
+                     AEIKMLDKMMSIDQLEESIEALDRTVKDNQKRLEGFRDGGREVSKKEMDGAKKKYERA
+                     QSGLKKVRRIFNEIVERLSEGMDMKKSELYEEIGIEV"
+     gene            <85176..>86084
+                     /locus_tag="EHEL_010850"
+                     /db_xref="GeneID:13467202"
+     mRNA            <85176..>86084
+                     /locus_tag="EHEL_010850"
+                     /product="aldo-keto reductase"
+                     /transcript_id="XM_003886640.1"
+                     /db_xref="GI:401825186"
+                     /db_xref="GeneID:13467202"
+     CDS             85176..86084
+                     /locus_tag="EHEL_010850"
+                     /note="similar to ECU01_0970"
+                     /codon_start=1
+                     /product="aldo-keto reductase"
+                     /protein_id="XP_003886689.1"
+                     /db_xref="GI:401825187"
+                     /db_xref="GeneID:13467202"
+                     /translation="MICKVLKLNNGYEIPTVGLGTWKLEDESSLESSIRNAVSLGYRH
+                     IDTAFIYGNEKMIGNILKKLFNEGVVQRKDLFITSKLWNTFHDCPEDALRRTLGDLQI
+                     DYVDLYLIHWPVTFEPAPNGSMESCGKKYNIGEFDAVTLWKKMEALVDLGLARSIGVS
+                     NFGKENTEKVLGACRIRPAVSQFELHPYLTQKDLVEFMRSKGIQVISYSSLGSGGQDS
+                     SPKVREDKTIKEIAKKYGCTPSQVILSYIVSRGVCVIPKSKSKEHLKENIDLKELSKE
+                     DISAIDGLNINHRYVNPVGFGPNRFK"
+     gene            complement(<86390..>87634)
+                     /locus_tag="EHEL_010860"
+                     /db_xref="GeneID:13466489"
+     mRNA            complement(<86390..>87634)
+                     /locus_tag="EHEL_010860"
+                     /product="WD domain-containing protein"
+                     /transcript_id="XM_003886641.1"
+                     /db_xref="GI:401825188"
+                     /db_xref="GeneID:13466489"
+     CDS             complement(86390..87634)
+                     /locus_tag="EHEL_010860"
+                     /note="similar to ECU01_0980"
+                     /codon_start=1
+                     /product="WD domain-containing protein"
+                     /protein_id="XP_003886690.1"
+                     /db_xref="GI:401825189"
+                     /db_xref="GeneID:13466489"
+                     /translation="MIEMSRDEINQLVYKYLEDEGYIYTLFTFKNEATPSDKPLAHSL
+                     ISLVGKGLQYMYGTKHLHGSEIIKCDAKFCLSEEHVCKFKKKEAVDGSMPRALKKEET
+                     MTINAVEVCLENVGSELLSCWNKEWLSIYTESGEVLGLGSEGLLWKREMKKLTALSWS
+                     DDNLVAGNECGEVITVNVSSGRTRSYACHGKAVTRVRQRGRGILSSGRDGRIVMMNNG
+                     VTEISVSECGVEDAVWMGENEVGCSLSDFSVSFVNGSELEVTKLGAHEGNISSMGHSG
+                     QILSTSSHDGTLGLWNVASMNGNRIGAHDGGVNCHKWIDGKAATCGSDMLVKIWDMEK
+                     VVPVYELKHEDKVMAIDCSSRVVASGSSDGQVVLSDCRCNEVYRYKVDGSISKLLFSE
+                     SGAYLCICISGRSPKLINLRYF"
+     gene            <87714..>91412
+                     /locus_tag="EHEL_010870"
+                     /db_xref="GeneID:13467207"
+     mRNA            <87714..>91412
+                     /locus_tag="EHEL_010870"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886642.1"
+                     /db_xref="GI:401825190"
+                     /db_xref="GeneID:13467207"
+     CDS             87714..91412
+                     /locus_tag="EHEL_010870"
+                     /note="similar to ECU01_0990"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886691.1"
+                     /db_xref="GI:401825191"
+                     /db_xref="GeneID:13467207"
+                     /translation="MLMGKLEEFPSLKSPSGNEANPFRRRKRKLILYSLYLFSIIVMC
+                     RLANTFYWLYTLDLNKLCLNKVVYDTKTWKKIEVGISLENSESPIHVKFTDVTANLFS
+                     MSTDGIESPLLSLRIPGANIAKHKNILFNGDIYVENFNRRNMLESRFSVNFVIKIDAK
+                     MYPRLCFIRFPFHSSQTLSLGSSISRPGKEVVFKHVCAGMKDGYLLLEGEVDSSKFNV
+                     PKFVVIRSREIVVNFGGGEGPRTLTIGPIEVDGTMFMEPLIVKISISEEWGDELRRSL
+                     VRVLRGDEVCVKVDDFYFKNHDDGTPEERIRLGIGIGFNAKNSKDYDITFMKKNVKST
+                     PLSAPVIILRNVVGRENPGLNIYINKDALPCIEYYSFLAIPSKPVSGSVHLNGCCIGG
+                     IEVEVGNTDKHFVLLCTFLEFDSLKILKAFKMRRKKDLRVVLNSDVGFGVLVNNVGVA
+                     WDLSENLYLFYKDERYDFLSSEKNKDSINVRHVISNASGSLRVDTAVVFSPIRKNSVG
+                     FLQLNLHGFSLSLANAGINARINVSDTNILYQNTNEPFCRRLFGKLTVHTRVEDTLDC
+                     ILRSIEYVGDDPVEDDEQQGLQLGKICLRYDDGKPNELGKHFFSITIPEDSRSRDMGA
+                     SIQNIVRVVGGIRFSLVADTRDMSFGPVHPVVVEIGNSKLRYLKRGKEACLDVIGGID
+                     VSVSFSHPYDLVALWMCDVDVVCDEKDYMARTIKSIVAKAMRKRDGRAVEKHVCNKDL
+                     VFKSRLKKMKSCSPRFEHVYEGVTEISIPIEMFNSAGIEFDIPRVGVAAFDVCNENSH
+                     YRGIASVETLPCSYYEFEGSEYRSFGILYRFSELSLDNALVSICLINGNKLSSPTVIE
+                     HTLFRKIMADIRNEFTKVKGKSTLAAEISSTSNWKIRSIGKTVTSDEDTWTLRVFSDK
+                     LKDLVFSKVPNLLLDSFYEVLPSGMRFVVDIDKDVVEILIESHKRNPWRDEEAGSESK
+                     GPFYGILDLKFSRFLFSETVKYKFQTVEDIQTNKNRAMLERPYRDPFTDTAEYKDWCI
+                     TSKFGFQANITNDGVICIPKVRFSMPIVFSLVSIFPPYVPFVPDMNGLGMYVEFPLPF
+                     DLRIPSPELPVEVTFVSKSNDKELGRLGFGTIVSSPNIFFITISIPPTSYALSLGETL
+                     KRYKKGRKRDYPTIQQDVSISIFVNGVKAHECLNRIVVEAQEFSGLLHSLVFLEKRLF
+                     SFTGTIARKIQRSLRESKKKQPRALGNQ"
+     gene            <91493..>92080
+                     /locus_tag="EHEL_010880"
+                     /db_xref="GeneID:13467211"
+     mRNA            <91493..>92080
+                     /locus_tag="EHEL_010880"
+                     /product="CDP-diacylglycerol
+                     inositol-3-phosphatidyltransferase-like protein"
+                     /transcript_id="XM_003886643.1"
+                     /db_xref="GI:401825192"
+                     /db_xref="GeneID:13467211"
+     CDS             91493..92080
+                     /locus_tag="EHEL_010880"
+                     /note="similar to ECU01_1000"
+                     /codon_start=1
+                     /product="CDP-diacylglycerol
+                     inositol-3-phosphatidyltransferase-like protein"
+                     /protein_id="XP_003886692.1"
+                     /db_xref="GI:401825193"
+                     /db_xref="GeneID:13467211"
+                     /translation="MKLGVIFNVPNTIGYFRIGLLVASVFASGPSFVALYGLSSLLDF
+                     FDGHFARMLNQCSLLGSSLDMITDRVSTVVISLRIIQKRSEYLYFLSLYMVFDLISHF
+                     IYFHMSALLGKHHKGTKNRILRIYYDKRVLGPICLLSEVFFMYAYYFGGKGALLYTLG
+                     GITTLKALFHLAQLSEAISSMSDIIVLKNNIQGVD"
+     gene            complement(<92133..>92708)
+                     /locus_tag="EHEL_010890"
+                     /db_xref="GeneID:13467212"
+     mRNA            complement(<92133..>92708)
+                     /locus_tag="EHEL_010890"
+                     /product="ubiquitin-conjugating enzyme E2"
+                     /transcript_id="XM_003886644.1"
+                     /db_xref="GI:401825194"
+                     /db_xref="GeneID:13467212"
+     CDS             complement(92133..92708)
+                     /locus_tag="EHEL_010890"
+                     /note="similar to ECU01_1010"
+                     /codon_start=1
+                     /product="ubiquitin-conjugating enzyme E2"
+                     /protein_id="XP_003886693.1"
+                     /db_xref="GI:401825195"
+                     /db_xref="GeneID:13467212"
+                     /translation="MLSPGARRRLSKEEDMLKDSTGDERKLFRACPRGPKENRNYKVW
+                     DIYFTLGGDSLYAGRILKAVMEFPDCYPLQPPTLKFVSKMFHPNIYEDGKMCISILEE
+                     DTHDPTGYGDSKDKWAPVQNIRTILLSIIVILNAPNTSSPANVDASVMHRDNPEEYAK
+                     KVIKIAREEDEKLRSTDPQAREIALEMEAED"
+     gene            complement(<92772..>93557)
+                     /locus_tag="EHEL_010900"
+                     /db_xref="GeneID:13467213"
+     mRNA            complement(<92772..>93557)
+                     /locus_tag="EHEL_010900"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886645.1"
+                     /db_xref="GI:401825196"
+                     /db_xref="GeneID:13467213"
+     CDS             complement(92772..93557)
+                     /locus_tag="EHEL_010900"
+                     /note="similar to ECU01_1020"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886694.1"
+                     /db_xref="GI:401825197"
+                     /db_xref="GeneID:13467213"
+                     /translation="MESPGCLRRQAVLYSVPLLLVASHFPGPYLFVLSIPSSLFAFLI
+                     PGTKRRMYISNLLFILSLLFPGLYFLCYGFTIAAIYVSVSNLCMGRFRKENLVIAGMM
+                     ESMGMLLSLYSLRNNVVSICLAALYFLFIHRLMSPPIESDNYGQAYKKIAWLLREASF
+                     TDRANEYREVVGCRSIVVPEFKIDLWTPLLMGRLSCLAKAVICCSSLIPIGKSYWMSF
+                     VVYSLSFLPVEWACMCLSFFCDFGSGHPFYRLVSAQALYLMTR"
+     gene            complement(<93656..>94372)
+                     /locus_tag="EHEL_010910"
+                     /db_xref="GeneID:13467219"
+     mRNA            complement(<93656..>94372)
+                     /locus_tag="EHEL_010910"
+                     /product="cell cycle control microtubule-binding protein"
+                     /transcript_id="XM_003886646.1"
+                     /db_xref="GI:401825198"
+                     /db_xref="GeneID:13467219"
+     CDS             complement(93656..94372)
+                     /locus_tag="EHEL_010910"
+                     /note="similar to ECU01_1030"
+                     /codon_start=1
+                     /product="cell cycle control microtubule-binding protein"
+                     /protein_id="XP_003886695.1"
+                     /db_xref="GI:401825199"
+                     /db_xref="GeneID:13467219"
+                     /translation="MAQKSRRELIEWIKSLGIEISAIEELGKGVVICKILSLIHSDFP
+                     ANFVRDPAGEHEYLRNMKACQGFFASKNIKLYFPVDKLIKCKMQDNLEVAQWLARYYS
+                     KNMGGRQSRECPKDEAPRALVSSSNSPHCPGCKSFREEMDVKDNRIRELESMVAEMEG
+                     RIKQLEAEKSSTTKKTPVSGLKGFDDEEVKSLLMAFEKERDFYFKKLFTVEKYFLEEK
+                     GIDESLKNDVLGILYEESNE"
+     gene            <94429..>94914
+                     /locus_tag="EHEL_010920"
+                     /db_xref="GeneID:13467275"
+     mRNA            <94429..>94914
+                     /locus_tag="EHEL_010920"
+                     /product="general negative regulator of transcription"
+                     /transcript_id="XM_003886647.1"
+                     /db_xref="GI:401825200"
+                     /db_xref="GeneID:13467275"
+     CDS             94429..94914
+                     /locus_tag="EHEL_010920"
+                     /note="similar to ECU01_1040"
+                     /codon_start=1
+                     /product="general negative regulator of transcription"
+                     /protein_id="XP_003886696.1"
+                     /db_xref="GI:401825201"
+                     /db_xref="GeneID:13467275"
+                     /translation="MVNIQKKLEQIQQDHHVVHDMNKDKLGEILSIVKDKKYQDPSTY
+                     YPQSLLSKMLPNCYPKAPNEGIFKVNIEDMKMDNLHEETLFYIFYTFPNDKLQAKAYD
+                     NILKRKYVFCRMYKCFVTFNSPLIADHVKRSITMFDPFSWSKVSIEVVFDERFIRSLE
+                     R"
+     gene            complement(<94972..>96663)
+                     /locus_tag="EHEL_010930"
+                     /db_xref="GeneID:13467274"
+     mRNA            complement(<94972..>96663)
+                     /locus_tag="EHEL_010930"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886648.1"
+                     /db_xref="GI:401825202"
+                     /db_xref="GeneID:13467274"
+     CDS             complement(94972..96663)
+                     /locus_tag="EHEL_010930"
+                     /note="similar to ECU01_1050"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886697.1"
+                     /db_xref="GI:401825203"
+                     /db_xref="GeneID:13467274"
+                     /translation="MNFTSNEEERFKEMLKSKKKEEVLVELSREIERKEKEMMGSISQ
+                     DYMDIIGKCSDLEKIKQRLGGIININNELVSSISDAVIQYTDALHEIEENSVIESRLD
+                     LVVSELKEILEFISIASEYESVDKDVRDEPLYYYKMTKRVLLMEKKLCLLEKYRFFVN
+                     ASQICIKSRKVLVSLMMKDIDLWIGSAGNNIRQAGIEINRILEERNKESHIFDPLDSL
+                     RHLFISKTFLCILHESRKLGVETGIMERVNEKRKELGRDVVSGDDTIVISDTAGFILW
+                     SHYIASLDIGFKIHDKFIFDLLSRNKMLFESQNFPELRRTLVSLRKLAVRLNIDYESV
+                     DRIISSVAINYFEVQGPKDIGIDGGGMEQLKSSMMTFIDECDEFVSNIFQFSNELDEL
+                     LAKRIDQHLCSLIDETKGDMDTFIEAQSVVSEVLRHSIEKNDFYRSLEFRCSLEIDKE
+                     NRRFMEEIIKQKKKEIDELFKTVATNDDFGVDILKLFSKVRDLRFPENINTTIKRTLV
+                     CHIRDRFAAGINGKGLSSQEKKVVRGHLCSFYGYLRNNEPSLQDILEPDVKREKP"
+     gene            complement(<96681..>98699)
+                     /locus_tag="EHEL_010940"
+                     /db_xref="GeneID:13467273"
+     mRNA            complement(<96681..>98699)
+                     /locus_tag="EHEL_010940"
+                     /product="Rad25-like DNA repair helicase"
+                     /transcript_id="XM_003886649.1"
+                     /db_xref="GI:401825204"
+                     /db_xref="GeneID:13467273"
+     CDS             complement(96681..98699)
+                     /locus_tag="EHEL_010940"
+                     /note="similar to ECU01_1060"
+                     /codon_start=1
+                     /product="Rad25-like DNA repair helicase"
+                     /protein_id="XP_003886698.1"
+                     /db_xref="GI:401825205"
+                     /db_xref="GeneID:13467273"
+                     /translation="MNELVIPKKATKHQFPYEELVLKENSESYPMWVNYDGLIILETF
+                     RESSRQASDFLIAIAEPMSRPLKIHEFQITAYSLYAAVSVGLTTGDIIETLDRFSKNH
+                     LPRSVKVFITECTLSYGKVKLVMKENSFFLEAANESVYKMLSEDAVIRSHTVDKPKEK
+                     GGLSIEVEDVELVKKRCIEVDYPLIEEYDFRNDKVLRSLKIDLKPTTIIRSYQEICLN
+                     KMFGNGRARSGIIVLPCGSGKTIVGITAISTIKKSCLVLCTSAVSVEQWRQQTQQFTN
+                     ISPDNVGRFTSDHKEWPKDDCGIVVTTYTMLAYTGKRSYEAQKIMDLIRKTEWGLLVL
+                     DEVHVVPAMMFRRVLSLVSHHCKLGLTATLVREDDKIEDLNFLIGPKLYEADWQDLSA
+                     KGHIAKVSCVEVWCGMTGDFYREYLSQPTRRRRLLSIMNPTKFQVCEYLINKHESRGD
+                     KIIVFSDSVYALKAYALKLGKPFIYGPTGQTERMRILKQFQTNPVINTIFLSKVGDTS
+                     IDLPEATCLIQISSHFGSRRQEAQRLGRILRAKRRNDPDFKVYFYSLVSKDTDEMFYS
+                     NKRQQFLIDQGYTFTILTDIPEVHENEHCVYRTKGQQRELLAGVLLASEKELESEESD
+                     NAEGIVYSTAKLKSLSGADEMAYIERKGPQHHAFTKSNKKNRKMNPKP"
+     gene            complement(<99121..>100296)
+                     /locus_tag="EHEL_010950"
+                     /db_xref="GeneID:13467271"
+     mRNA            complement(<99121..>100296)
+                     /locus_tag="EHEL_010950"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886650.1"
+                     /db_xref="GI:401825206"
+                     /db_xref="GeneID:13467271"
+     CDS             complement(99121..100296)
+                     /locus_tag="EHEL_010950"
+                     /note="similar to ECU01_1070"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886699.1"
+                     /db_xref="GI:401825207"
+                     /db_xref="GeneID:13467271"
+                     /translation="MIGQLSLVAVLWRYAEATDVGSPLYSVLPSNSPLFDQGFMGPIP
+                     QVQTISVPPSKPGQLLSYSPEGGAGNGQQMAMSPMALQPPGNSQYANACDMSEKKEQL
+                     KKCLADQLGKFKNILENCRKTLGENAKECCIDQKCLDLLNGGNTSCNEESDEKNCKDK
+                     KCRDKIADEIIKNLNLDQLKKSLLDSLKGSLKKIGNKLGSLTSCSRGEGGCDEDGGTR
+                     SSLGLGKDVPPGVLIYPIEQSKYEAITNILDRQQRFPHQRSIEQPDIQGNPNGPYGKG
+                     SPDTWGKHYSPRRGDRRRARGAKRDEESWESTEDSENEWKPSDTQSPRPRPSKKPEMP
+                     CTREMCADMDRYDSPSMKDECIKYCKDYRRKDTKKSKDEEKEEISELTSDSCYDEKK"
+     gene            complement(<100422..>101339)
+                     /locus_tag="EHEL_010960"
+                     /db_xref="GeneID:13467248"
+     mRNA            complement(<100422..>101339)
+                     /locus_tag="EHEL_010960"
+                     /product="tRNA/rRNA cytosine-C5-methylase"
+                     /transcript_id="XM_003886651.1"
+                     /db_xref="GI:401825208"
+                     /db_xref="GeneID:13467248"
+     CDS             complement(100422..101339)
+                     /locus_tag="EHEL_010960"
+                     /note="similar to ECU01_1080"
+                     /codon_start=1
+                     /product="tRNA/rRNA cytosine-C5-methylase"
+                     /protein_id="XP_003886700.1"
+                     /db_xref="GI:401825209"
+                     /db_xref="GeneID:13467248"
+                     /translation="MDTYNEYLLEKICELFPRKEAEVFIEESEKQRPTTIRINTLLKR
+                     RKDVSKLLRGRGVDLDDLSWIDSGCVIFKSSVPIGATPEYLAGYYCLQGAASMLPVLN
+                     MELKEGLSVVDLCAAPGGKTTHIAALMENTGVIYANDVNEERIAGLKSNIQRMGVRNC
+                     IVMNMDGRKVNVGKVDRVLLDAPCSGTGVISKDPSVKTSRTKSEIDRMATLQKELILH
+                     GFDMLRPGGILVYSTCSVLVKENEEVVNYLLTKRPSAKMAQCEVDIGKDGFMSFKGRN
+                     YNGSLKMARRIYPHVHNMDGFFYAKIVKK"
+     gene            complement(<101430..>102869)
+                     /locus_tag="EHEL_010970"
+                     /db_xref="GeneID:13467247"
+     mRNA            complement(<101430..>102869)
+                     /locus_tag="EHEL_010970"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886652.1"
+                     /db_xref="GI:401825210"
+                     /db_xref="GeneID:13467247"
+     CDS             complement(101430..102869)
+                     /locus_tag="EHEL_010970"
+                     /note="similar to ECU01_1090"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886701.1"
+                     /db_xref="GI:401825211"
+                     /db_xref="GeneID:13467247"
+                     /translation="MESSEAARNLRDDSRGKNGAGHVARRNKNPLKNRIVNEALCRLH
+                     GSEIEGQEIDIAKIETMLLNDVVGSVVIDIPGNEIVPVLCFFEGNLGLKTIGFKSSSS
+                     SSMTEKGSRDVRPGSPGIKEETDDRERFIEERADSDRKTKRKIEDERRTSGRKRKELA
+                     EDKGEGSSRESLPSDTDDCRYRYFLRRVFPTMQKDDEKVLQYITDQRDMLLKRTESNR
+                     AEIPEICNRPAKAPMNIIPHIPEIPETGFTEEEDKQVSELICKYGNNFKKIKEAAPHL
+                     ETGKCILKYYMMKDKTYSYIKHKSGRISDSEVKLIIESRWSEYERNVFIQHFRMFGKS
+                     WGRYQPLINKSEKDLKMFFRYYMKFVLPSSEGTSTVALAAPRRVSISKEDVLRKWTID
+                     ERQVFAIYFPYYSKNWILMATYFPSKTSGDLRQYYNKYYKNLSYNEQRLEASLHDFGQ
+                     GVTTPPARHVGNIREEVVFCRTAGVLFKK"
+     STS             102199..103681
+                     /standard_name="D1S3694"
+                     /db_xref="UniSTS:474272"
+     gene            <102927..>103205
+                     /locus_tag="EHEL_010980"
+                     /db_xref="GeneID:13467264"
+     mRNA            <102927..>103205
+                     /locus_tag="EHEL_010980"
+                     /product="SCF ubiquitin ligase and anaphase-promoting
+                     complex protein"
+                     /transcript_id="XM_003886653.1"
+                     /db_xref="GI:401825212"
+                     /db_xref="GeneID:13467264"
+     CDS             102927..103205
+                     /locus_tag="EHEL_010980"
+                     /note="similar to ECU01_1095"
+                     /codon_start=1
+                     /product="SCF ubiquitin ligase and anaphase-promoting
+                     complex protein"
+                     /protein_id="XP_003886702.1"
+                     /db_xref="GI:401825213"
+                     /db_xref="GeneID:13467264"
+                     /translation="MENKEIIKLKKWNLVALWSLDMKIETCAICRNHIMDTCVECQNG
+                     IISNDECKVSWGVCNHAFHTHCITRWLSSKNVCPLDTKKWVYYNPEEK"
+     gene            complement(<103266..>103880)
+                     /locus_tag="EHEL_010990"
+                     /db_xref="GeneID:13467261"
+     mRNA            complement(<103266..>103880)
+                     /locus_tag="EHEL_010990"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886654.1"
+                     /db_xref="GI:401825214"
+                     /db_xref="GeneID:13467261"
+     CDS             complement(103266..103880)
+                     /locus_tag="EHEL_010990"
+                     /note="similar to ECU01_1100"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886703.1"
+                     /db_xref="GI:401825215"
+                     /db_xref="GeneID:13467261"
+                     /translation="MDFLSDDGEGVFDERVRIRKRNVLSNITNRLDGVKDGGKDGDRK
+                     GASAGKGNDVSEQELLNGIGSRDVGRGKVVFKDFILDDSQEPAAGEDRAKNRGDDVLF
+                     RIQKEFEELKEMHGKTLRARRKLIKAMEKEMSEIRREMEAKQKVEIENLKKRYDEKLQ
+                     EKQEAYRRICKEKILEYKRRLDEAYRAKALELKERYGAPRKKKS"
+     gene            complement(<104239..>104835)
+                     /locus_tag="EHEL_011000"
+                     /db_xref="GeneID:13467259"
+     mRNA            complement(<104239..>104835)
+                     /locus_tag="EHEL_011000"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886655.1"
+                     /db_xref="GI:401825216"
+                     /db_xref="GeneID:13467259"
+     CDS             complement(104239..104835)
+                     /locus_tag="EHEL_011000"
+                     /note="similar to ECU01_1110"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886704.1"
+                     /db_xref="GI:401825217"
+                     /db_xref="GeneID:13467259"
+                     /translation="MLVFVKNGEVIHTEDLKNVDPLTLETYEELLSSTGSVVFCILVC
+                     ENTKHVYLASSIVSMRYTVSGAIRIYKLKDPSTRNEVKDILYFEVVKNPLYLRIFKDI
+                     QKSNLLRGKEDAMDSLRDGACEPPHSGTMVRAVYIGSELDLVYNADLQKKVFRNGEKR
+                     GSFVSTLIGGAVFFLSFILLFFFMVCFFYILLRFVLLA"
+     gene            complement(<104948..>105229)
+                     /locus_tag="EHEL_011010"
+                     /db_xref="GeneID:13467255"
+     mRNA            complement(<104948..>105229)
+                     /locus_tag="EHEL_011010"
+                     /product="cytochrome B5"
+                     /transcript_id="XM_003886656.1"
+                     /db_xref="GI:401825218"
+                     /db_xref="GeneID:13467255"
+     CDS             complement(104948..105229)
+                     /locus_tag="EHEL_011010"
+                     /note="similar to ECU01_1115"
+                     /codon_start=1
+                     /product="cytochrome B5"
+                     /protein_id="XP_003886705.1"
+                     /db_xref="GI:401825219"
+                     /db_xref="GeneID:13467255"
+                     /translation="MNLIRWSREKRRAPSFRTFTVEEVSRHDKVDDCWIIMDGVVYDV
+                     TDFLRLHPGGIDVIMKHAGRDCTDAFNKAHPHVNKELLLGSVIGTVVKE"
+     gene            <105280..>106713
+                     /locus_tag="EHEL_011020"
+                     /db_xref="GeneID:13467254"
+     mRNA            <105280..>106713
+                     /locus_tag="EHEL_011020"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886657.1"
+                     /db_xref="GI:401825220"
+                     /db_xref="GeneID:13467254"
+     CDS             105280..106713
+                     /locus_tag="EHEL_011020"
+                     /note="similar to ECU01_1120"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886706.1"
+                     /db_xref="GI:401825221"
+                     /db_xref="GeneID:13467254"
+                     /translation="MEGIDQTDLCIKVSPLFNASMKTSATIYVDEELRKPVMEELDAG
+                     ASISSIGQISDVCSLPGLIGDVIGLPDIHTGYGFPIGCVAAFDINNPESVVSPGGVGY
+                     DINCGVRALRTNLDIKCLKEKAESLADELFGIIPTGMGSDKRSRISLGTLNSILDQGL
+                     DYLLKSKEIPDEDVEYCESNGHMDGDSRLINQKSKGRGLNQLGTLGSGNHYLEVQYVD
+                     EVYNAEKAEVMGIRKDQIVLMIHTGSRGLGHGVCHDSLMKMAGKNADHSQLACSPYSS
+                     KESQEYLLSMGCAANFAFVNRAVITKKARQAFEKVFPGSRLDLIYDVCHNIAKVESHR
+                     SHGMEYDAIVHRKGASRAFPPGHPDIPWKYKEIGQPVIVGGSMGTYSYILCGSEKSME
+                     LSFGSTCHGAGRVLSRSRSKDLFTHKNVCDLLRSQDIVFRCPNDPGMVEESPGCYKDI
+                     NRVVDLSDRIGLTEKVCRMKPCLVIKG"
+     gene            complement(<106724..>108118)
+                     /locus_tag="EHEL_011030"
+                     /db_xref="GeneID:13467252"
+     mRNA            complement(<106724..>108118)
+                     /locus_tag="EHEL_011030"
+                     /product="S8 serine protease"
+                     /transcript_id="XM_003886658.1"
+                     /db_xref="GI:401825222"
+                     /db_xref="GeneID:13467252"
+     CDS             complement(106724..108118)
+                     /locus_tag="EHEL_011030"
+                     /note="similar to ECU01_1130"
+                     /codon_start=1
+                     /product="S8 serine protease"
+                     /protein_id="XP_003886707.1"
+                     /db_xref="GI:401825223"
+                     /db_xref="GeneID:13467252"
+                     /translation="MILAIAFLSLALCRERSDYIVMFDQDPSMDKASMSALYSMNILK
+                     AQSILEPDESIEIKITNGFVARMTESTAEKMKRHPNVKMVVRDTPVGISGVKVDTPAG
+                     TWMGGIVMQRHAPWGLAKIGGSASFARGNYYYPINSGEGVDVYVLDTGVEVSHPEFEG
+                     RARWGANFVAGSLDEDEHGHGTHCAGVIGGKNFGISKESSIIAVKVLDKHGSGMTSRL
+                     LQGLDFVIKEHERKKDDLYSAAANEYLSSSGSSDIDIEISDPESFSFLRSRVPSVQRL
+                     VDTISEKTLEPKTIVNLSVGGLRNRALNFAIEYASRLGIHFSTAAGNDHDDACDFSPG
+                     SSKASITTGASTYRDTVAFFSNFGKCVNIFAPGVDILSSWIGGTQKIISGTSMAAPHT
+                     TGVMAAYLTYYDYDPQTLKHRIIGDARIVEDKDNNGSNDNALWPFPALFNSNRRKLPM
+                     LSMEKLLRRIKNKI"
+     gene            complement(<108156..>109304)
+                     /locus_tag="EHEL_011040"
+                     /db_xref="GeneID:13467246"
+     mRNA            complement(<108156..>109304)
+                     /locus_tag="EHEL_011040"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886659.1"
+                     /db_xref="GI:401825224"
+                     /db_xref="GeneID:13467246"
+     CDS             complement(108156..109304)
+                     /locus_tag="EHEL_011040"
+                     /note="similar to ECU01_1140"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886708.1"
+                     /db_xref="GI:401825225"
+                     /db_xref="GeneID:13467246"
+                     /translation="MHVFRTKEEAAKHLRTKFTDAHEVKDLIEKHGIAMKRGCYNSYE
+                     AKVVDETIRGFLKEHGMEMKNLYGFFLEEELDFPIKELLVEISNALGQRTMNSIWVYV
+                     SYHYHPYIDAKWEPENEIQLLNLVRVLGFRWKEICGIMNKTSRKCISMYYRIMGFNYL
+                     YRKSFKMPEEGIPTTDEEWERLCERLRTNRRRLSHLINGYISSKLVVPFWNEYNNMAL
+                     MGHVILHNHFCSVDIKIREILRLIDEGGIESPDGEIVGRERIREEISKLIPDLSGYEL
+                     GIPIDLEDVFWRTIKLFVRFSSGLLRSRFIQIMKVYGIRTFRDLIEVFQSLAVDCYLY
+                     KIKDKIRDEVSKMLADKKTKRRSTKDLIARRESVPVDLATSSQNDRFR"
+     gene            complement(<109319..>109906)
+                     /locus_tag="EHEL_011050"
+                     /db_xref="GeneID:13467243"
+     mRNA            complement(<109319..>109906)
+                     /locus_tag="EHEL_011050"
+                     /product="cyclin K-like protein"
+                     /transcript_id="XM_003886660.1"
+                     /db_xref="GI:401825226"
+                     /db_xref="GeneID:13467243"
+     CDS             complement(109319..109906)
+                     /locus_tag="EHEL_011050"
+                     /note="similar to ECU01_1150"
+                     /codon_start=1
+                     /product="cyclin K-like protein"
+                     /protein_id="XP_003886709.1"
+                     /db_xref="GI:401825227"
+                     /db_xref="GeneID:13467243"
+                     /translation="MESVLRNDIVEGNRTISNLAKLLCIPYKTRIVSQIIFQQVYPKL
+                     FKKESYNVVALVCVYLASKINETLIKLDVILEAMAKAAHMSTAPSRERIIAIECKVIE
+                     LIEFQFNISPVQFFLLRLGKTLNIDVLKKLSVLDEIHGDGRVNFIKYFGGVYEPEMVA
+                     LSVLDEEELSLFECFFGVSVNRALVEEIKSVVIKK"
+     gene            <109941..>112952
+                     /locus_tag="EHEL_011060"
+                     /db_xref="GeneID:13467263"
+     mRNA            <109941..>112952
+                     /locus_tag="EHEL_011060"
+                     /product="chromosome segregation ATPase"
+                     /transcript_id="XM_003886661.1"
+                     /db_xref="GI:401825228"
+                     /db_xref="GeneID:13467263"
+     CDS             109941..112952
+                     /locus_tag="EHEL_011060"
+                     /note="similar to ECU01_1160"
+                     /codon_start=1
+                     /product="chromosome segregation ATPase"
+                     /protein_id="XP_003886710.1"
+                     /db_xref="GI:401825229"
+                     /db_xref="GeneID:13467263"
+                     /translation="MFIKEIVLDGFKCYEEKVTVANLDRSFNAITGMNGSGKSNVLDG
+                     ILFALGLESTKALRANNTRELVNANRKECKVSLVLCNEEKSKSPPGYEHYDEICISRS
+                     IDAEGRTKCYINSHLCTSSALSKLCTSMGLGPRGSFSSIVMQGHITKVLSMKSSDLRE
+                     LIEETAGTRSYEREKERAIAMIEKKEERLKDVREMLQRRISPFYDRLRQERTRFLETR
+                     DIHERRKELERREQEIKGMLVRHEIGEEIDTLEKCLRSYAGEMKTLGAIEKRIEEISG
+                     AKEEVDVVWIKAAIDGEKLRLDELKGKNLEEELVEKREEMKRMKDLTPSVELDELVER
+                     ERLLVESLRRIDSGENDVLKKIEEVTSLKFERSRAEFELSSISGGRFSQERLDEIERL
+                     KVSEDEIEEMRRKAHILRSKINYPFVEGVFGTVEENVEVCDKKYLEAVYTVMGSRGKY
+                     VIASDEKVGGFLVSTMERSVSVIPLSKIRVFYLSSSVTREIESKGGVNMVSLLKFNSD
+                     VRKAIEFVFNNFFVFESKEMARKVCFEQKVMCVTVDGTVYDPKGTLSGGKTNFRVGTV
+                     RRKDVEDIERTIGLLEENRRKFESMREEYGELLRGKALHERREELKEKIRSFDTRISI
+                     LSNLCENGMNIKEELRAVREKMVEGMKEKNEIDGAIERRKRLECKIKELECAIRSNKE
+                     EIRMCEEKILSYERMLGKHNMENDSRRMSEKEIDGLESNHRHLIRSTGKLQNRITKIY
+                     NDVERKLSEASEHGVEQRYGNVGMLDEEIRMAAESAGISPRCLLIRRKCISEEEKAGL
+                     TKELEMITGEMERLRCMRRSTMDPANFDLLERNELMIEELKEKIDKLEKDRLAIGQSI
+                     SRFDDLGYKENLKAFKHINGRLGRFLRYFIPGSDARIDERNGEYSLKVKVGNWKESLN
+                     ELSGGQRSLVALCLIFSMLTYRPSSFYIFDEIDSALDLSYTQGIGEIIKKEFDSAQFI
+                     VVSLKSGMFDNANNIFKVYLQDGKSRICRIK"
+     gene            <113013..>114863
+                     /locus_tag="EHEL_011070"
+                     /db_xref="GeneID:13467262"
+     mRNA            <113013..>114863
+                     /locus_tag="EHEL_011070"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886662.1"
+                     /db_xref="GI:401825230"
+                     /db_xref="GeneID:13467262"
+     CDS             113013..114863
+                     /locus_tag="EHEL_011070"
+                     /note="similar to ECU01_1170"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886711.1"
+                     /db_xref="GI:401825231"
+                     /db_xref="GeneID:13467262"
+                     /translation="MNETMKSAKFDFDTGDSDSHNYTHNESESYSAEDAKYDVGKEES
+                     SDPFEKLRSSAADTLHQRTGWIFLVGVLLSVLAVCCWNLQVDVKDRSESISSIRVKDI
+                     LLACSLGVFTFIGLNFVIFKTSFLGMKRSSSLNTFFYYANELSEHSSAGIIFILGFSL
+                     ALLKGFDYCVYNRQGLDLFLSDVFSSLLIATLMLGVVKVFHRAISMNFNYSVYIKRIR
+                     RVLLEDAFINLLGVIDSRKNRGIERSRLNRSQEIMYKSDAISSINEYMEDLYGYNEPT
+                     NELDLPRKRVLLKEFQRLVRRSSGIRGSVIQISQKLKNRAASKASKIVGKDGVGPMSD
+                     LSLYFHNPEVFKFLMKEIGVEEGFKFTKGSLADFIERTYRERHFLKENLEHMNSAIDK
+                     VALGLKVIIAGLILAMLYIKAGGEGITTIGVISAFFGTQFISNSFSASVIGSIIFLFF
+                     IHPYDIGDRIFVTLDGVEENLVVSELNVFSTVFYRWDGVYITILNTVLAQKAIRNLRR
+                     SGIMAESHRIQINSRTNQKKLIRLKELIEDFVKSNPEDYTEYIMLNHEYIEDASKLHM
+                     KVYMQYKSSWQNFELYLRRKTKFLSFLNRALQELEIEYVLPPRQISLRNA"
+     gene            <114940..>116097
+                     /locus_tag="EHEL_011080"
+                     /db_xref="GeneID:13467272"
+     mRNA            <114940..>116097
+                     /locus_tag="EHEL_011080"
+                     /product="replication factor C large subunit"
+                     /transcript_id="XM_003886663.1"
+                     /db_xref="GI:401825232"
+                     /db_xref="GeneID:13467272"
+     CDS             114940..116097
+                     /locus_tag="EHEL_011080"
+                     /note="similar to ECU01_1180"
+                     /codon_start=1
+                     /product="replication factor C large subunit"
+                     /protein_id="XP_003886712.1"
+                     /db_xref="GI:401825233"
+                     /db_xref="GeneID:13467272"
+                     /translation="MRSQIWFEKYRPRKYTDLVFKEDVHHDVLRWLRDYPAHGRILLL
+                     KGPPGTGKTSLVHVLSSVFGLNLVEFNASDDPKYIEKISGAYGTIDGKKNLIFIDEID
+                     SIPLADLERLVSSIKLVYPVVMTSNEIHLEDVYTVEIKRPGISEIRKGIERICKEEGV
+                     YVGNSALLQMAEDSGGDFRAIINHLQVHKERLQNSKDLGIGKSASLVQHRAVELVLTK
+                     RMGWKTYEDVYSANVLSLCHSSFPHNTGLMRLVADISEATSLADILPEEFRYISLSRY
+                     NMCNSKKASIQSMVHYEETMHDPVRERVLPYFKKYDLNRADRRSLNHLREIVRMYNIM
+                     DVRLREEDTAESNMGDGFKRFKFKYKPGSSSAFRRDVTMDDVMDWFFSTRH"
+     gene            complement(<116094..>117218)
+                     /locus_tag="EHEL_011090"
+                     /db_xref="GeneID:13467257"
+     mRNA            complement(<116094..>117218)
+                     /locus_tag="EHEL_011090"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886664.1"
+                     /db_xref="GI:401825234"
+                     /db_xref="GeneID:13467257"
+     CDS             complement(116094..117218)
+                     /locus_tag="EHEL_011090"
+                     /note="similar to ECU01_1190"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886713.1"
+                     /db_xref="GI:401825235"
+                     /db_xref="GeneID:13467257"
+                     /translation="MIDWLVENSLGLYPVALERQVERMDAGKRNSEGVKKECSVSYIL
+                     SIVPRAGKPEPATLLVRGYQWNDGIGPRIDFSTDLDAKDYYEVKDIRETRMTNFSCHG
+                     RTVLYIFITNARGKTTMYYAQFSGCYSLRDPKVPLYRVELFHKDGFYRIDKDPSHDMI
+                     LKSINIRSKHQGLLHYCWSGQGGLERQARPELGLEIEGERYTVYGFRCIFCIKQFKDI
+                     SSLAFHISYIHSGYKCIQSEGSLLLRKDSDSLQSCRTLVYFSRKYKRKRLTPGKVQDV
+                     SQRYEGSVNGIWSMESLLGLANKGVRASSALPENTLALMEKWNALRLHGGMFLDDVAR
+                     FAKQERKNPSIVNFLLVLYHKSVVDPKELMELVYSLFEDD"
+     gene            complement(<117298..>118428)
+                     /locus_tag="EHEL_011100"
+                     /db_xref="GeneID:13467270"
+     mRNA            complement(<117298..>118428)
+                     /locus_tag="EHEL_011100"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886665.1"
+                     /db_xref="GI:401825236"
+                     /db_xref="GeneID:13467270"
+     CDS             complement(117298..118428)
+                     /locus_tag="EHEL_011100"
+                     /note="similar to ECU01_1200"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886714.1"
+                     /db_xref="GI:401825237"
+                     /db_xref="GeneID:13467270"
+                     /translation="MRESIFTGKIPISCQNEEIPWQMKCDIVRSDDEVEIRLIDTRDI
+                     FTFYFSTISPGDFYVMKREQDIIVDYEKFVSILVKMFHSLHSGKLRGLFSKETSKFLF
+                     VEKDEFRNIVRLELKFSKPDETHYKMYLGDMIGRMESENVRLVKENGMLRDKCRSGEK
+                     ELRDRIRYLEEEAMAAQKKMNKLYKENELLNEKGDAQREEVERLNSKTYDLEKENGRL
+                     QYELDKLKLQDVKNSGLVERAQKIEDENKTLKEELNTANEIIRKYSEEIAQMKSTISG
+                     SEDATKDLRQSNKKYKSEIEDLKKRMKGMEDKMKKMKEELKSKETRLKDLETENMGLV
+                     KNLENAQNVYSHFYSKNIENPTSINYSDNESVFSIAPESSPH"
+     gene            <118510..>120279
+                     /locus_tag="EHEL_011110"
+                     /db_xref="GeneID:13467269"
+     mRNA            <118510..>120279
+                     /locus_tag="EHEL_011110"
+                     /product="dynamin"
+                     /transcript_id="XM_003886666.1"
+                     /db_xref="GI:401825238"
+                     /db_xref="GeneID:13467269"
+     CDS             118510..120279
+                     /locus_tag="EHEL_011110"
+                     /note="similar to ECU01_1210"
+                     /codon_start=1
+                     /product="dynamin"
+                     /protein_id="XP_003886715.1"
+                     /db_xref="GI:401825239"
+                     /db_xref="GeneID:13467269"
+                     /translation="MPDVKKIHALQDIASTVSCLGINMPQIVAVGSQSSGKSSVLEQI
+                     IRREILPRGTNLVTRCPVVLHLRRCKDKPECVVFDHLANPVYDFAEARSIITQRMVEI
+                     CGDNKGISNSPITAFVNLKDTLEMTVVDLPGLIKVPIGEQPEDIEIQVESMALSYAAR
+                     ESSIILALINANADIATNEALKIARKVDPQLKRTLGVITKIDLMDGGTDCLNILQNTN
+                     PRLALGYIGVINRGQQDIAKGVSVHEAVLRESVYFRESPFYSRLYPSIGSDYLVRRLN
+                     EVFCKMAVESIPGIKAAIRNQLNDKAKRLHELGLGNTTKGERSLVLDYHQVVLGIFRN
+                     IKPSSGVFSKDSTSFLGTLRETFEKDRPLPSFEDLTHRLKKSSYIFISEDVFYDVVRE
+                     NIRKMAETYLEKARAAVKLLTKEVWGISSTRFEALSKKLNSVTCECIEEQKNKLLDSI
+                     HLYSSIQSSYINVNHPDFDKSRALALILRKMPRADPGILGAIFNTKEMPFEDKVLEAQ
+                     VIKELAESYLGIVNKEMKNYVFKAIHYYLCEYIDSKLLGILTELEIEDSALSECPEIV
+                     HERNILFKDVEALKSALSAIGNL"
+     gene            complement(<120319..>120873)
+                     /locus_tag="EHEL_011120"
+                     /db_xref="GeneID:13467267"
+     mRNA            complement(<120319..>120873)
+                     /locus_tag="EHEL_011120"
+                     /product="guanylate kinase"
+                     /transcript_id="XM_003886667.1"
+                     /db_xref="GI:401825240"
+                     /db_xref="GeneID:13467267"
+     CDS             complement(120319..120873)
+                     /locus_tag="EHEL_011120"
+                     /note="similar to ECU01_1220"
+                     /codon_start=1
+                     /product="guanylate kinase"
+                     /protein_id="XP_003886716.1"
+                     /db_xref="GI:401825241"
+                     /db_xref="GeneID:13467267"
+                     /translation="MIDTVHLVFTGPSGSGKSTIIGHVLSRFPFEFSVSHTTRAPREG
+                     EVNGKDYYFVTVREFEEMVRGQELLEYVRYNGNYYGTSASQLKNTRKTVLLDLEYDGV
+                     LYCKKNCPNFVIIYIHCDKDVARERLEKRMGSGLKREIEARMDLYEAFNSIRGKCDYE
+                     VDNTHSLEKSKKEVEKIISKVFML"
+     gene            complement(<120941..>123283)
+                     /locus_tag="EHEL_011130"
+                     /db_xref="GeneID:13467265"
+     mRNA            complement(<120941..>123283)
+                     /locus_tag="EHEL_011130"
+                     /product="AAA+ ATPase"
+                     /transcript_id="XM_003886668.1"
+                     /db_xref="GI:401825242"
+                     /db_xref="GeneID:13467265"
+     CDS             complement(120941..123283)
+                     /locus_tag="EHEL_011130"
+                     /note="similar to ECU01_1230"
+                     /codon_start=1
+                     /product="AAA+ ATPase"
+                     /protein_id="XP_003886717.1"
+                     /db_xref="GI:401825243"
+                     /db_xref="GeneID:13467265"
+                     /translation="MAGTMNEKDFSTAILESKTKNTLIVCDKDCDKLRTYQVGLHPTT
+                     LNELELFESDYVRILGKKKAELIFSTVALESVPPKHIAVVRDGRFNLRVRITDTVKLY
+                     RVDKDIPVVSKLNFLPIKDTVEKIRGNIFDEFVRPFLDFNFMPLTVGSIYGVSSGLGR
+                     VEFKVTKMIDAQDMEIKHGSVTSTTSVYCDETISREEVEKEFNMVGYDDVGGCRAQMA
+                     KIRELVELPLRHSQLYSKIGVKPPKGILLYGPPGTGKTLIARAIANETGAFLFLINGP
+                     EIMSKMAGESESNLRKAFEEAEKNAPSIIFIDEIDALAPKREKSQGEVERRIVSQLLT
+                     LMDGMKARSNVIVLGATNRPNSIDSALRRYGRFDREIEIGVPDETGRLEILRIHTKNM
+                     KMSEDVDLVAINKELHGFTGSDLASLCSEAALQQIREKLPQIDLDDDKIEAKVLASLK
+                     VTNENFRYAIEHTDPSSLRETVIQSPNVKWSDIGGLKLVKQELRETVQYPVEYPEKFI
+                     KFGMTPAKGVLFYGPPGCGKTLLAKAVATECKANFISIKGPELLSMWVGESESNIRDL
+                     FARARGAAPCVLFFDEIDSIAKARSGNDGSSGVTDRMLNQLLSEMDGINLKKNVFVIG
+                     ATNRPDQLDSALMRPGRLDQLVYIPLPDLESRVSILQATLKKTPLSPDIDLRQLAEAT
+                     DKFSGADLSEICQRACKLAIRETIEYELEQKKKGSEMMDLEDPVPYLRPDHLVQALKT
+                     ARRSVSDKEVERYEAFARSMKIDVRKFDKKKDFNDDGLYE"
+     gene            <123509..>125236
+                     /locus_tag="EHEL_011140"
+                     /db_xref="GeneID:13467256"
+     mRNA            <123509..>125236
+                     /locus_tag="EHEL_011140"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886669.1"
+                     /db_xref="GI:401825244"
+                     /db_xref="GeneID:13467256"
+     CDS             123509..125236
+                     /locus_tag="EHEL_011140"
+                     /note="similar to ECU01_1240"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886718.1"
+                     /db_xref="GI:401825245"
+                     /db_xref="GeneID:13467256"
+                     /translation="MGWCSNLLSSLTLIALLLAYAFAGRIAKCILYLPLNGISFMIYF
+                     RIRSFIGRRHLSVVTNVLSRLIKFAVGGLLTYTTASLTSAKCAHGPLVLGGILLSIDL
+                     IRAYLYESSKRNFENKILTGNFMDILKLEKYIIHSVEGPQSADLERNLSVDEYFNRGR
+                     PKPIEANGLFDLWNDQNPYEEHASDSDFIESNVGSKKKVRRQRISIDPETYGFASEKG
+                     RPPRDILRIEKVVLTPEEKRKERMYAMNPSEMMPGMDCKPEIDWKDISGEEWGFLEID
+                     KKRTKKIPARPGLITIESLRTQFGEKNAKEAYSLIAFKRGEGINYDVFKENWRQINGE
+                     RDNLYKTIMDNRRLLNVIWFILVLLESIIGYLMISMYFKTQPLLLELIFPMVILPALP
+                     IVKMTVESFLFIIYTHPYDPGDRVHIDGENMVVRRISLFSTVLETWDGMETIIPNLVI
+                     REKAILNIRRSKQQQWRLSLLVSSRTPERKIELLREAIKRFVRHDKSYITASVSLSEI
+                     VDCNHLRLTVIVKHSINFQSGFFMWTAHTKFVNMVLAIMCKLDIRFAPLGKEIVNLGP
+                     TYEHANYEK"
+     gene            <125360..>128413
+                     /locus_tag="EHEL_011150"
+                     /db_xref="GeneID:13467253"
+     mRNA            <125360..>128413
+                     /locus_tag="EHEL_011150"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886670.1"
+                     /db_xref="GI:401825246"
+                     /db_xref="GeneID:13467253"
+     CDS             125360..128413
+                     /locus_tag="EHEL_011150"
+                     /note="similar to ECU01_1250"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886719.1"
+                     /db_xref="GI:401825247"
+                     /db_xref="GeneID:13467253"
+                     /translation="MEEFSTTSNRREKLSKPLLPEDVPKRAVEPQLRIHERSVEEFQD
+                     ILDMEPKEGLFFYIRIPGLIFVGSVAGYIIGKAGLSFVNLFFVGYVIFFVYNRKVERF
+                     TRSLKSLVYHSARKEKARNSGETVEWLNYAVKKFWEVAEPVISAEVYQQVNNELLKIT
+                     PPFLNGLRLTEFTLGSRSPFIEGISYISMDGNTLAIEMEVAFVPLEISRDVVNYLEDD
+                     SKNWNSKIQLSARVGTRNGIGINLPILVKELFFKGRVRIVANLFSKNVFVKDVEVCLM
+                     DSPEFDFTLVPLKMVDIMDVPGLSRWIRSIINSSLATTVVNPNSITVDVDKISKDKGK
+                     TIGVVCLQILNLENEEDERLSVEIDVDGRVGYQTGYGEGKGIVYNEHFYMPIENVDSR
+                     IGLSLRSESRKTRRRNGSIFLKNLPLGKIEESARCDLYDPRRTFFNKTRLVKDEQTYS
+                     FLNTNLQFYPIQKERSNSGIIKMMLVGIEDLRGNKASKAYTYSTFCTVIVSPINREES
+                     SIPMGFIENTVSVTAMMVSGIIKTTGNAITNIIPGLETTTTRLLPSSKNTFYVFESKR
+                     IFGTNSPIYNESFTFFCRDIQVDVVSICVMNDKTNEVIGRVSIPVRDIHFNKKEKYKL
+                     NDAYSGRMELSFTIDYVDMVDKATKFVNYERMMKVSVDSMNEKGVYYAIFETNTDCFR
+                     METFTSALPIKRTSYVPIQPQDALRFRLYKETINGDVFIGEDKISCRPCDGVRKEAFL
+                     LDEQISLTLSIEEEALRDYSGAPEEKNNVKVIQAKFGRFYGHSQEMFIEFSNKYGIIG
+                     ASGFTRGGKLNDTFTFISGSEEIYAVVKSGDQTVNSTVGQCIIPKRALKERVMLNEQG
+                     LSVDMEVRIQGCSYKPPSMLKAGYLEVYIKNGSNIRPTQSPADTYCKILVNDTKVYTT
+                     KPVRKNSNPVFNESFIMEIDKTKDVFGIQVCDYNVSERNALLCYTEFSLHNLSEGFSE
+                     MEFELFDGKTFQPVDSRIRIGFNFCADHKSLKIKKKGILSDFFGF"
+     gene            complement(<128452..>128850)
+                     /locus_tag="EHEL_011160"
+                     /db_xref="GeneID:13467251"
+     mRNA            complement(<128452..>128850)
+                     /locus_tag="EHEL_011160"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886671.1"
+                     /db_xref="GI:401825248"
+                     /db_xref="GeneID:13467251"
+     CDS             complement(128452..128850)
+                     /locus_tag="EHEL_011160"
+                     /note="similar to ECU01_1260"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886720.1"
+                     /db_xref="GI:401825249"
+                     /db_xref="GeneID:13467251"
+                     /translation="MIERIESDKVYDLVSGGDGMTVEALKQFIDIVFLDVNPQQVSQL
+                     TQSLGSVVTRDDFNSILGSLVHKKAGCLDVFSSWDRGQKGYIDKSDVETILKSYGLSF
+                     KESYIDAMIGIFKDKRMGLDDLNSLWKEEE"
+     gene            <129100..>129729
+                     /locus_tag="EHEL_011170"
+                     /db_xref="GeneID:13467250"
+     mRNA            <129100..>129729
+                     /locus_tag="EHEL_011170"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886672.1"
+                     /db_xref="GI:401825250"
+                     /db_xref="GeneID:13467250"
+     CDS             129100..129729
+                     /locus_tag="EHEL_011170"
+                     /note="similar to ECU01_1270"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886721.1"
+                     /db_xref="GI:401825251"
+                     /db_xref="GeneID:13467250"
+                     /translation="MVRKSLYILAAAGVGIIKATTNNGGLYIPSSVLQDLGNTSGCLM
+                     VTESGDGNFSIVPSGSPVYIEQQNGHAEVSWSPLVGGNRAVPVYAPSAQEVRESIPSA
+                     SGLEIVQYTAPQQEGFVSSSTPVVAVVEEVVPVSGVAVSSTSSTPETKSTGTTTTAVG
+                     ATGDKSKTTTGTTSDKSKSSSSSSSKKKKGAKSIMALGAVLTTALFSIL"
+     gene            complement(<129870..>130796)
+                     /locus_tag="EHEL_011180"
+                     /db_xref="GeneID:13467249"
+     mRNA            complement(<129870..>130796)
+                     /locus_tag="EHEL_011180"
+                     /product="purine nucleoside phosphorylase"
+                     /transcript_id="XM_003886673.1"
+                     /db_xref="GI:401825252"
+                     /db_xref="GeneID:13467249"
+     CDS             complement(129870..130796)
+                     /locus_tag="EHEL_011180"
+                     /codon_start=1
+                     /product="purine nucleoside phosphorylase"
+                     /protein_id="XP_003886722.1"
+                     /db_xref="GI:401825253"
+                     /db_xref="GeneID:13467249"
+                     /translation="MFTEVKANKGFGSGSHDSSIKYTYELVKDISEFVMKRIQISPKV
+                     GIICGSGMGEITKELSGKVEIRYKDIPHFPVSTVQGHDGKLVAGKMGGVEVICMQGRL
+                     HYYEGYPLSTCSMPVRMMKLCGITHIIISNAVGGINPDYNIGDIMIVKDHINFLGYGG
+                     VSPLIGAHDERWGPRFVPMDKVYSQEVREKAKVAAQRLGIEPFLREGVLSIAGGPCYE
+                     TVSESRMLHKLGVDAIGMSAVGEAITAHQAGLTVFGFSLITGKCPMEYDVDSEISHDK
+                     VVGCAQERGILVGRWLSELIEILAPSLSCART"
+     gene            <131104..>131511
+                     /locus_tag="EHEL_011190"
+                     /db_xref="GeneID:13467220"
+     mRNA            <131104..>131511
+                     /locus_tag="EHEL_011190"
+                     /product="nuclear distribution C-like protein"
+                     /transcript_id="XM_003886674.1"
+                     /db_xref="GI:401825254"
+                     /db_xref="GeneID:13467220"
+     CDS             131104..131511
+                     /locus_tag="EHEL_011190"
+                     /note="similar to ECU01_1280"
+                     /codon_start=1
+                     /product="nuclear distribution C-like protein"
+                     /protein_id="XP_003886723.1"
+                     /db_xref="GI:401825255"
+                     /db_xref="GeneID:13467220"
+                     /translation="MPQEAKYTWDQELNEINIRFPMVEGVDSSSVKISVVGRKVLMKI
+                     QEDVIMDGEFLHEVDSSSLWWVVDGDTVDINITKKRNEWWDSLLVGSETVDVQKLAED
+                     KHADISMLDPEAREVVEKMMHNTGKKDSSELCD"
+     gene            <131587..>134496
+                     /locus_tag="EHEL_011200"
+                     /db_xref="GeneID:13467218"
+     mRNA            <131587..>134496
+                     /locus_tag="EHEL_011200"
+                     /product="WD40 domain-containing protein"
+                     /transcript_id="XM_003886675.1"
+                     /db_xref="GI:401825256"
+                     /db_xref="GeneID:13467218"
+     CDS             131587..134496
+                     /locus_tag="EHEL_011200"
+                     /note="similar to ECU01_1290"
+                     /codon_start=1
+                     /product="WD40 domain-containing protein"
+                     /protein_id="XP_003886724.1"
+                     /db_xref="GI:401825257"
+                     /db_xref="GeneID:13467218"
+                     /translation="MTAKEIKRIMEKETSRVKSLSFHPSKPVIISGHHSGSIRAWDYQ
+                     MGACIHEFLDHDGSVRAVLFHPRGDFFVSGGDDKVIRVWSYTERRITNRLKGHEDFVR
+                     SLDFHPTKPWILSASDDQTIMVWNMLTGKLLATARGHCHYVMAARFLGEETIVSGSLD
+                     QSIRIWDCRGLKEGSKKNSLLPDIVIKQIVDGHDRGINTIAVKDQVFVSGGDDRDIKC
+                     WEWSDTSVWEKEVMYNHQGPVTGLLCDGKYILSSGEDGLFSVYDTEGRKSVECRTEGR
+                     YWCVASKENLYAAGHDSGFEVYLYSEPKIVCVDGEGLFYLRDSKIYFSDFKTEKMLFK
+                     VKKDVVSICSKSPYLLVQYYDRFDVLMEGKVILGESGEGALFRNSNGDMELIVKNEDG
+                     AFRGDMNSKNRSLLSSSKGRLLKGNDDFFFLVNGRSITMCFVEGEERSFSIPFNPTKV
+                     ACSNDRISFIGSNDILVYDLDLNPVNSINEIASIVDGFFYEDVFVYATYRHLKYAFED
+                     SGVLKSIEKPIVPFALEEGKVVYFLSDDGIECTDVDLTEIRFKKAVLTGEDVTSLIEE
+                     GTMPGLAPLSYLVRQKKGALALPYIRDSRQRFELCLSDARLDECMEYCIEEGDGDMNR
+                     RLADTAIRECRVDIAERCLENIKEWNMLFMLYVCSKDNEKIRRLVDKVDSVTKNMIMM
+                     YLEDVEYFQRIGVIGKYEGRSEEKEAALEDEECNHMESEASGSLRLKSSASSDALQEY
+                     ESYEKNSSLPEYEPSTPRTKEEGMAKDLPFDEKSLDESGRFETSEDLDKIMEKGLSLT
+                     TEGKFGRAVEAFLAGIVKIAIYIRDNNASEAFVEERRKIGSYLSGLAVEKIRRKTESP
+                     LKNIMMAKYFSELPLEKEHHVLASSTAIMVFRKNGNLKQAKELAVLLKKEGGNSRAIE
+                     KATEEVDPEDRYEVPEGVFCHDILEIRPVAKTCLLCFVRSAHGDVCTSCRIGVLQ"
+     gene            <134584..>135810
+                     /locus_tag="EHEL_011210"
+                     /db_xref="GeneID:13467266"
+     mRNA            <134584..>135810
+                     /locus_tag="EHEL_011210"
+                     /product="WD40 domain-containing protein"
+                     /transcript_id="XM_003886676.1"
+                     /db_xref="GI:401825258"
+                     /db_xref="GeneID:13467266"
+     CDS             134584..135810
+                     /locus_tag="EHEL_011210"
+                     /note="similar to ECU01_1300"
+                     /codon_start=1
+                     /product="WD40 domain-contaiining protein"
+                     /protein_id="XP_003886725.1"
+                     /db_xref="GI:401825259"
+                     /db_xref="GeneID:13467266"
+                     /translation="MNNKKKVKPDKNSYGALNLPQELIPRIIAHLSVKYIKRLMRCNS
+                     LLYTKLRNDFSLWRLFTSGRYPCVSGYISEIRNKYTLVKNISRSRNERSVDFETKQSD
+                     LTYMQIDRDKVICSSDDQTIKIFGMDGRLVRTFIGHKGGVWTFMVNSKFLVSGSTDKT
+                     ARIWDLHTGCTLCVLVGHKSVVRSLKMYEDYIVTGSRDSEIRVWNFSGTCLNVLKGHT
+                     MSVRCMDINEAYLVSGSYDGSVALWDYRKGRLLRYLKSHSLRVYSVSLSSNYVASGSL
+                     DSSVHVSSLDGRLLCSYKVHRSLVIWLKFVGNGRYLLSSGADGILCKWDILENALVYK
+                     IEENGHITAQAVIEDLLIVGTKREVKIYNLFSGRFIRTLFSASSLISKVEVSGRCISI
+                     GYYSDSGACRLIVFNY"
+     gene            <135855..>136202
+                     /locus_tag="EHEL_011220"
+                     /db_xref="GeneID:13467229"
+     mRNA            <135855..>136202
+                     /locus_tag="EHEL_011220"
+                     /product="frataxin"
+                     /transcript_id="XM_003886677.1"
+                     /db_xref="GI:401825260"
+                     /db_xref="GeneID:13467229"
+     CDS             135855..136202
+                     /locus_tag="EHEL_011220"
+                     /note="similar to ECU01_1310"
+                     /codon_start=1
+                     /product="frataxin"
+                     /protein_id="XP_003886726.1"
+                     /db_xref="GI:401825261"
+                     /db_xref="GeneID:13467229"
+                     /translation="MIHRQALRKEVSKPLYHRLADEALSNLSEHLEDNLCDGYADYKD
+                     GNLQIKVGNVGEYMFNKQPASMQIWASSPITGPRRFDIYRSYEWIDTKNNVTLSKYIE
+                     EELKKIHSKLNSA"
+     gene            complement(<136278..>138866)
+                     /locus_tag="EHEL_011230"
+                     /db_xref="GeneID:13467240"
+     mRNA            complement(<136278..>138866)
+                     /locus_tag="EHEL_011230"
+                     /product="Rho-associated coiled-coil domain-containing
+                     protein kinase"
+                     /transcript_id="XM_003886678.1"
+                     /db_xref="GI:401825262"
+                     /db_xref="GeneID:13467240"
+     CDS             complement(136278..138866)
+                     /locus_tag="EHEL_011230"
+                     /note="similar to ECU01_1320"
+                     /codon_start=1
+                     /product="Rho-associated coiled-coil domain-containing
+                     protein kinase"
+                     /protein_id="XP_003886727.1"
+                     /db_xref="GI:401825263"
+                     /db_xref="GeneID:13467240"
+                     /translation="MEMERINIIGDCLEAVYHEISEKRIGVPLERIKEVIGEKTKPSD
+                     YEIVKNVAKGGYGEVFLVRKEKIYAMKRVSKELVLRQPHTALFMAEKEAMVDCIGSEW
+                     LVCAHMTMQDEEYLYYLMDFIPGGDFMGLLSKEDVLEEDWVKFYAAEIVAALDELHRL
+                     GWIHRDLKPDNILIGSDGHVKLADFGSCIRMKDGKAKSSITVGTPDYVSPDVLCSVNE
+                     ECEYGEDVDFWTLGVIIYEMVYGTTPFYSDTLMETYRRITKAEFGFPFKVSPELTNLI
+                     ESLITTKDKRIKIDDIKGHKFFEGIDWSRLKELRPPFVPEISGDSDTSHFVDTQFDPE
+                     KRNLGVKGNYMPFVGFTFDPGFVSKFCSMIEREGPNCNGEGSKAREYEGALEGLLAEI
+                     SENKEALELQKKELTSVKAELERTRARLEDSKNEVRNRQKELKDVLTQLLSEKEELEE
+                     AKSELERYKSWLRNIAEEASNKAFLSEEYSNAEKRSADGSETSKAGFERRDALLKELS
+                     STVHRAKRETEEILGIFHGLQETMNRFAMENKGLKSEIEVCKEKYQEAFRMKAAVEYE
+                     NKSLTEKLKSEGLDSLKRQLRLRTAEIKEYEQKLNQEILFRKSIEEELNFLKKERTRV
+                     HRVTVRQSFSCHLVSGESIVVRIEEDRLWVGDDAHYISNVYVGELRPNELHHLPQKKI
+                     PMTLRIVFMNEEVKSVSSAGRRSLKSLEEDLNTEMAIKEGIEKIRALLQGKTLEEANM
+                     QLEGSNRKISQLKAEIERSRKSTIVENIPEDPVKIYEFNNHLFATKTLPQGSLCDFCN
+                     EVLYGLVNQGFECRDCKMVVHKSCYVLGDISCELYSALKSGKTYYVTMRTIEEKEKLL
+                     GITKGY"
+     gene            <139219..>139632
+                     /locus_tag="EHEL_011240"
+                     /db_xref="GeneID:13467222"
+     mRNA            <139219..>139632
+                     /locus_tag="EHEL_011240"
+                     /product="transcription initiation factor TFIID subunit
+                     TAF9"
+                     /transcript_id="XM_003886679.1"
+                     /db_xref="GI:401825264"
+                     /db_xref="GeneID:13467222"
+     CDS             139219..139632
+                     /locus_tag="EHEL_011240"
+                     /note="similar to ECU01_1330"
+                     /codon_start=1
+                     /product="transcription initiation factor TFIID subunit
+                     TAF9"
+                     /protein_id="XP_003886728.1"
+                     /db_xref="GI:401825265"
+                     /db_xref="GeneID:13467222"
+                     /translation="MASGENLAPRDAKVISVILRSLGIEECEPKVIIQLLEFAYKYTT
+                     DVLEDALLFAKHADRMHISTSDVKLALQTKVGRHFVPPPPRQYLSDIAAMVNSKPLST
+                     PEGENLIKVPPSSSALLNLDYEVLRKDSDKKRRIY"
+     gene            complement(<139693..>140790)
+                     /locus_tag="EHEL_011250"
+                     /db_xref="GeneID:13467232"
+     mRNA            complement(<139693..>140790)
+                     /locus_tag="EHEL_011250"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886680.1"
+                     /db_xref="GI:401825266"
+                     /db_xref="GeneID:13467232"
+     CDS             complement(139693..140790)
+                     /locus_tag="EHEL_011250"
+                     /note="similar to ECU01_1340"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886729.1"
+                     /db_xref="GI:401825267"
+                     /db_xref="GeneID:13467232"
+                     /translation="MGLLRLFFNALVAHVSGDMASGHGDTSATDGGLAIPTNLNREIL
+                     YESFISIDSLVFISEMNQFTSEYMEEFVKKTVLVAKELLVENSSAFNQFNNYLDKVDG
+                     VGKDLKDALELRNKYFNSDRSTIGKELSAEKYRELRSRTNGRIPKLYYEDKDEEYVQM
+                     MKRLMNAKHEDDGIHKAINREMAEFYGEKTKISKTLVLDSRISLSIGGSIFAPGVLVG
+                     VVKSLAVPNVSEVINRVVPRLVSPCEDLISKMHLKSSTERRSLVMDFLYGCLERRNGL
+                     FKEKIDKAFEERTKILDIYLKGDSKAQEKLRILDKFQEDEINKLISVFKNIRDEDLVL
+                     RIDRPVVDAYINLLKSNQKPAKEHLYDLFKK"
+     gene            complement(<140865..>141455)
+                     /locus_tag="EHEL_011260"
+                     /db_xref="GeneID:13467227"
+     mRNA            complement(<140865..>141455)
+                     /locus_tag="EHEL_011260"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886681.1"
+                     /db_xref="GI:401825268"
+                     /db_xref="GeneID:13467227"
+     CDS             complement(140865..141455)
+                     /locus_tag="EHEL_011260"
+                     /note="similar to ECU01_1350"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886730.1"
+                     /db_xref="GI:401825269"
+                     /db_xref="GeneID:13467227"
+                     /translation="MECPSFYFALGSLFMLGISHSSSHLPLRIVSSTSLLVFVYSRER
+                     ARGIGPNMKIVRHNDFAVLFGFLLFESLFVPKSTGHFVFRVFRAAAACGLIFSTVLFF
+                     ITLRYMADSKAGGRRIQRNGPYRYIRHPLYSSLILYWGSCTVYLSCFVSLAIFLWFVS
+                     NRTIPRIKEHEREMASISSEYTEYKRMVWSGIPMYK"
+     gene            <141648..>142163
+                     /locus_tag="EHEL_011270"
+                     /db_xref="GeneID:13467221"
+     mRNA            <141648..>142163
+                     /locus_tag="EHEL_011270"
+                     /product="putative RNA-binding protein"
+                     /transcript_id="XM_003886682.1"
+                     /db_xref="GI:401825270"
+                     /db_xref="GeneID:13467221"
+     CDS             141648..142163
+                     /locus_tag="EHEL_011270"
+                     /note="similar to ECU01_1360"
+                     /codon_start=1
+                     /product="putative RNA-binding protein"
+                     /protein_id="XP_003886731.1"
+                     /db_xref="GI:401825271"
+                     /db_xref="GeneID:13467221"
+                     /translation="MAKNFKSKKVQKSTETTELGKVLYMCQGQPVVRLTSRDIPYPNS
+                     PVLNLSSRIIGKVDEILGRIDDVHATIKLDNPSGEVNEGETLLSYVDKFIPKRRFLPR
+                     EEVEKRKEEIDRKKSKPKNDHGAERGRSKAFRERQKMHERKPNKKWGAARNGRSESNK
+                     KRDYGRSNRGN"
+     gene            complement(<142205..>143302)
+                     /locus_tag="EHEL_011280"
+                     /db_xref="GeneID:13467217"
+     mRNA            complement(<142205..>143302)
+                     /locus_tag="EHEL_011280"
+                     /product="septin"
+                     /transcript_id="XM_003886683.1"
+                     /db_xref="GI:401825272"
+                     /db_xref="GeneID:13467217"
+     CDS             complement(142205..143302)
+                     /locus_tag="EHEL_011280"
+                     /note="similar to ECU01_1370"
+                     /codon_start=1
+                     /product="septin"
+                     /protein_id="XP_003886732.1"
+                     /db_xref="GI:401825273"
+                     /db_xref="GeneID:13467217"
+                     /translation="MTQKGIGVSNLPNVKYRSFCKAGIDFNMMIVGSNGLGKSSFVNQ
+                     MLGDSVLSTDPFLKDDDVHQGSDSTKALDEDEEHGDKYLHRNSLINVQISKFFVIEKD
+                     FQTRITIAEVDGVGDNVCNEECWVPIVDLIQDNFRDYLEQERRNVRHLIKDKRFHVCL
+                     YFLEPNPSHVKLVDIKTMKEISKMCNLIPVVGKSDLLSDLERQECSNRIAEVLSRENI
+                     DVFHLNIPDKQRIGKSEYPFFVIAKNIVPEDSNRQSREYPWGTMVLEKVGCNDFYLLV
+                     DSLIAKNLIKLVEATEVFYDDYKTKEIGRSIANKSGALGEDDKRLTREIQRKIKEDEK
+                     TISEIRQRLIEKRKYYESKLLEMSANHEGEK"
+     gene            <143736..>145031
+                     /locus_tag="EHEL_011290"
+                     /db_xref="GeneID:13467215"
+     mRNA            <143736..>145031
+                     /locus_tag="EHEL_011290"
+                     /product="glycerophosphoryl diester phosphodiesterase"
+                     /transcript_id="XM_003886684.1"
+                     /db_xref="GI:401825274"
+                     /db_xref="GeneID:13467215"
+     CDS             143736..145031
+                     /locus_tag="EHEL_011290"
+                     /note="similar to ECU01_1380"
+                     /codon_start=1
+                     /product="glycerophosphoryl diester phosphodiesterase"
+                     /protein_id="XP_003886733.1"
+                     /db_xref="GI:401825275"
+                     /db_xref="GeneID:13467215"
+                     /translation="MEQIDWSDPGFFFRDKLKKSSTTVEEEFRKIKTHRSERNKRTSA
+                     SMIFCLVVESSREWKGMYVQATLEGKMFEMKARTEIHPQSFLIVEYNKEPARREPLCV
+                     NIEVWGPEEMISTKRFRILELEQSSKTPISFRIVYEGREEDVGMEVHCLQTNRNASQV
+                     HEDIRVIGHRGCGMNGLPTTKMTENTISSFKEAYRRGARWVETDVQLTKDHVPVIFHD
+                     FVIQTSTSSVGISEITLKEFLHIVGNQDEENCSLPCTLSRLLEQIDDRHGVNIEIKYP
+                     LPSEERRYKLKNLVPVEKVVEKVVEVVQISRRQKVIFSSFHPYVLLMIKLRLPNFGIF
+                     MLTEAKDNGENPYTNTLYDALYFCTKLGLDGVVLDWNCMATNPTDIVKIFKAFDLKTL
+                     VYGDEINDRNVIDTLNQAGVNGIIIDDLELICNAGNRDC"
+     gene            complement(<145077..>147530)
+                     /locus_tag="EHEL_011300"
+                     /db_xref="GeneID:13467230"
+     mRNA            complement(<145077..>147530)
+                     /locus_tag="EHEL_011300"
+                     /product="chitin synthase"
+                     /transcript_id="XM_003886685.1"
+                     /db_xref="GI:401825276"
+                     /db_xref="GeneID:13467230"
+     CDS             complement(145077..147530)
+                     /locus_tag="EHEL_011300"
+                     /note="similar to ECU01_1390"
+                     /codon_start=1
+                     /product="chitin synthase"
+                     /protein_id="XP_003886734.1"
+                     /db_xref="GI:401825277"
+                     /db_xref="GeneID:13467230"
+                     /translation="MLSQGEILRNPSRTRLQKPPKNTSENRGWWYKATIFLTCLIPNF
+                     MLRCFGMKTPEVQHAWREKVALCICIFFCWVVLAFITYGMNTIVCKGNTQYIASNLKK
+                     DSFDGNVVIANGGIYYTEDEYEFGENYTHVFEKNSGACKLAFGKQLGGGTEDIDELER
+                     INDIYWDWGDIMRKGMIVVDNKVYDPSHCSEPLFEEFNSKYAGTEGKPDFGMDEWRCY
+                     QDTFYAGKVATKTPGCLLADTVFWITTISIFGLIITKFSLGFFYSWYVKKRPRPGPNT
+                     TPCILLVTCYSEGRDGIKNTLDSLCKQDYGYDYKMIVVICDGEITGAGNDMSTPDIVL
+                     SLSDVDRNAEPKSYISLTHGSKRHNRAKVYAGYYHVKEEIKSRRYRCWPCFGRQEDTT
+                     EVRNHKTRILIINKCGNPEETFKAGNRGKRDSQVILMSFFSRLIYGDRMTELDFEIYQ
+                     KMKLLMPHIEPEDFECILMVDADTIVKPDALSTMVNVFETDQKVIGICGETMILNKFE
+                     SWVTMIQVFEYYISHHLNKTFESVFGGVTCLPGCFCMYRIKIVTNQQGQLLSGPSKSR
+                     TGAPRFNNVKSILSSSLEKSLCLPILANPAIINAYSVLEAKTLHQKNLLHLGEDRYLT
+                     TLLLKNFYRRKLVFIPAAKCETYVPGEFRVLLSQRRRWINSTIHNLFELVQVNNLCGA
+                     FCFSMQLVVVMELFGTLVLPAAIIFTFVMIAVSILIEPAWVPLIMLVGIFGLPAVLIL
+                     ITTMEVQYVFWCLVYILSIPIWNFVLPTYAFWHFDDFTWGDTRKVDGEGGEDEGGMFD
+                     HTKIRMRELEEFLNEANKC"
+     gene            complement(<147565..>148110)
+                     /locus_tag="EHEL_011310"
+                     /db_xref="GeneID:13467237"
+     mRNA            complement(<147565..>148110)
+                     /locus_tag="EHEL_011310"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_003886686.1"
+                     /db_xref="GI:401825278"
+                     /db_xref="GeneID:13467237"
+     CDS             complement(147565..148110)
+                     /locus_tag="EHEL_011310"
+                     /note="similar to ECU01_1400"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="XP_003886735.1"
+                     /db_xref="GI:401825279"
+                     /db_xref="GeneID:13467237"
+                     /translation="MIEEVYKDLEEIQRDIEREYEEFARKDFECKLEHHKQIRPLLAR
+                     RDRVIASMVPGDYWGRVLGRYEVGETILPRGMNNEVSTGWVRSLRVDYLDGYAYMVEI
+                     EVNENEFVGNSTLRKKAYLFEGEVEKSGVRWKGDRRWPVFEFFETDTADLDVFDILYE
+                     VYVNSVTYFLTSTWESPGIIN"
+     gene            complement(<148141..>149958)
+                     /locus_tag="EHEL_011320"
+                     /db_xref="GeneID:13467238"
+     mRNA            complement(<148141..>149958)
+                     /locus_tag="EHEL_011320"
+                     /product="ATM1 mitochondrial ABC transporter"
+                     /transcript_id="XM_003886687.1"
+                     /db_xref="GI:401825280"
+                     /db_xref="GeneID:13467238"
+     CDS             complement(148141..149958)
+                     /locus_tag="EHEL_011320"
+                     /note="similar to ECU01_1410"
+                     /codon_start=1
+                     /product="ATM1 mitochondrial ABC transporter"
+                     /protein_id="XP_003886736.1"
+                     /db_xref="GI:401825281"
+                     /db_xref="GeneID:13467238"
+                     /translation="MKGISHWTIWRRLFSMARPTSMAEMLVMAALALCIFFGKWLDVA
+                     SIKRRGMIINSLGDVKGVGAVDVSSICSNAMTFFVFRTLSSVLIESKSILFSVIANRI
+                     VEDMTTRVLHLAIHSAHSYEIKPTNLNRVVERGNKKVCKVLGKILTIAVPAFYNLILL
+                     FREVYAMFGTRYFFPALLTVVVYTGYTYVALRIRSRYKRRINHADNLVSKRIHECISN
+                     IDLVRACCCEEMEESRVAEVMRRMWGLKLYDKGCVGVINFGQRTLFTILFVYTVLKGV
+                     QDASASAMAVGDLATLFSFVLSIDTSMWTLGTIARDMGFWMTDCTDLLTLYDGLERDV
+                     EESSGAALQNAARKPGSLWMPEHSKSLSGTGESEGGRGVAAIEFEDVKFSYPRSTGVL
+                     KGLSFRVMRGERVGIIGRSGCGKSTIVKLLLMLHRYSGSIRVYGSEIREMCPRALRSS
+                     IGCILQDALFFDESILYNVRYGNSEAGMSEVLKGCRDAGLCEVIRKKGLDSRMGDLSG
+                     GEAQMACIARCLAKDPPMMLLDEATSKLDGYAEKRVFELLMSLEGKTIVMILHDLWMT
+                     EHMDKIIVVEDGRAVEVGRHCELMEAGGVYWRMKTMGYS"
+     gene            complement(<150026..>151408)
+                     /locus_tag="EHEL_011330"
+                     /db_xref="GeneID:13467223"
+     mRNA            complement(<150026..>151408)
+                     /locus_tag="EHEL_011330"
+                     /product="serine-glycine hydroxymethyltransferase"
+                     /transcript_id="XM_003886688.1"
+                     /db_xref="GI:401825282"
+                     /db_xref="GeneID:13467223"
+     CDS             complement(150026..151408)
+                     /locus_tag="EHEL_011330"
+                     /note="similar to ECU01_1420"
+                     /codon_start=1
+                     /product="serine-glycine hydroxymethyltransferase"
+                     /protein_id="XP_003886737.1"
+                     /db_xref="GI:401825283"
+                     /db_xref="GeneID:13467223"
+                     /translation="MVDAKEKGFWTEAMATSDPELYALIGGEIERQKSTINLIASENY
+                     AHLSVMEASGSVLTNKYSEGKVGGRYYGGTEWVDRIEVLCQKRALDLFSLDPEVWGVN
+                     VQAYSGSPANFAVYTGIVPPGGRIMGLDLPCGGHLTHGYKTKTRKISATSVYFDSKPY
+                     RIGDDGLIDYSGLEKSFMEFLPQILICGYSAYSRDIDYKRLSQIASKNNAFLFADISH
+                     ISPLIASGLMESPFRHCDVVMTTTHKGLRGPRGALIFYRKSVRKGEDVVDLETKINFA
+                     VFPMLQGGPHNHTIAGIASALLHARTPSFAEYTSRVVENSRALCNYLLSLGFEIPTGG
+                     TDNHMFLVDLRSKGVDGSIVEQVCDRLGVSVNRNTVVGDTSPLNPSGIRIGTYAVTAR
+                     GFGTSEMKEVGDIINGIVTLCREMSMGKRMSKAEVEKAVSSKEFMCNGLVVDLRRRIS
+                     NLVEAYPIYR"
+     gene            complement(<151459..>152343)
+                     /locus_tag="EHEL_011340"
+                     /db_xref="GeneID:13467226"
+     mRNA            complement(<151459..>152343)
+                     /locus_tag="EHEL_011340"
+                     /product="thymidylate synthase"
+                     /transcript_id="XM_003886689.1"
+                     /db_xref="GI:401825284"
+                     /db_xref="GeneID:13467226"
+     CDS             complement(151459..152343)
+                     /locus_tag="EHEL_011340"
+                     /note="similar to ECU01_1430"
+                     /codon_start=1
+                     /product="thymidylate synthase"
+                     /protein_id="XP_003886738.1"
+                     /db_xref="GI:401825285"
+                     /db_xref="GeneID:13467226"
+                     /translation="MPQEPRHPERQYLDLVKHILESGVKRMDRTGTGTLSVFGATMRF
+                     SLEDNTFPLLTTKRVFYKGVVEELLFFLRGQTDSKILEKKGVRIWERNGSKEFLQSLG
+                     IDREEGDLGPIYGFQWRHFGAPYETSGSSYEGKGVDQIKDVVDMIRKNPNSRRMVVCA
+                     WNPVALGEMALPPCHVLFQFNVMEGKLNCAMYQRSGDVGLGVPFNIASYSLLTIMVAH
+                     LTGLQPGEFVHFLGDTHIYLDHVDSLRLQLERVPRPFPKLFIRPKESRERLEDFEYED
+                     FLLVGYDPHPPIKMDMSV"
+     gene            complement(<152385..>152999)
+                     /locus_tag="EHEL_011350"
+                     /db_xref="GeneID:13467235"
+     mRNA            complement(<152385..>152999)
+                     /locus_tag="EHEL_011350"
+                     /product="dihydrofolate reductase"
+                     /transcript_id="XM_003886690.1"
+                     /db_xref="GI:401825286"
+                     /db_xref="GeneID:13467235"
+     CDS             complement(152385..152999)
+                     /locus_tag="EHEL_011350"
+                     /note="similar to ECU01_1450"
+                     /codon_start=1
+                     /product="dihydrofolate reductase"
+                     /protein_id="XP_003886739.1"
+                     /db_xref="GI:401825287"
+                     /db_xref="GeneID:13467235"
+                     /translation="MFALIVAFAKNKGIGKNNRLPWPPLRTDMSWFRTLSQSVPLITS
+                     DRIDLSPSSSNAVVMGRKTWDSIPPRFQPLPNRTNIVLSRRPGISTENTLFISAFGDI
+                     EHLRIPSSSMVFVIGGHDIYSLAIQSGRAHIIFATEISESLECDVFFPRIDWDAYERR
+                     DITREVSGLVGKDLADAFYNTEANAFTENGITFKMFIYIKHGAL"
+     gene            <153047..>155644
+                     /locus_tag="EHEL_011360"
+                     /db_xref="GeneID:13467214"
+     mRNA            <153047..>155644
+                     /locus_tag="EHEL_011360"
+                     /product="glutamyl-aminopeptidase"
+                     /transcript_id="XM_003886691.1"
+                     /db_xref="GI:401825288"
+                     /db_xref="GeneID:13467214"
+     CDS             153047..155644
+                     /locus_tag="EHEL_011360"
+                     /note="similar to ECU01_1470"
+                     /codon_start=1
+                     /product="glutamyl-aminopeptidase"
+                     /protein_id="XP_003886740.1"
+                     /db_xref="GI:401825289"
+                     /db_xref="GeneID:13467214"
+                     /translation="MKWIELMIGLMPMIEGRKMEGSSGTEFPRRLDRTVVPSHYDLHV
+                     KVMDTGFCGNVGIRVDISQPVDEIMMNAKELDVLSAGIEIDGRRIDGEVVMGDDEKEY
+                     EVVRIRFPSTIPKGEGYIVGEFCGDYNSGLVGFYKSGGESKVYSTHFEPTDARRVFPC
+                     FDQPDMKATFSISIDAPSNLVVLSNSPSVPSLRKEYGDRAIEYFTKTSKMSTYLVAFV
+                     AGELEYIEDWSKSGVRLRVYGQGKEEASWGRYGLEVAKRCIDYFEEYFGIEYEFPEKG
+                     MAKIDMIGIPSFGSGAMENWGLITFRKESLLYSDGKDSVEQKKNVAETVCHELGHMWF
+                     GNLVTMEWWDDLWLNEGFATWISFKGMSEIGKEYVDWDVEGEFVLWNVIRGMLEDGLG
+                     KSHKIRMEVSDPGEIGEIFDAISYSKGASIIRMVEKYVGESVFMSGIRRYIKEHMYGN
+                     GNGMSLWKAIGESYGKDISSMVEGWISQAGYPVISVSESGENLVLSQRRYSMLGKSDD
+                     SMWIVPVVITWGSGENESIEVGEREVVIPRRSDVYKVNSSYAGFYRVLYEADALRRLE
+                     ERLEEMGDMDRVNMVEDVFGLGFGLYGGIGERLRKIGEYYSDGYCVARSTVEKLMRIR
+                     SVFYDDAEIVSAVDKRVLGLIEERIESIDTSVCETSVERISMNKYLLSVGIEVGSASA
+                     MRKVSELWRRHVEEGAELGELRWIVYKGVVDDNLEHLIGEYKSGRRPGTRWEVISGFS
+                     GIKRKESFAEVVKRLCEFSVEDIGVVIAIICRSGNFRDEMVEYVVSHREELYSMVQKN
+                     VMLYNTIVMSLRHVSSDPMVEKVSEFLSGIKHSGSSLSIEKVRDEIEWRRRMRGVRDE
+                     ILAGLCSSE"
+     gene            157498..158809
+                     /locus_tag="EHEL_011370"
+                     /db_xref="GeneID:13467216"
+     rRNA            157498..158809
+                     /locus_tag="EHEL_011370"
+                     /product="16S ribosomal RNA"
+                     /note="similar to ECU01_0025"
+                     /db_xref="GeneID:13467216"
+     gene            158854..161364
+                     /locus_tag="EHEL_011380"
+                     /db_xref="GeneID:13467224"
+     rRNA            158854..161364
+                     /locus_tag="EHEL_011380"
+                     /product="5.8S-23S ribosomal RNA"
+                     /note="similar to ECU01_0023"
+                     /db_xref="GeneID:13467224"
+CONTIG      join(CP002713.1:1..161584)
+//
+
